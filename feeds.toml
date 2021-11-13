@@ -1,0 +1,29 @@
+[sangsangmadang_show_all]
+title = "상상마당 ─ 공연 ─ 전체"
+url = "https://www.sangsangmadang.com/show/ALL"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[sangsangmadang_show_hd]
+title = "상상마당 ─ 공연 ─ 홍대"
+url = "https://www.sangsangmadang.com/show/ALL?selSpace=HD"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[sangsangmadang_show_cc]
+title = "상상마당 ─ 공연 ─ 춘천"
+url = "https://www.sangsangmadang.com/show/ALL?selSpace=CC"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
