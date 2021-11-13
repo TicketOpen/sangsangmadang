@@ -27,3 +27,23 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+
+[sangsangmadang_show_dc]
+title = "상상마당 ─ 공연 ─ 대치"
+url = "https://www.sangsangmadang.com/show/ALL?selSpace=DC"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[sangsangmadang_show_bs]
+title = "상상마당 ─ 공연 ─ 부산"
+url = "https://www.sangsangmadang.com/show/ALL?selSpace=BS"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
