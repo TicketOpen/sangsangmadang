@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 03:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 04:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,13 +35,22 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202110/3b24f8f6-a869-4ef5-b700-0c1c783eb0f0" length="0" type="image//feah/temp/2021/202110/3b24f8f6-a869-4ef5-b700-0c1c783eb0f0"/>
         </item>
         <item>
+            <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1983</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1983</guid>
+            <pubDate>Wed, 17 Nov 2021 04:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2021.11.24~2021.11.24</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d" length="0" type="image//feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d"/>
+        </item>
+        <item>
             <title><![CDATA[sEODo BAND Concert Episode 1: FrAMe (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1980</link>
             <guid>https://www.sangsangmadang.com/show/detail/1980</guid>
             <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.11.20~2021.11.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/acaa164a-7f06-4315-a3fa-cb3139dc5022" length="0" type="image//feah/temp/2021/202111/acaa164a-7f06-4315-a3fa-cb3139dc5022"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[웃음꽃 가든 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -179,13 +188,13 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[＜음악가의 서평: 차세대＞ (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1954</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1954</guid>
-            <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
+            <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1983</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1983</guid>
+            <pubDate>Wed, 17 Nov 2021 04:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.10.30~2021.10.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+		                                    <span>2021.11.24~2021.11.24</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d" length="0" type="image//feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d"/>
         </item>
         <item>
             <title><![CDATA[웃음꽃 가든 (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -221,7 +230,7 @@
             <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.11.14~2021.11.14</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/d593036b-b677-40e7-84b3-13b27d68b665" length="0" type="image//feah/temp/2021/202111/d593036b-b677-40e7-84b3-13b27d68b665"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[허클베리핀 17th 옐로우 콘서트 (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -356,15 +365,6 @@
             <pubDate>Sat, 13 Nov 2021 14:45:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.07.25~2021.07.25</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 쇼케이스 [해비치] (상상마당 ─ 공연 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1913</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1913</guid>
-            <pubDate>Sat, 13 Nov 2021 14:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.07.24~2021.07.24</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
