@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 04:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1983</link>
             <guid>https://www.sangsangmadang.com/show/detail/1983</guid>
-            <pubDate>Wed, 17 Nov 2021 04:05:55 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 04:05:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.11.24~2021.11.24</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d" length="0" type="image//feah/temp/2021/202111/4572054b-2238-444e-8d5e-b17b1bee778d"/>
