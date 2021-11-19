@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 03:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 04:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,13 +35,22 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/2d4888e1-073f-4a22-87f3-056c93388647" length="0" type="image//feah/temp/2021/202111/2d4888e1-073f-4a22-87f3-056c93388647"/>
         </item>
         <item>
+            <title><![CDATA[WHY NOT 보수동쿨러?]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1988</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1988</guid>
+            <pubDate>Fri, 19 Nov 2021 04:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3F 라이브홀</span>
+		                                    <span>2021.12.04~2021.12.04</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851" length="0" type="image//feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851"/>
+        </item>
+        <item>
             <title><![CDATA[Play NuPlay [＃1 일단 공연 올때 다 알려줌（19금）]]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1984</link>
             <guid>https://www.sangsangmadang.com/show/detail/1984</guid>
             <pubDate>Thu, 18 Nov 2021 07:04:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.12.01~2021.12.01</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/c757060f-9d02-49c4-9b88-266e2046c5c4" length="0" type="image//feah/temp/2021/202111/c757060f-9d02-49c4-9b88-266e2046c5c4"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 여정]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.11.10~2021.11.10</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 <위에서 그러했듯이 아래에서도>]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1956</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1956</guid>
-            <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.11.05~2021.11.06</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
