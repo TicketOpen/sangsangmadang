@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 춘천</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 <위에서 그러했듯이 아래에서도>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1990</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1990</guid>
+            <pubDate>Wed, 24 Nov 2021 09:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
+		                                    <span>2021.11.27~2021.11.28</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4" length="0" type="image//feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4"/>
+        </item>
         <item>
             <title><![CDATA[SSHOW.BOX #3 차빛나]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1974</link>
@@ -41,7 +50,7 @@
             <pubDate>Sat, 13 Nov 2021 14:45:59 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.09.17~2021.09.17</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202108/8552e156-b2f4-4970-acc6-c20c35569a9b" length="0" type="image//feah/temp/2021/202108/8552e156-b2f4-4970-acc6-c20c35569a9b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Ether Mini Festival]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 13 Nov 2021 14:45:59 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2021.03.25~2021.04.02</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[춘춘해드립니다]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1857</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1857</guid>
-            <pubDate>Sat, 13 Nov 2021 14:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span>상상마당춘천 아트센터 </span>
-		                                    <span>2021.03.24~2021.04.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
