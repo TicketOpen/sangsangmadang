@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:05:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[쏜애플 콘서트 <위에서 그러했듯이 아래에서도> (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1990</link>
             <guid>https://www.sangsangmadang.com/show/detail/1990</guid>
-            <pubDate>Wed, 24 Nov 2021 09:04:48 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 09:03:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.11.27~2021.11.28</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4" length="0" type="image//feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4"/>
