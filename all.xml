@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 10:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 11:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[박달나무 첫번째 연주회 [ 檀 ] (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1991</link>
             <guid>https://www.sangsangmadang.com/show/detail/1991</guid>
-            <pubDate>Tue, 30 Nov 2021 10:04:08 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 10:03:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.11.30~2021.12.04</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/db0c85d8-ce09-4458-b851-aba185651674" length="0" type="image//feah/temp/2021/202111/db0c85d8-ce09-4458-b851-aba185651674"/>
