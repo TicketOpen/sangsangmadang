@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 09:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,13 +35,22 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/728b7ac3-692a-4217-99da-beee9a1916d3" length="0" type="image//feah/temp/2021/202112/728b7ac3-692a-4217-99da-beee9a1916d3"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <스노우데이> (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1994</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1994</guid>
+            <pubDate>Fri, 03 Dec 2021 09:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트홀</span>
+		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52" length="0" type="image//feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52"/>
+        </item>
+        <item>
             <title><![CDATA[WHY NOT 보수동쿨러? (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1988</link>
             <guid>https://www.sangsangmadang.com/show/detail/1988</guid>
             <pubDate>Fri, 19 Nov 2021 04:04:53 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.12.04~2021.12.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851" length="0" type="image//feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[박달나무 첫번째 연주회 [ 檀 ] (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -179,19 +188,10 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[임헌일 단독공연 SUNSET (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1946</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1946</guid>
-            <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.11.11~2021.11.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[정우의 [ Frame ] (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1993</link>
             <guid>https://www.sangsangmadang.com/show/detail/1993</guid>
-            <pubDate>Fri, 03 Dec 2021 08:05:27 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 08:05:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.12.30~2021.12.30</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/23f1f30c-05b1-4d90-8e68-a6fa2194a978" length="0" type="image//feah/temp/2021/202112/23f1f30c-05b1-4d90-8e68-a6fa2194a978"/>
@@ -548,6 +548,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <스노우데이> (상상마당 ─ 공연 ─ 대치)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1994</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1994</guid>
+            <pubDate>Fri, 03 Dec 2021 09:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트홀</span>
+		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52" length="0" type="image//feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52"/>
+        </item>
+        <item>
             <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 여정 (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1951</link>
             <guid>https://www.sangsangmadang.com/show/detail/1951</guid>
@@ -581,7 +590,7 @@
             <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.11.18~2021.11.18</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/9da8a636-5f5c-4127-a205-a42cea31a2f2" length="0" type="image//feah/temp/2021/202111/9da8a636-5f5c-4127-a205-a42cea31a2f2"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2021 Heartpresso DUET LIVE：Time To Fall Letter (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -716,15 +725,6 @@
             <pubDate>Sat, 13 Nov 2021 14:47:10 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2019.11.23~2019.12.29</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈왕복서간往復書簡:십오 년 뒤의 보충수업〉 (상상마당 ─ 공연 ─ 대치)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1563</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1563</guid>
-            <pubDate>Sat, 13 Nov 2021 14:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2019.10.02~2019.11.17</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
