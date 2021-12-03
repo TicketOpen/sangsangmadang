@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 09:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 10:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -551,7 +551,7 @@
             <title><![CDATA[가족뮤지컬 <스노우데이> (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1994</link>
             <guid>https://www.sangsangmadang.com/show/detail/1994</guid>
-            <pubDate>Fri, 03 Dec 2021 09:05:25 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 09:03:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52" length="0" type="image//feah/temp/2021/202112/ee30d640-7386-4738-81aa-53db141d4d52"/>
