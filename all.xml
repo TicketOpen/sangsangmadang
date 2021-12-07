@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[The ㅅ Concert (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1996</link>
             <guid>https://www.sangsangmadang.com/show/detail/1996</guid>
-            <pubDate>Tue, 07 Dec 2021 08:08:33 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 08:06:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.12.24~2021.12.26</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/77d3dd00-5a85-40e6-b45b-b820fd3eeed2" length="0" type="image//feah/temp/2021/202112/77d3dd00-5a85-40e6-b45b-b820fd3eeed2"/>
