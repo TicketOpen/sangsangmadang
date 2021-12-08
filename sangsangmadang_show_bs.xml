@@ -4,18 +4,9 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 01:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The ㅅ Concert]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1997</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1997</guid>
-            <pubDate>Wed, 08 Dec 2021 01:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.12.24~2021.12.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/77d3dd00-5a85-40e6-b45b-b820fd3eeed2" length="0" type="image//feah/temp/2021/202112/77d3dd00-5a85-40e6-b45b-b820fd3eeed2"/>
-        </item>
         <item>
             <title><![CDATA[The ㅅ Concert]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1996</link>
@@ -50,7 +41,7 @@
             <pubDate>Sat, 13 Nov 2021 14:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.11.05~2021.11.06</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202110/d319f0c1-013e-496c-b83b-b120a1dda2dd" length="0" type="image//feah/temp/2021/202110/d319f0c1-013e-496c-b83b-b120a1dda2dd"/>
         </item>
         <item>
             <title><![CDATA[상상라이브연습실 The Solo 2 Concert]]></title>
@@ -185,6 +176,15 @@
             <pubDate>Sat, 13 Nov 2021 14:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2020.10.27~2020.11.11</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[아폴로 부산]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1813</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1813</guid>
+            <pubDate>Wed, 08 Dec 2021 02:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3F 라이브홀</span>
+		                                    <span>2020.10.24~2020.10.24</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
