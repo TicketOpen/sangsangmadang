@@ -38,6 +38,16 @@ contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
 
+[show_bs]
+title = "상상마당 ─ 공연 ─ 부산"
+url = "https://www.sangsangmadang.com/show/ALL?selSpace=BS"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
 [display]
 title = "상상마당 ─ 전시"
 url = "https://www.sangsangmadang.com/display/displayInfo/ALL"
@@ -71,6 +81,16 @@ waitUntil = "networkidle"
 [display_dc]
 title = "상상마당 ─ 전시 ─ 대치"
 url = "https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=DC"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[display_bs]
+title = "상상마당 ─ 전시 ─ 부산"
+url = "https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=BS"
 entrySelector = "ul.gallery_list.type2.movie_list li"
 titleSelector = "h4"
 linkSelector = "a.thumb_type2"
