@@ -47,3 +47,33 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+
+[display_hd]
+title = "상상마당 ─ 전시 ─ 홍대"
+url = "https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=HD"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[display_cc]
+title = "상상마당 ─ 전시 ─ 춘천"
+url = "https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=CC"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+
+[display_dc]
+title = "상상마당 ─ 전시 ─ 대치"
+url = "https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=DC"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
