@@ -7,6 +7,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [show_hd]
 title = "상상마당 ─ 공연 ─ 홍대"
@@ -17,6 +18,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [show_cc]
 title = "상상마당 ─ 공연 ─ 춘천"
@@ -27,6 +29,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [show_dc]
 title = "상상마당 ─ 공연 ─ 대치"
@@ -37,6 +40,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [show_bs]
 title = "상상마당 ─ 공연 ─ 부산"
@@ -47,6 +51,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [display]
 title = "상상마당 ─ 전시"
@@ -57,6 +62,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [display_hd]
 title = "상상마당 ─ 전시 ─ 홍대"
@@ -67,6 +73,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [display_cc]
 title = "상상마당 ─ 전시 ─ 춘천"
@@ -77,6 +84,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [display_dc]
 title = "상상마당 ─ 전시 ─ 대치"
@@ -87,6 +95,7 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [display_bs]
 title = "상상마당 ─ 전시 ─ 부산"
@@ -97,3 +106,4 @@ linkSelector = "a.thumb_type2"
 contentSelector = "div.detail"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
+onFail = "stale"
