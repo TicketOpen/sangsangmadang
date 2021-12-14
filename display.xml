@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 01:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT&G 상상마당과 함께하는 위드굿즈(With Goods)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2004</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2004</guid>
+            <pubDate>Tue, 14 Dec 2021 02:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라운지</span> 
+											<span>2021.12.15~2022.01.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/1c5ae2d9-ab70-4957-bc70-d4eb990990dc" length="0" type="image//feah/temp/2021/202112/1c5ae2d9-ab70-4957-bc70-d4eb990990dc"/>
+        </item>
         <item>
             <title><![CDATA[<소장품 산책>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/1999</link>
@@ -41,7 +50,7 @@
             <pubDate>Sat, 11 Dec 2021 22:42:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
 											<span>2021.12.04~2022.02.02</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/3fdbc757-a75a-471d-861b-3f34870d5407" length="0" type="image//feah/temp/2021/202112/3fdbc757-a75a-471d-861b-3f34870d5407"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제 4회 <Over the Rainbow>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 11 Dec 2021 22:42:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>2F 디자인 스퀘어</span> 
 											<span>2021.10.01~2021.11.28</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[정찬민 개인전 <우린 결국 닮은 모양>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1933</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1933</guid>
-            <pubDate>Sat, 11 Dec 2021 22:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2021.09.28~2021.10.09</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
