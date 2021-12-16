@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 03:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2007</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2007</guid>
+            <pubDate>Thu, 16 Dec 2021 03:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2022.01.08~2022.01.15</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/498962da-39bc-480a-812f-cbb69126a045" length="0" type="image//feah/temp/2021/202112/498962da-39bc-480a-812f-cbb69126a045"/>
+        </item>
         <item>
             <title><![CDATA[Thumbs UP! with 이정권]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1998</link>
@@ -41,7 +50,7 @@
             <pubDate>Sat, 11 Dec 2021 22:41:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.12.19~2021.12.19</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/e3e0bb4b-4d8f-4221-acc4-20859debee8a" length="0" type="image//feah/temp/2021/202112/e3e0bb4b-4d8f-4221-acc4-20859debee8a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<이소정 콘서트> 겨울 꽃, 피다]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 11 Dec 2021 22:41:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.10.30~2021.10.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가레코드 레이블 콘서트 Vol. 4 앵콜 조인트 공연]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1955</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1955</guid>
-            <pubDate>Sat, 11 Dec 2021 22:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.10.27~2021.10.27</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
