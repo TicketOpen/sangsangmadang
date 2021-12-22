@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 10:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 11:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶이 흐르는 강 메콩]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2012</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2012</guid>
+            <pubDate>Wed, 22 Dec 2021 11:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2021.12.15~2022.01.16</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/fc372e0e-f8d5-4259-a9e7-2a6c6efd16aa" length="0" type="image//feah/temp/2021/202112/fc372e0e-f8d5-4259-a9e7-2a6c6efd16aa"/>
+        </item>
         <item>
             <title><![CDATA[KT&G 상상마당과 함께하는 위드굿즈(With Goods)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2004</link>
@@ -41,7 +50,7 @@
             <pubDate>Sat, 11 Dec 2021 22:50:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.11.02~2021.11.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/7400ad6e-7c5f-44de-9784-746998f91728" length="0" type="image//feah/temp/2021/202111/7400ad6e-7c5f-44de-9784-746998f91728"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<제 4회 오버 더 레인보우>(Over the Rainbow)]]></title>
@@ -175,15 +184,6 @@
             <guid>https://www.sangsangmadang.com/display/detail/1500</guid>
             <pubDate>Sat, 11 Dec 2021 22:50:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리 4F</span> 
-											<span>2019.09.27~2019.10.20</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[고성 개인전 <그림자들 헤아리다 지문이 거멓다>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1572</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1572</guid>
-            <pubDate>Sat, 11 Dec 2021 22:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리 5F</span> 
 											<span>2019.09.27~2019.10.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
