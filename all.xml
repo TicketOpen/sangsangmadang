@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[PiRi Story (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2013</link>
             <guid>https://www.sangsangmadang.com/show/detail/2013</guid>
-            <pubDate>Tue, 28 Dec 2021 04:06:07 GMT</pubDate>
+            <pubDate>Tue, 28 Dec 2021 04:05:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.12.30~2021.12.30</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/1e5d8238-04c2-487a-bd37-4ae4aac09e4f" length="0" type="image//feah/temp/2021/202112/1e5d8238-04c2-487a-bd37-4ae4aac09e4f"/>
