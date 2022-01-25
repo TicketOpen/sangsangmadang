@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 03:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 상생 공연 대관료 지원 프로그램]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2016</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2016</guid>
+            <pubDate>Tue, 25 Jan 2022 03:05:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2022.01.20~2022.04.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202201/85a84ea6-a02b-4751-a563-313b1125d5cc" length="0" type="image//feah/temp/2022/202201/85a84ea6-a02b-4751-a563-313b1125d5cc"/>
+        </item>
         <item>
             <title><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?>]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2007</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 14 Dec 2021 01:55:50 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.12.21~2021.12.21</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/e1f9eef7-7362-4a0c-b068-8160749f3fa8" length="0" type="image//feah/temp/2021/202112/e1f9eef7-7362-4a0c-b068-8160749f3fa8"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[WHY NOT 보수동쿨러？]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 11 Dec 2021 22:41:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>공식 유튜브 채널</span>
 		                                    <span>2021.11.02~2021.11.02</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[＜음악가의 서평: 차세대＞]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1954</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1954</guid>
-            <pubDate>Sat, 11 Dec 2021 22:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.10.30~2021.10.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
