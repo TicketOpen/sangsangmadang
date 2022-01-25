@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[2022년 상생 공연 대관료 지원 프로그램 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2016</link>
             <guid>https://www.sangsangmadang.com/show/detail/2016</guid>
-            <pubDate>Tue, 25 Jan 2022 03:05:00 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 03:04:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.01.20~2022.04.30</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202201/85a84ea6-a02b-4751-a563-313b1125d5cc" length="0" type="image//feah/temp/2022/202201/85a84ea6-a02b-4751-a563-313b1125d5cc"/>
