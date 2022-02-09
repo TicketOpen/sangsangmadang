@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOTONGSARAM vol. 2 – 일상의 기록]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2017</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2017</guid>
+            <pubDate>Wed, 09 Feb 2022 09:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.02.14~2022.03.11</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/d9b8437e-9efe-4a61-a424-f4d950a95b98" length="0" type="image//feah/temp/2022/202202/d9b8437e-9efe-4a61-a424-f4d950a95b98"/>
+        </item>
         <item>
             <title><![CDATA[흥,행]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2015</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>라운지</span> 
 											<span>2021.12.15~2022.01.25</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/1c5ae2d9-ab70-4957-bc70-d4eb990990dc" length="0" type="image//feah/temp/2021/202112/1c5ae2d9-ab70-4957-bc70-d4eb990990dc"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<소장품 산책>]]></title>
@@ -125,15 +134,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[김병호 개인전 <번역된 일상성>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1970</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1970</guid>
-            <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[<제4회 오버 더 레인보우>(Over the Rainbow)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/1960</link>
             <guid>https://www.sangsangmadang.com/display/detail/1960</guid>
@@ -148,6 +148,15 @@
             <guid>https://www.sangsangmadang.com/display/detail/1961</guid>
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>4F 갤러리</span> 
+											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[김병호 개인전 <번역된 일상성>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1970</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1970</guid>
+            <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2021.10.20~2021.10.25</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[KT＆G SKOPF 신소장품전 PIC]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1944</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1944</guid>
-            <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
-											<span>2021.10.15~2021.10.31</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
