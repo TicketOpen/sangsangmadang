@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 03:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 04:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -551,7 +551,7 @@
             <title><![CDATA[안단테 팬미팅 (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2020</link>
             <guid>https://www.sangsangmadang.com/show/detail/2020</guid>
-            <pubDate>Fri, 18 Feb 2022 03:06:58 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 03:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.03.13~2022.03.13</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c" length="0" type="image//feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c"/>
