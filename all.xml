@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 22:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 23:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <pubDate>Wed, 02 Mar 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.03.26~2022.03.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161" length="0" type="image//feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 Burn in my youth］ (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -41,7 +41,7 @@
             <pubDate>Fri, 18 Feb 2022 03:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.03.13~2022.03.13</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c" length="0" type="image//feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2022년 상생 공연 대관료 지원 프로그램 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -203,7 +203,7 @@
             <pubDate>Wed, 02 Mar 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.03.26~2022.03.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161" length="0" type="image//feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 Burn in my youth］ (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -374,7 +374,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.12.30~2021.12.30</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/1e5d8238-04c2-487a-bd37-4ae4aac09e4f" length="0" type="image//feah/temp/2021/202112/1e5d8238-04c2-487a-bd37-4ae4aac09e4f"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[박달나무 첫번째 연주회 [ 檀 ] (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -392,7 +392,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.11.27~2021.11.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4" length="0" type="image//feah/temp/2021/202111/fb1531b6-c127-4674-9466-bec721e098d4"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[SSHOW.BOX #3 차빛나 (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -401,7 +401,7 @@
             <pubDate>Tue, 01 Feb 2022 11:03:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>상상마당춘천 아트센터 사운드홀</span>
 		                                    <span>2021.11.01~2021.11.19</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/fa96dbc1-a267-4f7f-b047-a05580be5d40" length="0" type="image//feah/temp/2021/202111/fa96dbc1-a267-4f7f-b047-a05580be5d40"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[persona [페르소나] (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -554,7 +554,7 @@
             <pubDate>Fri, 18 Feb 2022 03:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.03.13~2022.03.13</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c" length="0" type="image//feah/temp/2022/202202/df541647-c92e-4218-95a2-62ff0d14d84c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<제5회 상상 스테이지 챌린지> 공모 (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -572,7 +572,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202201/52831d87-5459-4287-9dd1-2f216afd7f2c" length="0" type="image//feah/temp/2022/202201/52831d87-5459-4287-9dd1-2f216afd7f2c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 여정 (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -581,7 +581,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.11.28~2021.11.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202110/29d56810-16b6-4f07-a58d-566f3f5f5612" length="0" type="image//feah/temp/2021/202110/29d56810-16b6-4f07-a58d-566f3f5f5612"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2021 최정철 콘서트 '재회' (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -734,7 +734,7 @@
             <pubDate>Tue, 07 Dec 2021 08:06:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.12.24~2021.12.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/8960b0cc-16b1-4c23-b89c-14792fdb0e94" length="0" type="image//feah/temp/2021/202112/8960b0cc-16b1-4c23-b89c-14792fdb0e94"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[WHY NOT 보수동쿨러? (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -743,7 +743,7 @@
             <pubDate>Fri, 19 Nov 2021 04:04:53 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.12.04~2021.12.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851" length="0" type="image//feah/temp/2021/202111/800a68d6-5912-4d0b-bd25-720bf2f6d851"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[인디 온 스포트라이트2 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -752,7 +752,7 @@
             <pubDate>Sat, 13 Nov 2021 14:45:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.11.27~2021.11.27</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/d7d8c933-e0e4-4dc9-b3c5-ad8e15f858a5" length="0" type="image//feah/temp/2021/202111/d7d8c933-e0e4-4dc9-b3c5-ad8e15f858a5"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 <위에서 그러했듯이 아래에서도> (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -761,7 +761,7 @@
             <pubDate>Wed, 02 Feb 2022 02:22:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.11.05~2021.11.06</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202110/d319f0c1-013e-496c-b83b-b120a1dda2dd" length="0" type="image//feah/temp/2021/202110/d319f0c1-013e-496c-b83b-b120a1dda2dd"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상라이브연습실 The Solo 2 Concert (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -905,7 +905,7 @@
             <pubDate>Fri, 11 Feb 2022 08:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.02.17~2022.03.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/5aa68eb1-70f6-4a5a-bc8f-9d469b260cc5" length="0" type="image//feah/temp/2022/202202/5aa68eb1-70f6-4a5a-bc8f-9d469b260cc5"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[BOTONGSARAM vol. 2 – 일상의 기록 (상상마당 ─ 전시)]]></title>
@@ -1085,7 +1085,7 @@
             <pubDate>Fri, 11 Feb 2022 08:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.02.17~2022.03.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/5aa68eb1-70f6-4a5a-bc8f-9d469b260cc5" length="0" type="image//feah/temp/2022/202202/5aa68eb1-70f6-4a5a-bc8f-9d469b260cc5"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[삶이 흐르는 강 메콩 (상상마당 ─ 전시 ─ 홍대)]]></title>
@@ -1112,7 +1112,7 @@
             <pubDate>Tue, 01 Feb 2022 07:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.12.09~2021.12.12</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/9dc3d5fe-4e10-4e7d-bd90-beb9fc11485b" length="0" type="image//feah/temp/2021/202112/9dc3d5fe-4e10-4e7d-bd90-beb9fc11485b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[하연수 개인전 <기억의 형상 The Form of Memory> (상상마당 ─ 전시 ─ 홍대)]]></title>
@@ -1265,7 +1265,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2021.12.22~2021.12.25</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/1cab7b7c-3c3c-4961-a552-00663eb008fd" length="0" type="image//feah/temp/2021/202112/1cab7b7c-3c3c-4961-a552-00663eb008fd"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<소장품 산책> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1274,7 +1274,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 3 (KT&amp;G 상상마당 춘천 상상스테이 B1)</span> 
 											<span>2021.12.10~2022.03.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/f605c271-3215-45f1-a2a1-0d312be9cb93" length="0" type="image//feah/temp/2021/202112/f605c271-3215-45f1-a2a1-0d312be9cb93"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제 4회 <Over the Rainbow> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1472,7 +1472,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.11.08~2021.12.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/a3f50470-3f3b-46fc-adff-036a7686f0f0" length="0" type="image//feah/temp/2021/202111/a3f50470-3f3b-46fc-adff-036a7686f0f0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[내 이름 쓸 수 이따 (상상마당 ─ 전시 ─ 대치)]]></title>
@@ -1634,7 +1634,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
 											<span>2021.12.08~2022.03.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/912dbdff-6134-441a-8da3-cedd7c1755ee" length="0" type="image//feah/temp/2021/202111/912dbdff-6134-441a-8da3-cedd7c1755ee"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[3rd 워너비 컬렉터 <에어슬랜드 : 팝업 갤러리> (상상마당 ─ 전시 ─ 부산)]]></title>
