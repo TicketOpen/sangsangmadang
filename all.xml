@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 06:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 07:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[인디 온 스포트라이트 3 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2026</link>
             <guid>https://www.sangsangmadang.com/show/detail/2026</guid>
-            <pubDate>Sun, 06 Mar 2022 06:08:24 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 06:06:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.03.26~2022.03.26</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/d4879b1f-1afc-4c9e-9c86-e8d5431812fb" length="0" type="image//feah/temp/2022/202203/d4879b1f-1afc-4c9e-9c86-e8d5431812fb"/>
