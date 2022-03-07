@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 04:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2029</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2029</guid>
+            <pubDate>Mon, 07 Mar 2022 05:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 대치아트홀</span>
+		                                    <span>2022.04.09~2022.05.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7" length="0" type="image//feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7"/>
+        </item>
         <item>
             <title><![CDATA[9와 숫자들 Blue Concert Tour－서울 (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2028</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 02 Mar 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.03.26~2022.03.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161" length="0" type="image//feah/temp/2022/202203/70137100-27dc-4138-b5c3-5e3e1ee09161"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2022 줄리아드림 첫번째 콘서트 ［Could not say］ (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 23 Nov 2021 05:03:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2021.12.17~2021.12.17</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[잠비나이 단독공연 New songs Premiere (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1992</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1992</guid>
-            <pubDate>Thu, 02 Dec 2021 04:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2021.12.10~2021.12.11</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -548,6 +548,24 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> (상상마당 ─ 공연 ─ 대치)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2030</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2030</guid>
+            <pubDate>Mon, 07 Mar 2022 05:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 대치아트홀</span>
+		                                    <span>2022.04.09~2022.05.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7" length="0" type="image//feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> (상상마당 ─ 공연 ─ 대치)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2029</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2029</guid>
+            <pubDate>Mon, 07 Mar 2022 05:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 대치아트홀</span>
+		                                    <span>2022.04.09~2022.05.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7" length="0" type="image//feah/temp/2022/202203/d6271520-df0c-43a1-8cb0-2252c0e609f7"/>
+        </item>
+        <item>
             <title><![CDATA[안단테 팬미팅 (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2020</link>
             <guid>https://www.sangsangmadang.com/show/detail/2020</guid>
@@ -572,7 +590,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202201/52831d87-5459-4287-9dd1-2f216afd7f2c" length="0" type="image//feah/temp/2022/202201/52831d87-5459-4287-9dd1-2f216afd7f2c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 여정 (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -581,7 +599,7 @@
             <pubDate>Tue, 01 Feb 2022 10:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2021.11.28~2021.11.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202110/29d56810-16b6-4f07-a58d-566f3f5f5612" length="0" type="image//feah/temp/2021/202110/29d56810-16b6-4f07-a58d-566f3f5f5612"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2021 최정철 콘서트 '재회' (상상마당 ─ 공연 ─ 대치)]]></title>
@@ -707,24 +725,6 @@
             <pubDate>Thu, 03 Mar 2022 14:04:43 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2020.08.07~2020.08.16</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <로빈> (상상마당 ─ 공연 ─ 대치)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1746</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1746</guid>
-            <pubDate>Thu, 03 Mar 2022 14:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2020.05.01~2020.08.02</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <로빈> (상상마당 ─ 공연 ─ 대치)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1713</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1713</guid>
-            <pubDate>Thu, 03 Mar 2022 14:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2020.03.10~2020.03.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
