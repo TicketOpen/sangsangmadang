@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[9와 숫자들 Blue Concert Tour－서울 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2028</link>
             <guid>https://www.sangsangmadang.com/show/detail/2028</guid>
-            <pubDate>Mon, 07 Mar 2022 03:06:20 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 03:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.04.09~2022.04.09</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/2c14d99b-f218-4ba3-b08c-62966fd8ea31" length="0" type="image//feah/temp/2022/202203/2c14d99b-f218-4ba3-b08c-62966fd8ea31"/>
@@ -218,7 +218,7 @@
             <title><![CDATA[2022 줄리아드림 첫번째 콘서트 ［Could not say］ (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2027</link>
             <guid>https://www.sangsangmadang.com/show/detail/2027</guid>
-            <pubDate>Mon, 07 Mar 2022 03:06:20 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 03:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.03.19~2022.03.19</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/065bdc5a-0b05-4283-af9a-74472f293c53" length="0" type="image//feah/temp/2022/202203/065bdc5a-0b05-4283-af9a-74472f293c53"/>
