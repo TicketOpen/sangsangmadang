@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,7 +560,7 @@
             <title><![CDATA[창작뮤지컬 <경인선> (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2031</link>
             <guid>https://www.sangsangmadang.com/show/detail/2031</guid>
-            <pubDate>Tue, 08 Mar 2022 09:05:57 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 09:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.03.25~2022.03.27</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/2b3cb5e3-49e7-4cac-8c28-7c262b53099b" length="0" type="image//feah/temp/2022/202203/2b3cb5e3-49e7-4cac-8c28-7c262b53099b"/>
