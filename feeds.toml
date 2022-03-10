@@ -129,3 +129,26 @@ contentSelector = "div.info"
 imageSelector = "img.lazy"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[lec_cc]
+title = "상상마당 ─ 아카데미 ─ 춘천"
+url = "https://www.sangsangmadang.com/lec/ALL?selSpace=CC"
+entrySelector = "ul.gallery_list.type2 li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.info"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[lec_bs]
+title = "상상마당 ─ 아카데미 ─ 부산"
+url = "https://www.sangsangmadang.com/lec/ALL?selSpace=BS"
+entrySelector = "ul.gallery_list.type2 li"
+titleSelector = "h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.info"
+imageSelector = "img.lazy"
+waitUntil = "networkidle"
+onFail = "stale"
+
