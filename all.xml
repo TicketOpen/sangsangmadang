@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 02:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,7 +209,7 @@
             <title><![CDATA[Blast from the past (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2034</link>
             <guid>https://www.sangsangmadang.com/show/detail/2034</guid>
-            <pubDate>Thu, 10 Mar 2022 02:12:10 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 02:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.04.02~2022.04.02</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/cdfd5507-012f-451d-878f-22395cf58d68" length="0" type="image//feah/temp/2022/202203/cdfd5507-012f-451d-878f-22395cf58d68"/>
