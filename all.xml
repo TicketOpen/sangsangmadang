@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -917,6 +917,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/d1c0b319-142e-4b89-9a6b-0e59f05a99ce" length="0" type="image//feah/temp/2022/202203/d1c0b319-142e-4b89-9a6b-0e59f05a99ce"/>
         </item>
         <item>
+            <title><![CDATA[2022 미술대학 예비작가 지원전시 <제2회 ARTISTART> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2038</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2038</guid>
+            <pubDate>Mon, 21 Mar 2022 02:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c" length="0" type="image//feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c"/>
+        </item>
+        <item>
             <title><![CDATA[Stop & Relax : 비로소 마주보다 (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2024</link>
             <guid>https://www.sangsangmadang.com/display/detail/2024</guid>
@@ -941,7 +950,7 @@
             <pubDate>Wed, 09 Feb 2022 09:05:44 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.02.14~2022.03.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202202/d9b8437e-9efe-4a61-a424-f4d950a95b98" length="0" type="image//feah/temp/2022/202202/d9b8437e-9efe-4a61-a424-f4d950a95b98"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[4th 워너비 컬렉터 <유미의세포들 : 팝업갤러리> (상상마당 ─ 전시)]]></title>
@@ -1075,15 +1084,6 @@
             <guid>https://www.sangsangmadang.com/display/detail/1960</guid>
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>5F 갤러리</span> 
-											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상마당 부산 현상인화실 성과물전시 : <제1회 VIEWFINDER> (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1961</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1961</guid>
-            <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4F 갤러리</span> 
 											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -1628,6 +1628,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[2022 미술대학 예비작가 지원전시 <제2회 ARTISTART> (상상마당 ─ 전시 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2038</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2038</guid>
+            <pubDate>Mon, 21 Mar 2022 02:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c" length="0" type="image//feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c"/>
+        </item>
+        <item>
             <title><![CDATA[4th 워너비 컬렉터 <유미의세포들 : 팝업갤러리> (상상마당 ─ 전시 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2019</link>
             <guid>https://www.sangsangmadang.com/display/detail/2019</guid>
@@ -1661,7 +1670,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>4F 갤러리</span> 
 											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/6b8b1970-ea97-4251-a420-c2951f5e4936" length="0" type="image//feah/temp/2021/202111/6b8b1970-ea97-4251-a420-c2951f5e4936"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<제4회 오버 더 레인보우>(Over the Rainbow) (상상마당 ─ 전시 ─ 부산)]]></title>
