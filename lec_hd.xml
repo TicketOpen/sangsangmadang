@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 05:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,39 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/c56017b6-1a1f-4a52-b934-abb656292bcb" length="0" type="image//feah/temp/2021/202112/c56017b6-1a1f-4a52-b934-abb656292bcb"/>
+        </item>
+        <item>
+            <title><![CDATA[마음대로 읽고 아무렇게나 쓰기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1718</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1718</guid>
+            <pubDate>Fri, 01 Apr 2022 05:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>마음대로 읽고 아무렇게나 쓰기</h4>
+										<p class="detail">
+											<span>김보라</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.04.01~2022.04.27</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.04.30~2022.05.28<br>
+													(매주 토, 
+													
+														10:00~13:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/7a4d96e1-9ae2-408d-8c69-70e037812c19" length="0" type="image//feah/temp/2021/202112/7a4d96e1-9ae2-408d-8c69-70e037812c19"/>
         </item>
         <item>
             <title><![CDATA[오프라인 대면 강의 목록]]></title>
@@ -137,7 +170,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/5757a1fe-2c1f-404c-88dc-927d9632d360" length="0" type="image//feah/temp/2022/202203/5757a1fe-2c1f-404c-88dc-927d9632d360"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[[1DAY] Spring of Blue]]></title>
@@ -627,39 +660,6 @@
 													(매주 토, 
 													
 														14:00~16:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리텔링 절대 법칙 : Step.1]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1575</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1575</guid>
-            <pubDate>Thu, 10 Mar 2022 14:56:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>스토리텔링 절대 법칙 : Step.1</h4>
-										<p class="detail">
-											<span>김태원</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2021.12.30~2022.02.09</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.02.12~2022.04.02<br>
-													(매주 토, 
-													
-														10:00~13:00 
 													
 													 )
 												</dd>
