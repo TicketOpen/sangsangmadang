@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,39 @@
 													( 토, 
 													
 														14:00~16:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 첫 그림책 드로잉]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1724</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1724</guid>
+            <pubDate>Mon, 04 Apr 2022 10:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
+			                                
+			                            
+										
+										<h4>나의 첫 그림책 드로잉</h4>
+										<p class="detail">
+											<span>김종민</span>
+											<span>5기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.04.05~2022.05.01</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.05.04~2022.06.29<br>
+													(매주 수, 
+													
+														13:30~16:30 
 													
 													 )
 												</dd>
@@ -627,39 +660,6 @@
 													( 일, 
 													
 														13:00~15:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[토이카메라로 찍는 흑백사진 원데이 클래스 - 3/27(일)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1699</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1699</guid>
-            <pubDate>Fri, 11 Mar 2022 11:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>토이카메라로 찍는 흑백사진 원데이 클래스 - 3/27(일)</h4>
-										<p class="detail">
-											<span>현상인화실 담당자</span>
-											<span>18기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.03.11~2022.03.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.03.27~2022.03.27<br>
-													( 일, 
-													
-														14:00~17:30 
 													
 													 )
 												</dd>
