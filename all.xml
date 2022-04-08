@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,7 +218,7 @@
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［라쿠나 단독 콘서트］ (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2058</link>
             <guid>https://www.sangsangmadang.com/show/detail/2058</guid>
-            <pubDate>Fri, 08 Apr 2022 05:04:53 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 05:04:34 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.04.27~2022.04.27</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/df119207-25b1-430b-850e-c2fdd624fcef" length="0" type="image//feah/temp/2022/202204/df119207-25b1-430b-850e-c2fdd624fcef"/>
