@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 대치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <은밀하게 위대하게 : THE LAST>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2060</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2060</guid>
+            <pubDate>Wed, 13 Apr 2022 03:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트홀</span>
+		                                    <span>2022.05.14~2022.07.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928" length="0" type="image//feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 <엄마까투리 - 마트에 간 꽁지>]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2030</link>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 03 Mar 2022 14:04:43 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.01.03~2022.02.07</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202112/b5bd026e-6e17-4818-84d5-d4e84851d779" length="0" type="image//feah/temp/2021/202112/b5bd026e-6e17-4818-84d5-d4e84851d779"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <스노우데이>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Thu, 07 Apr 2022 02:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2020.08.22~2020.08.22</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[권순관 소극장 콘서트]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1759</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1759</guid>
-            <pubDate>Thu, 07 Apr 2022 02:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2020.08.07~2020.08.16</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
