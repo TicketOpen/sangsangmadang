@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -551,7 +551,7 @@
             <title><![CDATA[뮤지컬 <은밀하게 위대하게 : THE LAST> (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2060</link>
             <guid>https://www.sangsangmadang.com/show/detail/2060</guid>
-            <pubDate>Wed, 13 Apr 2022 03:30:35 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 03:29:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.05.14~2022.07.03</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928" length="0" type="image//feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928"/>
