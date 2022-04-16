@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 03:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 04:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/4c303d71-b57a-42b2-aab4-956f6ff209ed" length="0" type="image//feah/temp/2022/202204/4c303d71-b57a-42b2-aab4-956f6ff209ed"/>
         </item>
         <item>
-            <title><![CDATA[N．Flying 소극장 콘서트：우만합－춘천]]></title>
+            <title><![CDATA[N.Flying 소극장 콘서트：우만합－춘천]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2061</link>
             <guid>https://www.sangsangmadang.com/show/detail/2061</guid>
             <pubDate>Wed, 13 Apr 2022 09:05:46 GMT</pubDate>
