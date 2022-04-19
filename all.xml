@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[김사월 부산 단독공연: 오랫동안 너를 좋아했지 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2067</link>
             <guid>https://www.sangsangmadang.com/show/detail/2067</guid>
-            <pubDate>Tue, 19 Apr 2022 10:07:09 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:05:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.05.07~2022.05.07</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/3fc67f2a-d2eb-427c-a77e-b59f12fa35ec" length="0" type="image//feah/temp/2022/202204/3fc67f2a-d2eb-427c-a77e-b59f12fa35ec"/>
