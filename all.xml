@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 06:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/bb171dc1-40ea-411c-95c1-200e97753205" length="0" type="image//feah/temp/2022/202204/bb171dc1-40ea-411c-95c1-200e97753205"/>
         </item>
         <item>
+            <title><![CDATA[상상라이브연습실 시즌4 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2068</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2068</guid>
+            <pubDate>Wed, 20 Apr 2022 07:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3F 라이브홀</span>
+		                                    <span>2022.05.15~2022.05.15</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b" length="0" type="image//feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b"/>
+        </item>
+        <item>
             <title><![CDATA[9와 숫자들 Blue Concert Tour－서울 (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2056</link>
             <guid>https://www.sangsangmadang.com/show/detail/2056</guid>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 13 Apr 2022 03:29:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.05.14~2022.07.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928" length="0" type="image//feah/temp/2022/202204/aaa5296f-4be5-4ca6-b4ac-673d534a8928"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김사월 부산 단독공연: 오랫동안 너를 좋아했지 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 18 Mar 2022 06:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.03.31~2022.03.31</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 마당버스킹 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2041</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2041</guid>
-            <pubDate>Wed, 16 Mar 2022 02:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1F 야외 버스킹 존 </span>
-		                                    <span>2022.03.26~2022.11.11</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -728,6 +728,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[상상라이브연습실 시즌4 (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2068</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2068</guid>
+            <pubDate>Wed, 20 Apr 2022 07:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3F 라이브홀</span>
+		                                    <span>2022.05.15~2022.05.15</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b" length="0" type="image//feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b"/>
+        </item>
+        <item>
             <title><![CDATA[김사월 부산 단독공연: 오랫동안 너를 좋아했지 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2067</link>
             <guid>https://www.sangsangmadang.com/show/detail/2067</guid>
@@ -761,7 +770,7 @@
             <pubDate>Wed, 16 Mar 2022 02:14:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 야외 버스킹 존 </span>
 		                                    <span>2022.03.26~2022.11.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/5736630d-380c-4344-92c5-44a20c1613b8" length="0" type="image//feah/temp/2022/202203/5736630d-380c-4344-92c5-44a20c1613b8"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The ㅅ Concert (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -896,15 +905,6 @@
             <pubDate>Thu, 03 Mar 2022 15:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<span>공식 인스타그램 LIVE</span>
 		                                    <span>2021.02.18~2021.02.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상라이브연습실 SEASON2 (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1843</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1843</guid>
-            <pubDate>Thu, 03 Mar 2022 15:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.01.14~2021.02.07</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
