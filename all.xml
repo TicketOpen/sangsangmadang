@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[상상라이브연습실 시즌4 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2068</link>
             <guid>https://www.sangsangmadang.com/show/detail/2068</guid>
-            <pubDate>Wed, 20 Apr 2022 07:07:13 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 07:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.05.15~2022.05.15</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b" length="0" type="image//feah/temp/2022/202204/c23ebb20-3ea8-4d53-bf90-da5428d0a52b"/>
