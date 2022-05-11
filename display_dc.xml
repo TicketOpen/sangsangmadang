@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 대치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 12:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 13:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제2회 <ARTISTART>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2084</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2084</guid>
+            <pubDate>Wed, 11 May 2022 13:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.05.09~2022.06.10</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/5c2fa7d4-9c7e-4d76-a6cc-06a8339c6869" length="0" type="image//feah/temp/2022/202205/5c2fa7d4-9c7e-4d76-a6cc-06a8339c6869"/>
+        </item>
         <item>
             <title><![CDATA[<Over the Rainbow> 소장품전]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2063</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 02 Feb 2022 02:23:58 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.01.03~2022.02.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202201/c56f2203-7a89-4e84-b249-2d7f4bf99abc" length="0" type="image//feah/temp/2022/202201/c56f2203-7a89-4e84-b249-2d7f4bf99abc"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상펀드 10주년 아카이브 전시]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 02 Feb 2022 02:23:58 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2020.07.20~2020.09.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[KT&G 캐리커쳐전 <우리들의 행복한 상상실현>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1840</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1840</guid>
-            <pubDate>Wed, 02 Feb 2022 02:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2020.06.15~2020.07.03</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
