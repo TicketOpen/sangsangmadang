@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[스튜디오C [피싱걸스 단독 콘서트] (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2092</link>
             <guid>https://www.sangsangmadang.com/show/detail/2092</guid>
-            <pubDate>Wed, 25 May 2022 07:08:37 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 07:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2022.06.25~2022.06.25</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/6a47f768-937a-49d3-b66e-e4502d68eb88" length="0" type="image//feah/temp/2022/202205/6a47f768-937a-49d3-b66e-e4502d68eb88"/>
