@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 04:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -908,6 +908,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[<영서기획 - Work & Art Balance> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2099</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2099</guid>
+            <pubDate>Sat, 04 Jun 2022 05:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리</span> 
+											<span>2022.06.11~2022.06.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4" length="0" type="image//feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4"/>
+        </item>
+        <item>
             <title><![CDATA[상상사계 여름 x 6th 워너비 컬렉터 <WAVES EVERY-WHERE> (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2094</link>
             <guid>https://www.sangsangmadang.com/display/detail/2094</guid>
@@ -941,7 +950,7 @@
             <pubDate>Wed, 27 Apr 2022 11:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.05.03~2022.06.05</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/b910d6d8-8d02-4a54-8e5b-440d6a38b360" length="0" type="image//feah/temp/2022/202204/b910d6d8-8d02-4a54-8e5b-440d6a38b360"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<Over the Rainbow> 소장품전 (상상마당 ─ 전시)]]></title>
@@ -1076,15 +1085,6 @@
             <pubDate>Tue, 01 Feb 2022 07:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.12.09~2021.12.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<유미의 세포들 부산전> (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1981</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1981</guid>
-            <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
-											<span>2021.12.08~2022.03.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -1268,6 +1268,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[<영서기획 - Work & Art Balance> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2099</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2099</guid>
+            <pubDate>Sat, 04 Jun 2022 05:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리</span> 
+											<span>2022.06.11~2022.06.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4" length="0" type="image//feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4"/>
+        </item>
+        <item>
             <title><![CDATA[<A에서 시작되는 울림> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2044</link>
             <guid>https://www.sangsangmadang.com/display/detail/2044</guid>
@@ -1301,7 +1310,7 @@
             <pubDate>Tue, 01 Feb 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리</span> 
 											<span>2021.11.25~2021.12.12</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2021/202111/ef4daa6b-a776-4c9a-8fd1-c9882895a084" length="0" type="image//feah/temp/2021/202111/ef4daa6b-a776-4c9a-8fd1-c9882895a084"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김수영 개인전 <오늘밤 이곳은 불이 꺼지지 않는다> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1436,15 +1445,6 @@
             <pubDate>Wed, 02 Feb 2022 02:23:34 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리</span> 
 											<span>2020.05.15~2020.08.28</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<박 환: 끝나지 않은 여정> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1686</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1686</guid>
-            <pubDate>Wed, 02 Feb 2022 02:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리</span> 
-											<span>2019.12.20~2020.01.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
