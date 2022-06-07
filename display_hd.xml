@@ -4,7 +4,7 @@
         <title>상상마당 ─ 전시 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 16:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Wed, 27 Apr 2022 11:11:15 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.05.03~2022.06.05</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/b910d6d8-8d02-4a54-8e5b-440d6a38b360" length="0" type="image//feah/temp/2022/202204/b910d6d8-8d02-4a54-8e5b-440d6a38b360"/>
         </item>
         <item>
             <title><![CDATA[<NEW CLASSIC 뉴 클래식>]]></title>
@@ -23,7 +23,7 @@
             <pubDate>Thu, 03 Mar 2022 14:05:42 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.02.17~2022.04.15</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/0680ae2b-aa0f-4c20-89c4-75b44573099a" length="0" type="image//feah/temp/2022/202204/0680ae2b-aa0f-4c20-89c4-75b44573099a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상마당과 함께하는 위드굿즈(With Goods)]]></title>
