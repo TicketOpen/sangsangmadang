@@ -4,7 +4,7 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>아트갤러리</span> 
 											<span>2022.06.11~2022.06.25</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4" length="0" type="image//feah/temp/2022/202206/e3963726-35c5-4930-92b8-5b1b0ad3fad4"/>
+        </item>
+        <item>
+            <title><![CDATA[<2022 플리그라운드 FLEA:GROUND>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2102</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2102</guid>
+            <pubDate>Wed, 08 Jun 2022 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.06.11~2022.06.26</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/4c5bdc9f-3557-463e-bb5e-c6ded2dd4eda" length="0" type="image//feah/temp/2022/202206/4c5bdc9f-3557-463e-bb5e-c6ded2dd4eda"/>
         </item>
         <item>
             <title><![CDATA[상상사계 여름 x 6th 워너비 컬렉터 <WAVES EVERY-WHERE>]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
 											<span>2022.05.05~2022.09.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/95134119-e897-4210-ac95-2dc086637235" length="0" type="image//feah/temp/2022/202204/95134119-e897-4210-ac95-2dc086637235"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<우리는 초록 분위기를 사랑해>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 3 (KT&amp;G 상상마당 춘천 상상스테이 B1)</span> 
 											<span>2021.12.10~2022.03.31</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 패션의거리 예술문화전 <ABC : Art Becomes Culture>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2002</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2002</guid>
-            <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.12.09~2021.12.12</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
