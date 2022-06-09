@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.07.08~2022.07.09</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/1916b1ed-8311-462b-bcf7-741eae623d50" length="0" type="image//feah/temp/2022/202205/1916b1ed-8311-462b-bcf7-741eae623d50"/>
+        </item>
+        <item>
+            <title><![CDATA[1st Full Length Release Party <CARNIVAL>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2103</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2103</guid>
+            <pubDate>Thu, 09 Jun 2022 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.07.02~2022.07.02</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/fa73a765-911f-4ea8-9bff-d5d272747c17" length="0" type="image//feah/temp/2022/202206/fa73a765-911f-4ea8-9bff-d5d272747c17"/>
         </item>
         <item>
             <title><![CDATA[ELO [Reality Check] Tour in Busan]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.05.21~2022.05.21</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/22ee2ba9-0160-4c01-bdbc-0a0a31b4b82b" length="0" type="image//feah/temp/2022/202205/22ee2ba9-0160-4c01-bdbc-0a0a31b4b82b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상라이브연습실 시즌4]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.07.03~2021.07.04</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상라이브연습실 SEASON3]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1891</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1891</guid>
-            <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.05.25~2021.07.04</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
