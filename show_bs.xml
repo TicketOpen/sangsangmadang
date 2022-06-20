@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wave to Earth 단독공연 : Deep dive in Busan]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2105</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2105</guid>
+            <pubDate>Mon, 20 Jun 2022 10:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.07.16~2022.07.16</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/4f60719f-2294-4014-8046-e9303f05cf8b" length="0" type="image//feah/temp/2022/202206/4f60719f-2294-4014-8046-e9303f05cf8b"/>
+        </item>
         <item>
             <title><![CDATA[이른열대야 2022 - 전국! 인디자랑 [부산]]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2087</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.06.18~2022.06.18</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/ad92661c-ec8d-4a9b-ac7e-55f75c1be2a9" length="0" type="image//feah/temp/2022/202205/ad92661c-ec8d-4a9b-ac7e-55f75c1be2a9"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Last Thing Left : 세이수미 정규 3집 발매공연]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.07.16~2021.07.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상라이브연습실 SEASON3 Concert]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1894</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1894</guid>
-            <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.07.03~2021.07.04</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
