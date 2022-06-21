@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 03:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.08.12~2022.09.18</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/26c3ee1f-6ab1-47cd-b130-01c7a3389d0d" length="0" type="image//feah/temp/2022/202205/26c3ee1f-6ab1-47cd-b130-01c7a3389d0d"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은 앨범발매 기념공연 <여름> - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2106</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2106</guid>
+            <pubDate>Tue, 21 Jun 2022 03:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.07.30~2022.07.31</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/73324a65-33af-4efb-bc9c-2291454c8c0d" length="0" type="image//feah/temp/2022/202206/73324a65-33af-4efb-bc9c-2291454c8c0d"/>
         </item>
         <item>
             <title><![CDATA[Wave to Earth 단독공연 : Deep dive in Busan (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 07 Jun 2022 22:05:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.07.08~2022.07.09</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/1916b1ed-8311-462b-bcf7-741eae623d50" length="0" type="image//feah/temp/2022/202205/1916b1ed-8311-462b-bcf7-741eae623d50"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[영국 린고씨어터 내한_ Craft Series 1. 뮤지컬 〈헨젤과 그레텔〉 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sun, 08 May 2022 02:45:11 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2022.06.05~2022.06.05</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Rolling Quartz 1st Solo Concert ［롤링쿼츠 첫번째 단독 콘서트］ (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2096</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2096</guid>
-            <pubDate>Tue, 31 May 2022 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.06.04~2022.06.04</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -728,6 +728,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[짙은 앨범발매 기념공연 <여름> - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2106</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2106</guid>
+            <pubDate>Tue, 21 Jun 2022 03:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.07.30~2022.07.31</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/73324a65-33af-4efb-bc9c-2291454c8c0d" length="0" type="image//feah/temp/2022/202206/73324a65-33af-4efb-bc9c-2291454c8c0d"/>
+        </item>
+        <item>
             <title><![CDATA[Wave to Earth 단독공연 : Deep dive in Busan (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2105</link>
             <guid>https://www.sangsangmadang.com/show/detail/2105</guid>
@@ -761,7 +770,7 @@
             <pubDate>Tue, 07 Jun 2022 22:05:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.06.19~2022.06.19</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/7ab75d44-f72f-4596-9e64-f19ea4893d19" length="0" type="image//feah/temp/2022/202205/7ab75d44-f72f-4596-9e64-f19ea4893d19"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[SUPERNOVA! 부산 : 너드커넥션 단독 공연 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -896,15 +905,6 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2021.08.21~2021.08.22</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Rising Night Festival (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1899</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1899</guid>
-            <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.07.16~2021.07.18</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
