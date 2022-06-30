@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,72 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/b2fa01bf-59bb-408c-a92b-9de0b50ca5bb" length="0" type="image//feah/temp/2022/202204/b2fa01bf-59bb-408c-a92b-9de0b50ca5bb"/>
         </item>
         <item>
+            <title><![CDATA[한 장씩 그리는 아이패드 애니메이션]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1774</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1774</guid>
+            <pubDate>Thu, 30 Jun 2022 07:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
+			                                
+			                            
+										
+										<h4>한 장씩 그리는 아이패드 애니메이션</h4>
+										<p class="detail">
+											<span>보은(voeun)</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.06.30~2022.07.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.08.03~2022.08.31<br>
+													(매주 수, 
+													
+														14:00~16:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/f2ec56ac-a9a1-4da4-80fe-613089b828b7" length="0" type="image//feah/temp/2022/202206/f2ec56ac-a9a1-4da4-80fe-613089b828b7"/>
+        </item>
+        <item>
+            <title><![CDATA[북디자이너를 위한 내지 디자인]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1775</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1775</guid>
+            <pubDate>Thu, 30 Jun 2022 07:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>북디자이너를 위한 내지 디자인</h4>
+										<p class="detail">
+											<span>진다솜</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.06.30~2022.07.28</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.07.30~2022.08.27<br>
+													(매주 토, 
+													
+														10:00~12:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/498b74a6-4968-4fab-894e-b8cad08aa210" length="0" type="image//feah/temp/2022/202206/498b74a6-4968-4fab-894e-b8cad08aa210"/>
+        </item>
+        <item>
             <title><![CDATA[콘서트 기획자 워크숍]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1762</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1762</guid>
@@ -105,7 +171,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202205/dbe17c2e-705d-4440-b253-caa8ad25348a" length="0" type="image//feah/temp/2022/202205/dbe17c2e-705d-4440-b253-caa8ad25348a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[SSMD FIGURE DESIGN PRODUCTION]]></title>
@@ -138,7 +204,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/d80974ef-72af-41e1-9c2b-0c3368c67515" length="0" type="image//feah/temp/2022/202204/d80974ef-72af-41e1-9c2b-0c3368c67515"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 나만의 괴물 만들기]]></title>
@@ -595,72 +661,6 @@
 													( 토, 
 													
 														14:00~16:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리텔링 절대법칙 : Step.2]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1750</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1750</guid>
-            <pubDate>Wed, 08 Jun 2022 00:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>스토리텔링 절대법칙 : Step.2</h4>
-										<p class="detail">
-											<span>김태원</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.04.20~2022.05.19</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.05.21~2022.07.09<br>
-													(매주 토, 
-													
-														14:30~17:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[일기 아닌 에세이]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1729</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1729</guid>
-            <pubDate>Wed, 08 Jun 2022 00:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>일기 아닌 에세이</h4>
-										<p class="detail">
-											<span>손수현</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.04.06~2022.05.18</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.05.21~2022.07.09<br>
-													(매주 토, 
-													
-														14:00~16:00 
 													
 													 )
 												</dd>
