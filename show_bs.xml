@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 00:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 03:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,7 +26,7 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/360b014f-1373-4345-a39b-7c3ab47c630a" length="0" type="image//feah/temp/2022/202207/360b014f-1373-4345-a39b-7c3ab47c630a"/>
         </item>
         <item>
-            <title><![CDATA[루프탑 버스킹<열대야>]]></title>
+            <title><![CDATA[루프탑 공연<열대야>]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2128</link>
             <guid>https://www.sangsangmadang.com/show/detail/2128</guid>
             <pubDate>Mon, 11 Jul 2022 03:03:01 GMT</pubDate>
