@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,7 +200,7 @@
             <title><![CDATA[BUSAN ROCKING ROOKIE SHOW (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2133</link>
             <guid>https://www.sangsangmadang.com/show/detail/2133</guid>
-            <pubDate>Mon, 25 Jul 2022 08:10:29 GMT</pubDate>
+            <pubDate>Mon, 25 Jul 2022 08:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.08.07~2022.08.07</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/5ce238ce-b59c-40d3-b6b6-e8f326826e73" length="0" type="image//feah/temp/2022/202207/5ce238ce-b59c-40d3-b6b6-e8f326826e73"/>
