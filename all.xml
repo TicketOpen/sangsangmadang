@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 09:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 10:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <pubDate>Tue, 02 Aug 2022 09:05:04 GMT</pubDate>
             <content:encoded><![CDATA[<span>잔디마당</span>
 		                                    <span>2022.08.20~2022.08.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/bf8b99e1-ac42-4b96-8835-70ebddcfbd52" length="0" type="image//feah/temp/2022/202208/bf8b99e1-ac42-4b96-8835-70ebddcfbd52"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/99d1f271-2fab-4dd5-b505-8f4e29dd1470" length="0" type="image//feah/temp/2022/202208/99d1f271-2fab-4dd5-b505-8f4e29dd1470"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX with 위수 #Leitmotiv (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -374,7 +374,7 @@
             <pubDate>Tue, 02 Aug 2022 09:05:04 GMT</pubDate>
             <content:encoded><![CDATA[<span>잔디마당</span>
 		                                    <span>2022.08.20~2022.08.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/bf8b99e1-ac42-4b96-8835-70ebddcfbd52" length="0" type="image//feah/temp/2022/202208/bf8b99e1-ac42-4b96-8835-70ebddcfbd52"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/99d1f271-2fab-4dd5-b505-8f4e29dd1470" length="0" type="image//feah/temp/2022/202208/99d1f271-2fab-4dd5-b505-8f4e29dd1470"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX with 위수 #Leitmotiv (상상마당 ─ 공연 ─ 춘천)]]></title>
