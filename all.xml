@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[덩기두밥 프로젝트 (Dunggi doobop) (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2143</link>
             <guid>https://www.sangsangmadang.com/show/detail/2143</guid>
-            <pubDate>Fri, 05 Aug 2022 08:10:16 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 08:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<span>야외공연장</span>
 		                                    <span>2022.08.21~2022.08.21</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/72ce0eaf-718e-4863-bcf3-bdbe89c80546" length="0" type="image//feah/temp/2022/202208/72ce0eaf-718e-4863-bcf3-bdbe89c80546"/>
