@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 00:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보수동쿨러X해서웨이: LOVE SAND]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2145</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2145</guid>
+            <pubDate>Wed, 17 Aug 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3F 라이브홀</span>
+		                                    <span>2022.08.26~2022.08.26</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/7cbcc650-6ba8-4c7a-8335-9e64bf9da090" length="0" type="image//feah/temp/2022/202208/7cbcc650-6ba8-4c7a-8335-9e64bf9da090"/>
+        </item>
         <item>
             <title><![CDATA[루프탑 공연: 한여름밤의 꿈]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2142</link>
@@ -41,7 +50,7 @@
             <pubDate>Fri, 08 Jul 2022 09:06:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2022.07.23~2022.07.23</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/360b014f-1373-4345-a39b-7c3ab47c630a" length="0" type="image//feah/temp/2022/202207/360b014f-1373-4345-a39b-7c3ab47c630a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[루프탑 공연: 열대야]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 야외 버스킹 존 </span>
 		                                    <span>2022.03.26~2022.11.11</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[The ㅅ Concert]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1996</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1996</guid>
-            <pubDate>Tue, 07 Jun 2022 22:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2021.12.24~2021.12.26</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
