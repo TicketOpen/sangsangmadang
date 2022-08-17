@@ -4,9 +4,27 @@
         <title>상상마당 ─ 공연 ─ 춘천</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_빨간의자]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2147</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2147</guid>
+            <pubDate>Wed, 17 Aug 2022 04:59:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀 로비</span>
+		                                    <span>2022.08.27~2022.08.27</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/73998c29-623b-4728-894c-cb1900fb0d0d" length="0" type="image//feah/temp/2022/202208/73998c29-623b-4728-894c-cb1900fb0d0d"/>
+        </item>
+        <item>
+            <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_하이노트뮤직]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2146</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2146</guid>
+            <pubDate>Wed, 17 Aug 2022 04:59:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀 로비</span>
+		                                    <span>2022.08.27~2022.08.27</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/e7a5e682-86cd-40ef-889f-45300da26f5b" length="0" type="image//feah/temp/2022/202208/e7a5e682-86cd-40ef-889f-45300da26f5b"/>
+        </item>
         <item>
             <title><![CDATA[덩기두밥 프로젝트 (Dunggi doobop)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2143</link>
@@ -32,7 +50,7 @@
             <pubDate>Sat, 30 Jul 2022 07:05:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2022.08.20~2022.08.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/2d8b51f4-ce00-46fa-9041-6a92f0441b7c" length="0" type="image//feah/temp/2022/202207/2d8b51f4-ce00-46fa-9041-6a92f0441b7c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[프로젝트 그룹 두언소리 고전 재창작 실험: 신곡-지옥편]]></title>
@@ -41,7 +59,7 @@
             <pubDate>Wed, 29 Jun 2022 10:05:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2022.08.05~2022.08.06</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/60b50e46-07be-46ed-b64d-11f1099c3b30" length="0" type="image//feah/temp/2022/202206/60b50e46-07be-46ed-b64d-11f1099c3b30"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2022 춘천 오페라 페스티벌 오페라 <카르멘>]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Tue, 03 May 2022 10:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 춘천 아트센터</span>
 		                                    <span>2022.05.05~2022.05.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[SSHOWBOX with 퍼플웨일 #THE Chord]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2053</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2053</guid>
-            <pubDate>Wed, 06 Apr 2022 07:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 춘천 사운드홀</span>
-		                                    <span>2022.04.30~2022.04.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[KT&G 상상마당 춘천 버스킹 프로그램 [뮤직,큐!]]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2059</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2059</guid>
-            <pubDate>Sun, 10 Apr 2022 12:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 춘천 아트센터</span>
-		                                    <span>2022.04.11~2022.07.01</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
