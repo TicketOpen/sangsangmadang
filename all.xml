@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/387ea227-05d9-4d1c-949f-adf89f2987c9" length="0" type="image//feah/temp/2022/202208/387ea227-05d9-4d1c-949f-adf89f2987c9"/>
         </item>
         <item>
+            <title><![CDATA[제1회 김재기 락 페스티벌 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2131</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2131</guid>
+            <pubDate>Thu, 14 Jul 2022 04:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.09.03~2022.09.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/97fbc419-8cb1-479b-8edc-a7405d7119e5" length="0" type="image//feah/temp/2022/202208/97fbc419-8cb1-479b-8edc-a7405d7119e5"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 : ORIGINAL [더 픽스 1주년 기념 단독 콘서트] (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2136</link>
             <guid>https://www.sangsangmadang.com/show/detail/2136</guid>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 17 Aug 2022 04:58:43 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀 로비</span>
 		                                    <span>2022.08.27~2022.08.27</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/73998c29-623b-4728-894c-cb1900fb0d0d" length="0" type="image//feah/temp/2022/202208/73998c29-623b-4728-894c-cb1900fb0d0d"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_하이노트뮤직 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -122,15 +131,6 @@
             <pubDate>Thu, 07 Jul 2022 04:36:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.08.14~2022.08.14</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[제1회 김재기 락 페스티벌 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2131</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2131</guid>
-            <pubDate>Thu, 14 Jul 2022 04:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
-		                                    <span>2022.08.13~2022.08.13</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -728,6 +728,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[제1회 김재기 락 페스티벌 (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2131</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2131</guid>
+            <pubDate>Thu, 14 Jul 2022 04:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.09.03~2022.09.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/97fbc419-8cb1-479b-8edc-a7405d7119e5" length="0" type="image//feah/temp/2022/202208/97fbc419-8cb1-479b-8edc-a7405d7119e5"/>
+        </item>
+        <item>
             <title><![CDATA[보수동쿨러X해서웨이: LOVE SAND (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2145</link>
             <guid>https://www.sangsangmadang.com/show/detail/2145</guid>
@@ -744,15 +753,6 @@
             <content:encoded><![CDATA[<span>13층 루프탑 </span>
 		                                    <span>2022.08.19~2022.08.19</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/cf6c7e81-467b-434e-855e-91a7305669ee" length="0" type="image//feah/temp/2022/202208/cf6c7e81-467b-434e-855e-91a7305669ee"/>
-        </item>
-        <item>
-            <title><![CDATA[제1회 김재기 락 페스티벌 (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2131</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2131</guid>
-            <pubDate>Thu, 14 Jul 2022 04:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
-		                                    <span>2022.08.13~2022.08.13</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/3acdae9a-5b9c-4c9f-b1cf-9e25be95fb61" length="0" type="image//feah/temp/2022/202207/3acdae9a-5b9c-4c9f-b1cf-9e25be95fb61"/>
         </item>
         <item>
             <title><![CDATA[짙은 앨범발매 기념공연 <여름> - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
