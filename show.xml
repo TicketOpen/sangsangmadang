@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,15 @@
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.08.30~2022.08.30</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/0ff70389-979d-486d-8559-fc3de720db49" length="0" type="image//feah/temp/2022/202207/0ff70389-979d-486d-8559-fc3de720db49"/>
+        </item>
+        <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드 - 장풍파랑 051]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2149</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2149</guid>
+            <pubDate>Mon, 22 Aug 2022 08:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.08.28~2022.08.28</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_빨간의자]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 08 Jul 2022 05:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.07.29~2022.07.29</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 춘천 오페라 페스티벌 오페라 <카르멘>]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2137</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2137</guid>
-            <pubDate>Wed, 27 Jul 2022 09:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트센터</span>
-		                                    <span>2022.07.28~2022.07.31</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
