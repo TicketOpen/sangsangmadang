@@ -4,7 +4,7 @@
         <title>상상마당 ─ 전시 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 00:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 03:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/95134119-e897-4210-ac95-2dc086637235" length="0" type="image//feah/temp/2022/202204/95134119-e897-4210-ac95-2dc086637235"/>
         </item>
         <item>
-            <title><![CDATA[2022 미술대학 예비작가 지원전시 <제2회 ARTISTART>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2038</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2038</guid>
-            <pubDate>Tue, 07 Jun 2022 22:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
-											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c" length="0" type="image//feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c"/>
-        </item>
-        <item>
             <title><![CDATA[<ART FAIR>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2055</link>
             <guid>https://www.sangsangmadang.com/display/detail/2055</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[<span>4F 갤러리 로비</span> 
 											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202204/31a976ff-8255-4d3a-9380-4f56dc8524a0" length="0" type="image//feah/temp/2022/202204/31a976ff-8255-4d3a-9380-4f56dc8524a0"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 미술대학 예비작가 지원전시 <제2회 ARTISTART>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2038</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2038</guid>
+            <pubDate>Tue, 07 Jun 2022 22:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c" length="0" type="image//feah/temp/2022/202203/3f44025b-01da-45e8-96ab-64bdb3eedd6c"/>
         </item>
         <item>
             <title><![CDATA[5th 워너비 컬렉터 <아뜰리에 가든 : 팝업갤러리>]]></title>
