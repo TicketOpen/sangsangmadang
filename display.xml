@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제5회 <Over the Rainbow>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2156</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2156</guid>
+            <pubDate>Tue, 30 Aug 2022 10:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리</span> 
+											<span>2022.09.03~2022.09.20</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/fc0ab53f-841d-41d8-8a7c-b6d4067a49ba" length="0" type="image//feah/temp/2022/202208/fc0ab53f-841d-41d8-8a7c-b6d4067a49ba"/>
+        </item>
         <item>
             <title><![CDATA[<ORIGINAL DEMO ver 2.1.1>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2141</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 12 Jul 2022 06:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.07.11~2022.08.05</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/dba3f056-866d-4a9c-9254-02a83e1939d4" length="0" type="image//feah/temp/2022/202207/dba3f056-866d-4a9c-9254-02a83e1939d4"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[지도는 영토가 아니다]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.02.17~2022.04.15</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[BOTONGSARAM vol. 2 ­– 일상의 기록]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2017</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2017</guid>
-            <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2022.02.14~2022.03.11</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
