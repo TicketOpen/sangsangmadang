@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 00:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 03:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정춘일 개인전 <삼.철.리 바람 展>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2158</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2158</guid>
+            <pubDate>Wed, 07 Sep 2022 03:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span>잔디마당</span> 
+											<span>2022.09.20~2022.10.21</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/d6f55b76-859d-491b-9036-63fce38d9456" length="0" type="image//feah/temp/2022/202209/d6f55b76-859d-491b-9036-63fce38d9456"/>
+        </item>
         <item>
             <title><![CDATA[제5회 <Over the Rainbow>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2156</link>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 07 Jul 2022 03:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리</span> 
 											<span>2022.07.13~2022.07.17</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/bb9a87a8-e220-4489-b713-5dae60b507b1" length="0" type="image//feah/temp/2022/202207/bb9a87a8-e220-4489-b713-5dae60b507b1"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[열음, 여름 : OPEN IT]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.03.14~2022.04.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<NEW CLASSIC 뉴 클래식>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2018</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2018</guid>
-            <pubDate>Tue, 07 Jun 2022 23:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2022.02.17~2022.04.15</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
