@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[ORIGINAL DEMO ver 브로콜리너마저 (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2162</link>
             <guid>https://www.sangsangmadang.com/show/detail/2162</guid>
-            <pubDate>Wed, 07 Sep 2022 07:34:08 GMT</pubDate>
+            <pubDate>Wed, 07 Sep 2022 07:33:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터 사운드홀</span>
 		                                    <span>2022.10.03~2022.10.03</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/73e194f6-4207-418b-8555-f88cc0e36153" length="0" type="image//feah/temp/2022/202209/73e194f6-4207-418b-8555-f88cc0e36153"/>
