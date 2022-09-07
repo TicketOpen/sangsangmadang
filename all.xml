@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 03:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 05:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,8 +40,8 @@
             <guid>https://www.sangsangmadang.com/show/detail/2148</guid>
             <pubDate>Fri, 19 Aug 2022 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.09.17~2022.09.17</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/880f9657-973a-471b-b60b-09a1964b214e" length="0" type="image//feah/temp/2022/202209/880f9657-973a-471b-b60b-09a1964b214e"/>
+		                                    <span>2022.09.17~2022.09.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/e22b14a7-22e7-49f2-b2be-8a3af141320d" length="0" type="image//feah/temp/2022/202209/e22b14a7-22e7-49f2-b2be-8a3af141320d"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［박소은 단독 콘서트］ (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -211,8 +211,8 @@
             <guid>https://www.sangsangmadang.com/show/detail/2148</guid>
             <pubDate>Fri, 19 Aug 2022 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.09.17~2022.09.17</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/880f9657-973a-471b-b60b-09a1964b214e" length="0" type="image//feah/temp/2022/202209/880f9657-973a-471b-b60b-09a1964b214e"/>
+		                                    <span>2022.09.17~2022.09.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/e22b14a7-22e7-49f2-b2be-8a3af141320d" length="0" type="image//feah/temp/2022/202209/e22b14a7-22e7-49f2-b2be-8a3af141320d"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［박소은 단독 콘서트］ (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -1271,7 +1271,7 @@
             <title><![CDATA[정춘일 개인전 <삼.철.리 바람 展> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2158</link>
             <guid>https://www.sangsangmadang.com/display/detail/2158</guid>
-            <pubDate>Wed, 07 Sep 2022 03:42:17 GMT</pubDate>
+            <pubDate>Wed, 07 Sep 2022 03:41:22 GMT</pubDate>
             <content:encoded><![CDATA[<span>잔디마당</span> 
 											<span>2022.09.20~2022.10.21</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/d6f55b76-859d-491b-9036-63fce38d9456" length="0" type="image//feah/temp/2022/202209/d6f55b76-859d-491b-9036-63fce38d9456"/>
