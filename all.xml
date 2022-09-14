@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 05:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -914,7 +914,7 @@
             <pubDate>Wed, 14 Sep 2022 03:34:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
 											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/f20d8edb-870b-44e2-ba66-03591f0341b0" length="0" type="image//feah/temp/2022/202209/f20d8edb-870b-44e2-ba66-03591f0341b0"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1" length="0" type="image//feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상마당 부산 현상인화실 성과물전시 : 제2회 VIEWFINDER (상상마당 ─ 전시)]]></title>
@@ -1634,7 +1634,7 @@
             <pubDate>Wed, 14 Sep 2022 03:34:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
 											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/f20d8edb-870b-44e2-ba66-03591f0341b0" length="0" type="image//feah/temp/2022/202209/f20d8edb-870b-44e2-ba66-03591f0341b0"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1" length="0" type="image//feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상마당 부산 현상인화실 성과물전시 : 제2회 VIEWFINDER (상상마당 ─ 전시 ─ 부산)]]></title>
@@ -1841,6 +1841,39 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/03e70118-4f06-45ca-8f72-cba390877da4" length="0" type="image//feah/temp/2022/202206/03e70118-4f06-45ca-8f72-cba390877da4"/>
         </item>
         <item>
+            <title><![CDATA[사연있는 캐릭터로 대본 한 편 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1838</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1838</guid>
+            <pubDate>Wed, 14 Sep 2022 06:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>사연있는 캐릭터로 대본 한 편</h4>
+										<p class="detail">
+											<span>김현우</span>
+											<span>6기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.09.14~2022.10.29</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.11.01~2022.12.20<br>
+													(매주 화, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/a793a97f-45b3-44df-8a00-17371ee36d18" length="0" type="image//feah/temp/2022/202209/a793a97f-45b3-44df-8a00-17371ee36d18"/>
+        </item>
+        <item>
             <title><![CDATA[[1DAY] 아티스트가 알아야 할 NFT (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1836</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1836</guid>
@@ -1937,7 +1970,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/ed3ec542-6e2f-4bc2-85e0-2ae09c64e2c8" length="0" type="image//feah/temp/2022/202208/ed3ec542-6e2f-4bc2-85e0-2ae09c64e2c8"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[차이나는 출판 번역 (상상마당 ─ 아카데미)]]></title>
@@ -2435,39 +2468,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[[1DAY] 작가 노트 쓰는 법 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1810</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1810</guid>
-            <pubDate>Wed, 17 Aug 2022 05:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>[1DAY] 작가 노트 쓰는 법</h4>
-										<p class="detail">
-											<span>조숙현</span>
-											<span>6기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.17~2022.10.05</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.09.24~2022.10.08<br>
-													(매주 토, 
-													
-														14:00~16:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[아카데미 신규 홈페이지 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1773</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1773</guid>
@@ -2501,10 +2501,43 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202206/03e70118-4f06-45ca-8f72-cba390877da4" length="0" type="image//feah/temp/2022/202206/03e70118-4f06-45ca-8f72-cba390877da4"/>
         </item>
         <item>
+            <title><![CDATA[사연있는 캐릭터로 대본 한 편 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1838</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1838</guid>
+            <pubDate>Wed, 14 Sep 2022 06:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>사연있는 캐릭터로 대본 한 편</h4>
+										<p class="detail">
+											<span>김현우</span>
+											<span>6기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.09.14~2022.10.29</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.11.01~2022.12.20<br>
+													(매주 화, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/a793a97f-45b3-44df-8a00-17371ee36d18" length="0" type="image//feah/temp/2022/202209/a793a97f-45b3-44df-8a00-17371ee36d18"/>
+        </item>
+        <item>
             <title><![CDATA[[1DAY] 아티스트가 알아야 할 NFT (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1836</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1836</guid>
-            <pubDate>Wed, 14 Sep 2022 05:22:05 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 05:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
 			                                
 			                            
@@ -2597,13 +2630,13 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/ed3ec542-6e2f-4bc2-85e0-2ae09c64e2c8" length="0" type="image//feah/temp/2022/202208/ed3ec542-6e2f-4bc2-85e0-2ae09c64e2c8"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[차이나는 출판 번역 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1835</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1835</guid>
-            <pubDate>Wed, 14 Sep 2022 05:22:05 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 05:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
 			                                
 			                            
@@ -2669,7 +2702,7 @@
             <title><![CDATA[아티스트를 위한 포트폴리오 워크숍 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1834</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1834</guid>
-            <pubDate>Wed, 14 Sep 2022 05:22:05 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 05:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
 			                                
 			                            
@@ -2801,7 +2834,7 @@
             <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1833</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1833</guid>
-            <pubDate>Wed, 14 Sep 2022 05:22:05 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 05:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
 			                                
 			                            
@@ -3087,39 +3120,6 @@
 													( 토, 
 													
 														13:00~16:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[소설 쓰는 밤 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1805</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1805</guid>
-            <pubDate>Fri, 12 Aug 2022 14:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>소설 쓰는 밤</h4>
-										<p class="detail">
-											<span>허남훈</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.12~2022.09.21</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.09.23~2022.11.25<br>
-													(매주 금, 
-													
-														19:00~22:00 
 													
 													 )
 												</dd>
