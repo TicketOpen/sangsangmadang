@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 05:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,39 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/640dc43b-470a-4d0b-a0ac-8a77f4ab5dc1" length="0" type="image//feah/temp/2022/202209/640dc43b-470a-4d0b-a0ac-8a77f4ab5dc1"/>
         </item>
         <item>
+            <title><![CDATA[뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1840</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1840</guid>
+            <pubDate>Thu, 15 Sep 2022 06:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)</h4>
+										<p class="detail">
+											<span>이연옥</span>
+											<span>14기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.09.16~2022.10.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.11.01~2022.11.29<br>
+													(매주 화, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f" length="0" type="image//feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f"/>
+        </item>
+        <item>
             <title><![CDATA[사연있는 캐릭터로 대본 한 편]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1838</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1838</guid>
@@ -137,7 +170,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/2e11cca7-0f3e-4d81-8592-ef85e5be5ea6" length="0" type="image//feah/temp/2022/202209/2e11cca7-0f3e-4d81-8592-ef85e5be5ea6"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[[1DAY] 은하수 사진, 네게만 줄게 my Galaxy]]></title>
@@ -503,39 +536,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[읽고 싶어 미치는 로맨스 소설 쓰기]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1823</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1823</guid>
-            <pubDate>Fri, 19 Aug 2022 13:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>읽고 싶어 미치는 로맨스 소설 쓰기</h4>
-										<p class="detail">
-											<span>제리안</span>
-											<span>6기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.17~2022.09.29</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.10.01~2022.11.19<br>
-													(매주 토, 
-													
-														14:00~16:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1826</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1826</guid>
@@ -561,6 +561,39 @@
 													(매주 토, 
 													
 														10:00~13:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[읽고 싶어 미치는 로맨스 소설 쓰기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1823</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1823</guid>
+            <pubDate>Fri, 19 Aug 2022 13:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>읽고 싶어 미치는 로맨스 소설 쓰기</h4>
+										<p class="detail">
+											<span>제리안</span>
+											<span>6기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.08.17~2022.09.29</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.10.01~2022.11.19<br>
+													(매주 토, 
+													
+														14:00~16:00 
 													
 													 )
 												</dd>
@@ -627,39 +660,6 @@
 													(매주 토, 
 													
 														10:30~13:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[소장하고 싶은 책표지 디자인]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1811</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1811</guid>
-            <pubDate>Wed, 17 Aug 2022 05:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>소장하고 싶은 책표지 디자인</h4>
-										<p class="detail">
-											<span>진다솜</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.17~2022.09.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.09.29~2022.10.27<br>
-													(매주 목, 
-													
-														14:00~16:00 
 													
 													 )
 												</dd>
