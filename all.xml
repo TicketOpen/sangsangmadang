@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［강아솔 단독 콘서트］ (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2169</link>
             <guid>https://www.sangsangmadang.com/show/detail/2169</guid>
-            <pubDate>Fri, 16 Sep 2022 06:39:56 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 06:39:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.10.05~2022.10.05</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/287d4c94-338e-4a1f-a603-025072c462ec" length="0" type="image//feah/temp/2022/202209/287d4c94-338e-4a1f-a603-025072c462ec"/>
@@ -200,7 +200,7 @@
             <title><![CDATA[먼데이프로젝트 시즌5［이준형 단독 콘서트 ‘UTOPIA’］ (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2168</link>
             <guid>https://www.sangsangmadang.com/show/detail/2168</guid>
-            <pubDate>Fri, 16 Sep 2022 06:39:56 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 06:39:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.10.03~2022.10.03</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/7ca8c626-7de2-4780-919d-28fb3d92d647" length="0" type="image//feah/temp/2022/202209/7ca8c626-7de2-4780-919d-28fb3d92d647"/>
