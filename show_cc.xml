@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 춘천</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 05:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPERNOVA! 춘천 : 너드커넥션 단독 공연]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2172</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2172</guid>
+            <pubDate>Tue, 20 Sep 2022 06:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2022.10.09~2022.10.09</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/f3037473-d008-444c-a810-5bfbb8aabeae" length="0" type="image//feah/temp/2022/202209/f3037473-d008-444c-a810-5bfbb8aabeae"/>
+        </item>
         <item>
             <title><![CDATA[ORIGINAL DEMO ver 브로콜리너마저]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2162</link>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 25 Aug 2022 06:22:46 GMT</pubDate>
             <content:encoded><![CDATA[<span>야외공연장</span>
 		                                    <span>2022.09.03~2022.09.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/6b6e541e-03b0-4bfd-aec2-042f10d7d242" length="0" type="image//feah/temp/2022/202208/6b6e541e-03b0-4bfd-aec2-042f10d7d242"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_빨간의자]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Sun, 22 May 2022 02:57:04 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2022.06.18~2022.06.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 상상실현페스티벌]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2077</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2077</guid>
-            <pubDate>Fri, 06 May 2022 11:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트센터</span>
-		                                    <span>2022.06.11~2022.06.11</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
