@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 03:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 05:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[2022 더베인 단독콘서트［파란］－서울 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2171</link>
             <guid>https://www.sangsangmadang.com/show/detail/2171</guid>
-            <pubDate>Tue, 20 Sep 2022 03:32:46 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 03:32:21 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.10.16~2022.10.16</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/9f1a364f-19e7-43bf-8795-7bcd4315bec7" length="0" type="image//feah/temp/2022/202209/9f1a364f-19e7-43bf-8795-7bcd4315bec7"/>
@@ -200,7 +200,7 @@
             <title><![CDATA[PAIR PLAY : Vol.2 김마리x최정윤 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2170</link>
             <guid>https://www.sangsangmadang.com/show/detail/2170</guid>
-            <pubDate>Tue, 20 Sep 2022 03:32:46 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 03:32:21 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.10.10~2022.10.10</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/c66ccd57-0f92-4d95-a73c-2155f56e6f77" length="0" type="image//feah/temp/2022/202209/c66ccd57-0f92-4d95-a73c-2155f56e6f77"/>
