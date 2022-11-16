@@ -1,8 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.sangsangmadang.com/display/displayInfo/ALL?selSpace=BS</id>
-    <title>상상마당 ─ 전시 ─ 부산</title>
-    <updated>2022-11-16T18:30:23.601Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.sangsangmadang.com/display/displayInfo/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>상상마당 ─ 전시 ─ 부산</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 19:16:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZIBEZI in 지비지 부산 개인전]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2221</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2221</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
+											<span>2022.11.05~2022.11.27</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/92a7fa81-6c57-4b19-9157-ad03108058e1" length="0" type="image//feah/temp/2022/202210/92a7fa81-6c57-4b19-9157-ad03108058e1"/>
+        </item>
+        <item>
+            <title><![CDATA[제6회 부산웹툰페스티벌 웹툰(만화) 전시]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2206</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2206</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
+											<span>2022.10.27~2022.10.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/0d84ece1-05e1-4c58-a00e-8d9240d4b651" length="0" type="image//feah/temp/2022/202210/0d84ece1-05e1-4c58-a00e-8d9240d4b651"/>
+        </item>
+        <item>
+            <title><![CDATA[<시옷> 전시]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2205</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2205</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 4F</span> 
+											<span>2022.10.21~2022.10.23</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/dbf38bd4-34e4-4364-8e50-b85681f8b696" length="0" type="image//feah/temp/2022/202210/dbf38bd4-34e4-4364-8e50-b85681f8b696"/>
+        </item>
+        <item>
+            <title><![CDATA[제5회 <Over the Rainbow>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2165</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2165</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
+											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1" length="0" type="image//feah/temp/2022/202209/dc0ce179-be80-4067-829d-43e7491d8cb1"/>
+        </item>
+        <item>
+            <title><![CDATA[KT&G 상상마당 부산 현상인화실 성과물전시 : 제2회 VIEWFINDER]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2159</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2159</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[7th 워너비컬렉터 <비둘기의 마음>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2161</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2161</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1F 플레잉룸</span> 
+											<span>2022.09.08~2022.11.20</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[상상사계 가을 <Love Letter>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2160</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2160</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1F 라운지</span> 
+											<span>2022.09.02~2022.11.20</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[상상사계 여름 x 6th 워너비 컬렉터 <WAVES EVERY-WHERE>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2094</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2094</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1F 라운지, 2F 디자인스퀘어</span> 
+											<span>2022.05.27~2022.08.28</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[<Snoopy, Beyond the Space>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2054</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2054</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.05.05~2022.09.11</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[<ART FAIR>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2055</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2055</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4F 갤러리 로비</span> 
+											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 미술대학 예비작가 지원전시 <제2회 ARTISTART>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2038</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2038</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[5th 워너비 컬렉터 <아뜰리에 가든 : 팝업갤러리>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2045</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2045</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
+											<span>2022.03.25~2022.05.29</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[4th 워너비 컬렉터 <유미의세포들 : 팝업갤러리>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2019</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2019</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
+											<span>2022.02.12~2022.03.20</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[<유미의 세포들 부산전>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1981</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1981</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2021.12.08~2022.03.20</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[3rd 워너비 컬렉터 <에어슬랜드 : 팝업 갤러리>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1995</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1995</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
+											<span>2021.12.04~2022.02.02</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[상상마당 부산 현상인화실 성과물전시 : <제1회 VIEWFINDER>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1961</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1961</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4F 갤러리</span> 
+											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[<제4회 오버 더 레인보우>(Over the Rainbow)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1960</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1960</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5F 갤러리</span> 
+											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[KT＆G SKOPF 신소장품전 PIC]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1944</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1944</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2021.10.15~2021.10.31</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[2nd 워너비 컬렉터 <카멜앤오아시스 : 팝업 갤러리>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1938</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1938</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>2F 디자인 스퀘어</span> 
+											<span>2021.10.01~2021.11.28</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[KT&G 상상펀드 10주년 문화예술 나눔사업 <10100>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1936</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1936</guid>
+            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
+											<span>2021.09.27~2021.10.10</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+    </channel>
+</rss>
