@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 00:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 02:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.12.10~2022.12.10</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34" length="0" type="image//feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34"/>
+        </item>
+        <item>
+            <title><![CDATA[[Flower Planet] 이그린X우예린 in 부산]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2239</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2239</guid>
+            <pubDate>Fri, 18 Nov 2022 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
+		                                    <span>2022.12.02~2022.12.02</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/0d422eb9-8018-4557-bd17-72e02c3ad56b" length="0" type="image//feah/temp/2022/202211/0d422eb9-8018-4557-bd17-72e02c3ad56b"/>
         </item>
         <item>
             <title><![CDATA[재즈힙합 모먼트 with Namy]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 17 Nov 2022 05:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.11.20~2022.11.20</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/4bd47815-2ebb-4247-8121-b719cd249534" length="0" type="image//feah/temp/2022/202211/4bd47815-2ebb-4247-8121-b719cd249534"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<온음표: 온전한 마음을 표현하다>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 18:22:11 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.08.28~2022.08.28</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[루프탑 공연: 한여름밤의 꿈]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2142</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2142</guid>
-            <pubDate>Wed, 16 Nov 2022 18:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span>13층 루프탑 </span>
-		                                    <span>2022.08.19~2022.08.19</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
