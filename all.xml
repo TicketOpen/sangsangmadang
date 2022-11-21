@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 04:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,13 +17,40 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/46b82675-1a62-42bd-9a47-6cadf5a05935" length="0" type="image//feah/temp/2022/202211/46b82675-1a62-42bd-9a47-6cadf5a05935"/>
         </item>
         <item>
+            <title><![CDATA[2022 박소은 연말 단독 공연 <일기：너는 지금 무슨 생각에 잠겨있니> (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2243</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2243</guid>
+            <pubDate>Mon, 21 Nov 2022 02:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2022.12.24~2022.12.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/dfb99535-9231-4f69-9808-dd19ed168a42" length="0" type="image//feah/temp/2022/202211/dfb99535-9231-4f69-9808-dd19ed168a42"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김사월 연말 단독 공연 <밖은 너무 추워 나는> (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2242</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2242</guid>
+            <pubDate>Mon, 21 Nov 2022 02:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2022.12.17~2022.12.18</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/fe066f05-eded-4879-af18-b26cf7c607a4" length="0" type="image//feah/temp/2022/202211/fe066f05-eded-4879-af18-b26cf7c607a4"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이랑 연말 단독 공연 <PRIDE> (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2241</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2241</guid>
+            <pubDate>Mon, 21 Nov 2022 02:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2022.12.10~2022.12.11</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/cfce8bcd-ea5e-49b6-ad19-f79fe74f2c5d" length="0" type="image//feah/temp/2022/202211/cfce8bcd-ea5e-49b6-ad19-f79fe74f2c5d"/>
+        </item>
+        <item>
             <title><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2235</link>
             <guid>https://www.sangsangmadang.com/show/detail/2235</guid>
             <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.12.10~2022.12.10</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34" length="0" type="image//feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Poles 단독공연 ＇The High Tide Club FOREVER!＇ (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -32,7 +59,7 @@
             <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.12.09~2022.12.09</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/963fc39b-d81c-4cae-a0ac-cfee71f90369" length="0" type="image//feah/temp/2022/202210/963fc39b-d81c-4cae-a0ac-cfee71f90369"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[기수 넘버프로젝트 콘서트 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -41,7 +68,7 @@
             <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.12.04~2022.12.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/add7bfc7-4f47-4b41-811a-4e069591f087" length="0" type="image//feah/temp/2022/202211/add7bfc7-4f47-4b41-811a-4e069591f087"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <산타와 빈양말> (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -158,33 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.11.12~2022.11.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 LIVE 2022 : 03 미래를 사랑해 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2203</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2203</guid>
-            <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2022.11.12~2022.11.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[루프탑 공연: 우리의 청춘은 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2217</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2217</guid>
-            <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>13층 루프탑 </span>
-		                                    <span>2022.11.11~2022.11.11</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴등등 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2226</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2226</guid>
-            <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>사운드홀, 잔디마당</span>
-		                                    <span>2022.11.08~2022.11.12</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
