@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 02:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 03:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1631,7 +1631,7 @@
             <title><![CDATA[상상사계 겨울 <몰래 온 손님, 산타클로스> (상상마당 ─ 전시 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2251</link>
             <guid>https://www.sangsangmadang.com/display/detail/2251</guid>
-            <pubDate>Sun, 27 Nov 2022 02:34:54 GMT</pubDate>
+            <pubDate>Sun, 27 Nov 2022 02:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 라운지</span> 
 											<span>2022.11.24~2022.12.31</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/e4f029dd-f1a4-498c-8527-0e086d75d641" length="0" type="image//feah/temp/2022/202211/e4f029dd-f1a4-498c-8527-0e086d75d641"/>
@@ -1890,7 +1890,7 @@
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2022.11.28~2022.12.09</dd>
+												<dd>2022.11.27~2022.12.09</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
