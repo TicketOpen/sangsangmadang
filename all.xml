@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 08:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1277,15 +1277,6 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad" length="0" type="image//feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad"/>
         </item>
         <item>
-            <title><![CDATA[핀든아트 개인전 <여행기록> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2240</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2240</guid>
-            <pubDate>Fri, 18 Nov 2022 03:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2022.12.06~2022.12.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/70367a88-eb49-4d33-a7eb-9b30bbc08d2b" length="0" type="image//feah/temp/2022/202211/70367a88-eb49-4d33-a7eb-9b30bbc08d2b"/>
-        </item>
-        <item>
             <title><![CDATA[김영경 개인전 <사이의 공간> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2223</link>
             <guid>https://www.sangsangmadang.com/display/detail/2223</guid>
@@ -1310,7 +1301,7 @@
             <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1, 2</span> 
 											<span>2022.11.02~2022.11.06</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/2dd87fd8-a341-4db6-bf8a-3a99b49e47ef" length="0" type="image//feah/temp/2022/202211/2dd87fd8-a341-4db6-bf8a-3a99b49e47ef"/>
         </item>
         <item>
             <title><![CDATA[제5회 <Over the Rainbow> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1445,6 +1436,15 @@
             <pubDate>Wed, 16 Nov 2022 18:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2021.10.12~2021.10.17</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[정찬민 개인전 <우린 결국 닮은 모양> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/1933</link>
+            <guid>https://www.sangsangmadang.com/display/detail/1933</guid>
+            <pubDate>Tue, 29 Nov 2022 09:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
+											<span>2021.09.28~2021.10.09</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
