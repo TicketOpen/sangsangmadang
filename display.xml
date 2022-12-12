@@ -4,7 +4,7 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 07:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 08:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2022.12.14~2022.12.18</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad" length="0" type="image//feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad"/>
+        </item>
+        <item>
+            <title><![CDATA[GG Ludens <115里>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2260</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2260</guid>
+            <pubDate>Mon, 12 Dec 2022 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리</span> 
+											<span>2022.12.13~2023.01.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/543e5499-ee3e-4ffe-911b-ba82618923d6" length="0" type="image//feah/temp/2022/202212/543e5499-ee3e-4ffe-911b-ba82618923d6"/>
         </item>
         <item>
             <title><![CDATA[핀든아트 개인전 <여행기록>]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2022.11.16~2022.11.27</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/f6b39d4e-a3ce-4e75-a90c-bbdf7ac4b59a" length="0" type="image//feah/temp/2022/202211/f6b39d4e-a3ce-4e75-a90c-bbdf7ac4b59a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[이내 개인전 <결, 로>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.09.05~2022.09.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[제5회 <Over the Rainbow>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2156</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2156</guid>
-            <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리</span> 
-											<span>2022.09.03~2022.09.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
