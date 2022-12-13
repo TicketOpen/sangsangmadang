@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -921,8 +921,8 @@
             <link>https://www.sangsangmadang.com/display/detail/2260</link>
             <guid>https://www.sangsangmadang.com/display/detail/2260</guid>
             <pubDate>Mon, 12 Dec 2022 08:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리</span> 
-											<span>2022.12.13~2023.01.08</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.12.13~2023.01.09</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/543e5499-ee3e-4ffe-911b-ba82618923d6" length="0" type="image//feah/temp/2022/202212/543e5499-ee3e-4ffe-911b-ba82618923d6"/>
         </item>
         <item>
