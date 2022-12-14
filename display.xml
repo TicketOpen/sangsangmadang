@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 04:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 05:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<전시연계 부대 프로그램> 에그박사팀 팬미팅]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2263</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2263</guid>
+            <pubDate>Wed, 14 Dec 2022 05:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3F 라이브홀</span> 
+											<span>2022.12.22~2022.12.22</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/899a255f-1393-4f02-8d0f-ee4faa23438d" length="0" type="image//feah/temp/2022/202212/899a255f-1393-4f02-8d0f-ee4faa23438d"/>
+        </item>
         <item>
             <title><![CDATA[박정현 개인전 <커튼콜 : 오늘 하루도 잘 살았습니다.>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2253</link>
@@ -41,7 +50,7 @@
             <pubDate>Sun, 27 Nov 2022 02:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 라운지</span> 
 											<span>2022.11.24~2022.12.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/e4f029dd-f1a4-498c-8527-0e086d75d641" length="0" type="image//feah/temp/2022/202211/e4f029dd-f1a4-498c-8527-0e086d75d641"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김영경 개인전 <사이의 공간>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 플레잉룸</span> 
 											<span>2022.09.08~2022.11.20</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Message Frome the Ocean]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2215</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2215</guid>
-            <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2022.09.05~2022.09.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
