@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 06:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -746,6 +746,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/0cf6db2c-1e62-4773-8238-50b922344d48" length="0" type="image//feah/temp/2022/202212/0cf6db2c-1e62-4773-8238-50b922344d48"/>
         </item>
         <item>
+            <title><![CDATA[상상이루미밴드 결과발표회 <Born to Dream> (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2264</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2264</guid>
+            <pubDate>Wed, 14 Dec 2022 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3층 라이브홀</span>
+		                                    <span>2022.12.18~2022.12.18</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/19515f9a-b05b-4c6c-88d3-bde2fb41cdb4" length="0" type="image//feah/temp/2022/202212/19515f9a-b05b-4c6c-88d3-bde2fb41cdb4"/>
+        </item>
+        <item>
             <title><![CDATA[밴드 새나(SAENA) 쇼케이스 초연(初演) (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2244</link>
             <guid>https://www.sangsangmadang.com/show/detail/2244</guid>
@@ -761,7 +770,7 @@
             <pubDate>Wed, 16 Nov 2022 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.12.10~2022.12.10</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34" length="0" type="image//feah/temp/2022/202211/9f399fee-d54c-499d-a4b1-ed8157efed34"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[[Flower Planet] 이그린X우예린 in 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -896,15 +905,6 @@
             <pubDate>Wed, 16 Nov 2022 18:22:11 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2022.09.30~2022.09.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[루프탑 공연: 스크린 오브 뮤직 (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2163</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2163</guid>
-            <pubDate>Wed, 16 Nov 2022 18:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span>13층 루프탑 </span>
-		                                    <span>2022.09.23~2022.09.23</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
