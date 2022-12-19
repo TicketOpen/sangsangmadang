@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 04:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1808,6 +1808,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[2023년 상상스타터클래스: 콘서트 기획 PD 1기 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1856</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1856</guid>
+            <pubDate>Mon, 19 Dec 2022 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
+			                                
+			                            
+										
+										<h4>2023년 상상스타터클래스: 콘서트 기획 PD 1기</h4>
+										<p class="detail">
+											<span>상상클래스</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.12.19~2023.01.03</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.01.12~2023.03.02<br>
+													(매주 목, 
+													
+														00:00~00:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/41b8d061-970e-4dfa-9d13-e1cd0406ed72" length="0" type="image//feah/temp/2022/202212/41b8d061-970e-4dfa-9d13-e1cd0406ed72"/>
+        </item>
+        <item>
             <title><![CDATA[아카데미 신규 홈페이지 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1773</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1773</guid>
@@ -1937,7 +1970,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/2205b63f-aec0-4f0d-b08f-92c17e7799e2" length="0" type="image//feah/temp/2022/202210/2205b63f-aec0-4f0d-b08f-92c17e7799e2"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[마스터 흑백사진 Part.2 (FB) (상상마당 ─ 아카데미)]]></title>
@@ -2427,39 +2460,6 @@
 													(매주 토, 
 													
 														10:00~12:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[악보보다 쓰기 쉬운 뮤지션 기획서 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1829</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1829</guid>
-            <pubDate>Wed, 16 Nov 2022 18:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>악보보다 쓰기 쉬운 뮤지션 기획서</h4>
-										<p class="detail">
-											<span>최윤미</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.27~2022.10.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.10.27~2022.11.10<br>
-													(매주 목, 
-													
-														19:00~21:00 
 													
 													 )
 												</dd>
