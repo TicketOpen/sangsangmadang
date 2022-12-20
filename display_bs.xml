@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 00:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 02:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에그박사팀의 연구실>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2266</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2266</guid>
+            <pubDate>Tue, 20 Dec 2022 02:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
+											<span>2022.12.23~2023.02.19</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/cde252bf-1af5-4f66-886a-d87f6030a19c" length="0" type="image//feah/temp/2022/202212/cde252bf-1af5-4f66-886a-d87f6030a19c"/>
+        </item>
         <item>
             <title><![CDATA[<전시연계 부대 프로그램> 에그박사팀 팬미팅]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2263</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
 											<span>2022.10.27~2022.10.30</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/0d84ece1-05e1-4c58-a00e-8d9240d4b651" length="0" type="image//feah/temp/2022/202210/0d84ece1-05e1-4c58-a00e-8d9240d4b651"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<시옷> 전시]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>5F 갤러리</span> 
 											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[KT＆G SKOPF 신소장품전 PIC]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1944</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1944</guid>
-            <pubDate>Wed, 16 Nov 2022 19:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
-											<span>2021.10.15~2021.10.31</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
