@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 12:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -935,13 +935,22 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/6ddd37cf-94d8-41aa-b63a-6b8225d1ded9" length="0" type="image//feah/temp/2022/202212/6ddd37cf-94d8-41aa-b63a-6b8225d1ded9"/>
         </item>
         <item>
+            <title><![CDATA[8th 워너비컬렉터 <"_"에게 주고 싶은> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2270</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2270</guid>
+            <pubDate>Fri, 30 Dec 2022 12:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 1F 플레잉룸</span> 
+											<span>2022.12.15~2023.02.26</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/c33e3393-4ca2-4387-8725-29432566d3f4" length="0" type="image//feah/temp/2022/202212/c33e3393-4ca2-4387-8725-29432566d3f4"/>
+        </item>
+        <item>
             <title><![CDATA[박정현 개인전 <커튼콜 : 오늘 하루도 잘 살았습니다.> (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2253</link>
             <guid>https://www.sangsangmadang.com/display/detail/2253</guid>
             <pubDate>Mon, 28 Nov 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2022.12.14~2022.12.18</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad" length="0" type="image//feah/temp/2022/202211/9de9270a-ab98-4331-9253-753af5fe93ad"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[GG Ludens <115里> (상상마당 ─ 전시)]]></title>
@@ -1075,15 +1084,6 @@
             <guid>https://www.sangsangmadang.com/display/detail/2165</guid>
             <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
-											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[KT&G 상상마당 부산 현상인화실 성과물전시 : 제2회 VIEWFINDER (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2159</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2159</guid>
-            <pubDate>Wed, 16 Nov 2022 18:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
 											<span>2022.09.24~2022.10.10</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
