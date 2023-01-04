@@ -4,9 +4,27 @@
         <title>상상마당 ─ 전시 ─ 대치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DIVE IN AT HOME]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2275</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2275</guid>
+            <pubDate>Wed, 04 Jan 2023 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.10.31~2022.11.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde" length="0" type="image//feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde"/>
+        </item>
+        <item>
+            <title><![CDATA[DIVE IN AT HOME]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2274</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2274</guid>
+            <pubDate>Wed, 04 Jan 2023 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2022.10.31~2022.11.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde" length="0" type="image//feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde"/>
+        </item>
         <item>
             <title><![CDATA[꽃 피우다]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2230</link>
@@ -32,7 +50,7 @@
             <pubDate>Wed, 16 Nov 2022 21:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.08.08~2022.09.02</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/db4166e7-26cb-4096-a363-c8b7296ca8ba" length="0" type="image//feah/temp/2022/202210/db4166e7-26cb-4096-a363-c8b7296ca8ba"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[열음, 여름 : OPEN IT]]></title>
@@ -41,7 +59,7 @@
             <pubDate>Wed, 16 Nov 2022 21:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.07.11~2022.08.05</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/dba3f056-866d-4a9c-9254-02a83e1939d4" length="0" type="image//feah/temp/2022/202207/dba3f056-866d-4a9c-9254-02a83e1939d4"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[My Green Wonderland]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Wed, 16 Nov 2022 21:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.05.17~2021.06.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어아트전]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1870</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1870</guid>
-            <pubDate>Wed, 16 Nov 2022 21:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.04.19~2021.05.14</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 처음 이곳에 왔을 때]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1854</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1854</guid>
-            <pubDate>Wed, 16 Nov 2022 21:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.03.22~2021.04.16</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
