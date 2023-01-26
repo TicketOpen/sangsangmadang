@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 00:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 02:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,7 +728,7 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[Lacuna(라쿠나) 투어 콘서트 &lsquo;마차&rsquo; - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
+            <title><![CDATA[Lacuna(라쿠나) 투어 콘서트 '마차' - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2283</link>
             <guid>https://www.sangsangmadang.com/show/detail/2283</guid>
             <pubDate>Wed, 25 Jan 2023 10:06:53 GMT</pubDate>
