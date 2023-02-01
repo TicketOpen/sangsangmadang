@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 04:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -602,39 +602,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[2022년 상상스타터클래스: 버스킹 음향]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1767</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1767</guid>
-            <pubDate>Fri, 20 Jan 2023 06:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>2022년 상상스타터클래스: 버스킹 음향</h4>
-										<p class="detail">
-											<span>KT&amp;G 상상마당 부산 음향감독</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.05.16~2022.05.31</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.06.06~2022.07.07<br>
-													(매주 화, 
-													
-														17:00~19:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 상상스타터클래스: 버스킹 조명]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1768</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1768</guid>
@@ -660,6 +627,39 @@
 													(매주 화, 
 													
 														15:00~17:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상상스타터클래스: 버스킹 음향]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1767</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1767</guid>
+            <pubDate>Fri, 20 Jan 2023 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
+			                                
+			                            
+										
+										<h4>2022년 상상스타터클래스: 버스킹 음향</h4>
+										<p class="detail">
+											<span>KT&amp;G 상상마당 부산 음향감독</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.05.16~2022.05.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.06.06~2022.07.07<br>
+													(매주 화, 
+													
+														17:00~19:00 
 													
 													 )
 												</dd>
