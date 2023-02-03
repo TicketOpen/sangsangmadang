@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 06:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2484,12 +2484,12 @@
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.01.10~2023.02.03</dd>
+												<dd>2023.01.10~2023.02.17</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2023.02.06~2023.03.27<br>
+													2023.02.20~2023.04.10<br>
 													(매주 월, 
 													
 														19:00~21:00 
@@ -2733,9 +2733,9 @@
         </item>
         <item>
             <title><![CDATA[아카데미 신규 홈페이지 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1773</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1773</guid>
-            <pubDate>Fri, 20 Jan 2023 05:13:27 GMT</pubDate>
+            <link>https://www.sangsangmadang.com/lec/detail/1874</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1874</guid>
+            <pubDate>Fri, 03 Feb 2023 06:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
 			                                
 			                            
@@ -2743,20 +2743,20 @@
 										<h4>아카데미 신규 홈페이지</h4>
 										<p class="detail">
 											<span>상상마당 아카데미</span>
-											<span>0기</span>
+											<span>1기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2022.06.28~2022.12.31</dd>
+												<dd>2023.01.01~2023.12.31</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2022.12.31~2022.12.31<br>
-													( 토, 
+													2023.01.01~2023.12.31<br>
+													(매주 월,화,수,목,금,토, 
 													
-														00:00~00:00 
+														10:00~19:00 
 													
 													 )
 												</dd>
