@@ -4,9 +4,42 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 08:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[홍윤희 작가 토크쇼] 요즘 작가가 전하는 요즘 시나리오 쓰기 - 2/26(일)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1875</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1875</guid>
+            <pubDate>Fri, 03 Feb 2023 09:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>[홍윤희 작가 토크쇼] 요즘 작가가 전하는 요즘 시나리오 쓰기 - 2/26(일)</h4>
+										<p class="detail">
+											<span>홍윤희</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.02.08~2023.02.25</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.02.26~2023.02.26<br>
+													( 일, 
+													
+														13:00~17:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/38c90ff0-02d7-4af0-a796-9c4c7ca3b119" length="0" type="image//feah/temp/2023/202302/38c90ff0-02d7-4af0-a796-9c4c7ca3b119"/>
+        </item>
         <item>
             <title><![CDATA[당신이 몰랐던 몽타주, 당신이 알게 될 시네마]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1867</link>
@@ -137,7 +170,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/557ac6b7-fa0a-4f98-bd29-027079483887" length="0" type="image//feah/temp/2023/202301/557ac6b7-fa0a-4f98-bd29-027079483887"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[나의 첫 그림책 드로잉]]></title>
@@ -627,39 +660,6 @@
 													( 화, 
 													
 														19:30~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[마스터 흑백사진 Part.2 (FB)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1847</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1847</guid>
-            <pubDate>Fri, 20 Jan 2023 11:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>마스터 흑백사진 Part.2 (FB)</h4>
-										<p class="detail">
-											<span>유철수</span>
-											<span>13기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.10.18~2022.11.18</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.11.21~2022.12.26<br>
-													(매주 월, 
-													
-														19:00~21:30 
 													
 													 )
 												</dd>
