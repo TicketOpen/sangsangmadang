@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 00:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 02:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,39 +272,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1871</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1871</guid>
-            <pubDate>Fri, 20 Jan 2023 11:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
-										<p class="detail">
-											<span>김태원</span>
-											<span>13기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.01.19~2023.01.28</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.01.28~2023.04.15<br>
-													(매주 토, 
-													
-														10:00~13:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[[1DAY] 뜻밖의 유리공예 : 스테인드글라스 캔들홀더]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1868</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1868</guid>
@@ -330,6 +297,39 @@
 													( 토, 
 													
 														13:30~16:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1871</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1871</guid>
+            <pubDate>Fri, 20 Jan 2023 11:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
+										<p class="detail">
+											<span>김태원</span>
+											<span>13기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.01.19~2023.01.28</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.01.28~2023.04.15<br>
+													(매주 토, 
+													
+														10:00~13:00 
 													
 													 )
 												</dd>
