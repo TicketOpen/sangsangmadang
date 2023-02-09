@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1268,6 +1268,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[고은주 개인전 <花樣年華(화양연화)> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2291</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2291</guid>
+            <pubDate>Thu, 09 Feb 2023 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
+											<span>2023.02.07~2023.04.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/86a4eebc-364f-46f5-9561-6eee70e9604e" length="0" type="image//feah/temp/2023/202302/86a4eebc-364f-46f5-9561-6eee70e9604e"/>
+        </item>
+        <item>
             <title><![CDATA[<상상나래> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2289</link>
             <guid>https://www.sangsangmadang.com/display/detail/2289</guid>
@@ -1301,7 +1310,7 @@
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2022.12.06~2022.12.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202211/34a02206-37d5-4b30-9992-d132cd0eb48a" length="0" type="image//feah/temp/2022/202211/34a02206-37d5-4b30-9992-d132cd0eb48a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김영경 개인전 <사이의 공간> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1407,7 +1416,7 @@
             <link>https://www.sangsangmadang.com/display/detail/1999</link>
             <guid>https://www.sangsangmadang.com/display/detail/1999</guid>
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 3 (KT&amp;G 상상마당 춘천 상상스테이 B1)</span> 
+            <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
 											<span>2021.12.10~2022.03.31</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -1436,15 +1445,6 @@
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2021.11.05~2021.11.21</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리딩스케치 단체전 <김유정 그리는 아이들 박수근 쓰는 아이들> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1942</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1942</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2021.10.29~2021.11.03</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
