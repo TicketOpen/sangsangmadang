@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 00:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 02:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -749,7 +749,7 @@
             <title><![CDATA[에그박사팀 <도전! 퀴즈쇼> (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2297</link>
             <guid>https://www.sangsangmadang.com/show/detail/2297</guid>
-            <pubDate>Fri, 17 Feb 2023 00:38:50 GMT</pubDate>
+            <pubDate>Fri, 17 Feb 2023 00:36:17 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3F 라이브홀</span>
 		                                    <span>2023.02.26~2023.02.26</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/80e6abf2-f403-41ce-a192-f6546d2e6fef" length="0" type="image//feah/temp/2023/202302/80e6abf2-f403-41ce-a192-f6546d2e6fef"/>
