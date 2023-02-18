@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 춘천</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 03:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 05:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af" length="0" type="image//feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af"/>
         </item>
         <item>
+            <title><![CDATA[KT&G 상상마당 춘천 공간 지원사업: 2023 춘천해드립니다]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2301</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2301</guid>
+            <pubDate>Sat, 18 Feb 2023 05:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트센터</span>
+		                                    <span>2023.02.27~2023.04.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/64a70714-7c7c-4177-a9d4-382ab4e3ffc9" length="0" type="image//feah/temp/2023/202302/64a70714-7c7c-4177-a9d4-382ab4e3ffc9"/>
+        </item>
+        <item>
             <title><![CDATA[케이블리스 x 월담 콘서트]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2294</link>
             <guid>https://www.sangsangmadang.com/show/detail/2294</guid>
@@ -41,7 +50,7 @@
             <pubDate>Fri, 10 Feb 2023 06:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2023.02.13~2023.02.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/8d54128d-bb5c-4163-9aa3-ddc0abfd9df5" length="0" type="image//feah/temp/2023/202302/8d54128d-bb5c-4163-9aa3-ddc0abfd9df5"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[W24 단독 콘서트 <우리, 모든 날>]]></title>
@@ -173,15 +182,6 @@
             <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_빨간의자]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2147</link>
             <guid>https://www.sangsangmadang.com/show/detail/2147</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>사운드홀 로비</span>
-		                                    <span>2022.08.27~2022.08.27</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!]_하이노트뮤직]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2146</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2146</guid>
             <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀 로비</span>
 		                                    <span>2022.08.27~2022.08.27</span>]]></content:encoded>
