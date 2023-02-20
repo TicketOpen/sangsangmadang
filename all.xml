@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 08:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1838,7 +1838,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/6422922c-2424-4081-89f3-73487ef0a20b" length="0" type="image//feah/temp/2023/202302/6422922c-2424-4081-89f3-73487ef0a20b"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/b6bce077-9396-4a78-bfa6-b0c8facc50a5" length="0" type="image//feah/temp/2023/202302/b6bce077-9396-4a78-bfa6-b0c8facc50a5"/>
         </item>
         <item>
             <title><![CDATA[한 장씩 그리는 아이패드 애니메이션 (상상마당 ─ 아카데미)]]></title>
@@ -1872,6 +1872,39 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/c0e35d14-94de-41ad-8bfe-96e14daeee49" length="0" type="image//feah/temp/2023/202302/c0e35d14-94de-41ad-8bfe-96e14daeee49"/>
+        </item>
+        <item>
+            <title><![CDATA[[요즘예술] ART X SCIENCE (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1881</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1881</guid>
+            <pubDate>Mon, 20 Feb 2023 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>[요즘예술] ART X SCIENCE</h4>
+										<p class="detail">
+											<span>아카데미 강사</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.02.20~2023.03.08</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.03.11~2023.03.18<br>
+													(매주 토, 
+													
+														15:00~16:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/e5c343cd-86d6-4684-859c-b2d2f5aa8538" length="0" type="image//feah/temp/2023/202302/e5c343cd-86d6-4684-859c-b2d2f5aa8538"/>
         </item>
         <item>
             <title><![CDATA[뚜렷한 색, 빈티지한 멋_리소그라프(Risograph) (상상마당 ─ 아카데미)]]></title>
@@ -1937,7 +1970,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/38c90ff0-02d7-4af0-a796-9c4c7ca3b119" length="0" type="image//feah/temp/2023/202302/38c90ff0-02d7-4af0-a796-9c4c7ca3b119"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[내 생애 가장 아름다운 책, 그리고 디자인 (상상마당 ─ 아카데미)]]></title>
@@ -2427,39 +2460,6 @@
 													( 월, 
 													
 														00:00~00:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[아카데미 신규 홈페이지 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1874</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1874</guid>
-            <pubDate>Fri, 03 Feb 2023 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
-			                                
-			                            
-										
-										<h4>아카데미 신규 홈페이지</h4>
-										<p class="detail">
-											<span>상상마당 아카데미</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.01.01~2023.12.31</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.01.01~2023.12.31<br>
-													(매주 월,화,수,목,금,토, 
-													
-														10:00~19:00 
 													
 													 )
 												</dd>
