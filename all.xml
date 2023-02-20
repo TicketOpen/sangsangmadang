@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1973,39 +1973,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[당신이 몰랐던 몽타주, 당신이 알게 될 시네마 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1867</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1867</guid>
-            <pubDate>Fri, 20 Jan 2023 05:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>당신이 몰랐던 몽타주, 당신이 알게 될 시네마</h4>
-										<p class="detail">
-											<span>정승구</span>
-											<span>27기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.01.10~2023.02.17</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.02.20~2023.04.10<br>
-													(매주 월, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[토이카메라로 찍는 흑백사진 원데이 클래스 - 2/11 (토), 25 (토) (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1873</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1873</guid>
@@ -2468,6 +2435,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[아카데미 신규 홈페이지 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1874</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1874</guid>
+            <pubDate>Fri, 03 Feb 2023 06:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>아카데미 신규 홈페이지</h4>
+										<p class="detail">
+											<span>상상마당 아카데미</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.01.01~2023.12.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.01.01~2023.12.31<br>
+													(매주 월,화,수,목,금,토, 
+													
+														10:00~19:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[SSMD FIGURE DESIGN PRODUCTION (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1880</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1880</guid>
@@ -2598,39 +2598,6 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/19ffd0bd-43b3-4242-8de1-ef616ff61f54" length="0" type="image//feah/temp/2022/202208/19ffd0bd-43b3-4242-8de1-ef616ff61f54"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 몰랐던 몽타주, 당신이 알게 될 시네마 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1867</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1867</guid>
-            <pubDate>Fri, 20 Jan 2023 05:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>당신이 몰랐던 몽타주, 당신이 알게 될 시네마</h4>
-										<p class="detail">
-											<span>정승구</span>
-											<span>27기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.01.10~2023.02.17</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.02.20~2023.04.10<br>
-													(매주 월, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[나의 첫 그림책 드로잉 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
@@ -3120,6 +3087,39 @@
 													(매주 토, 
 													
 														10:00~13:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[1DAY] 은하수 사진, 네게만 줄게 my Galaxy (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1831</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1831</guid>
+            <pubDate>Mon, 20 Feb 2023 07:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 은하수 사진, 네게만 줄게 my Galaxy</h4>
+										<p class="detail">
+											<span>홍동민</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.08.30~2022.11.09</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.11.11~2022.11.11<br>
+													( 금, 
+													
+														19:30~21:30 
 													
 													 )
 												</dd>
