@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 10:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2nd NEW CLASSIC : 시작은 빛]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2302</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2302</guid>
+            <pubDate>Tue, 21 Feb 2023 10:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2023.03.04~2023.04.16</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/9defdeb9-5694-4488-a1c3-5079334c8adc" length="0" type="image//feah/temp/2023/202302/9defdeb9-5694-4488-a1c3-5079334c8adc"/>
+        </item>
         <item>
             <title><![CDATA[SLAP 생활예술사진가 13기 결과전 <열한 개의 느낌표 그리고, 물음표>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2286</link>
@@ -41,7 +50,7 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리 5F</span> 
 											<span>2022.09.29~2022.10.12</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/006d7e01-297f-44f7-8d29-765f876f8ba5" length="0" type="image//feah/temp/2022/202209/006d7e01-297f-44f7-8d29-765f876f8ba5"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2022 릴레이 기증 작품전]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.06.10~2021.08.15</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<그림 같은 집>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1856</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1856</guid>
-            <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.03.30~2021.05.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
