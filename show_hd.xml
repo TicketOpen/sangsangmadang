@@ -4,9 +4,36 @@
         <title>상상마당 ─ 공연 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAKUEI KIM X 이봉근 X 하윤주 콘서트 '3’]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2306</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2306</guid>
+            <pubDate>Thu, 23 Feb 2023 09:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.03.26~2023.03.26</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/f79b71fd-c22d-4aa9-8b43-2c9044503859" length="0" type="image//feah/temp/2023/202302/f79b71fd-c22d-4aa9-8b43-2c9044503859"/>
+        </item>
+        <item>
+            <title><![CDATA[tokyo honey trap (도쿄허니트랩) 내한공연]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2305</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2305</guid>
+            <pubDate>Thu, 23 Feb 2023 09:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.03.05~2023.03.05</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/705792e9-7269-4485-b90a-09fee63f017c" length="0" type="image//feah/temp/2023/202302/705792e9-7269-4485-b90a-09fee63f017c"/>
+        </item>
+        <item>
+            <title><![CDATA[Joob A 단독콘서트 [The Last Cold Snap 2]]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2304</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2304</guid>
+            <pubDate>Thu, 23 Feb 2023 09:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.02.25~2023.02.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/165db31b-4607-4e4d-a61e-ad4586643621" length="0" type="image//feah/temp/2023/202302/165db31b-4607-4e4d-a61e-ad4586643621"/>
+        </item>
         <item>
             <title><![CDATA[Lacuna (라쿠나) 투어 콘서트 '마차']]></title>
             <link>https://www.sangsangmadang.com/show/detail/2282</link>
@@ -23,7 +50,7 @@
             <pubDate>Fri, 20 Jan 2023 10:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.01.20~2023.03.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/7525f534-1419-4f26-9167-34f8d0291066" length="0" type="image//feah/temp/2023/202301/7525f534-1419-4f26-9167-34f8d0291066"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[헤이맨 HeyMen 단독콘서트＇HEEEY NEW YEAR＇]]></title>
@@ -32,7 +59,7 @@
             <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.01.15~2023.01.15</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/595fb977-0492-4f1f-b57f-37dddea80bbd" length="0" type="image//feah/temp/2023/202301/595fb977-0492-4f1f-b57f-37dddea80bbd"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[파란노을 단독공연 ~ After the Night ~]]></title>
@@ -41,7 +68,7 @@
             <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.01.14~2023.01.14</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/91035ee7-719f-4894-aff7-40c2fad48ab0" length="0" type="image//feah/temp/2022/202212/91035ee7-719f-4894-aff7-40c2fad48ab0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[텐텐페스티벌 : 10년이 10냐?]]></title>
@@ -158,33 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.12.12~2022.12.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이랑 연말 단독 공연 <PRIDE>]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2241</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2241</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.12.10~2022.12.11</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[The Poles 단독공연 ＇The High Tide Club FOREVER!＇]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2232</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2232</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.12.09~2022.12.09</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 백석예술대학교 정기공연 [B.A.U Mix Vol.22]]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2256</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2256</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.12.07~2022.12.07</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
