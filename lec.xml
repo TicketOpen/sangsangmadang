@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,39 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/c0e35d14-94de-41ad-8bfe-96e14daeee49" length="0" type="image//feah/temp/2023/202302/c0e35d14-94de-41ad-8bfe-96e14daeee49"/>
         </item>
         <item>
+            <title><![CDATA[뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1882</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1882</guid>
+            <pubDate>Fri, 24 Feb 2023 08:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)</h4>
+										<p class="detail">
+											<span>이연옥</span>
+											<span>14기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.02.25~2023.03.12</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.03.14~2023.04.11<br>
+													(매주 화, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f" length="0" type="image//feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f"/>
+        </item>
+        <item>
             <title><![CDATA[[요즘예술] ART X SCIENCE]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1881</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1881</guid>
@@ -105,39 +138,6 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/e5c343cd-86d6-4684-859c-b2d2f5aa8538" length="0" type="image//feah/temp/2023/202302/e5c343cd-86d6-4684-859c-b2d2f5aa8538"/>
-        </item>
-        <item>
-            <title><![CDATA[뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1878</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1878</guid>
-            <pubDate>Wed, 15 Feb 2023 15:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>뚜렷한 색, 빈티지한 멋_리소그라프(Risograph)</h4>
-										<p class="detail">
-											<span>이연옥</span>
-											<span>14기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.02.15~2023.02.25</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.02.28~2023.03.28<br>
-													(매주 화, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f" length="0" type="image//feah/temp/2022/202209/a3520b43-e6b7-439a-86e9-0f6bf38eb07f"/>
         </item>
         <item>
             <title><![CDATA[[홍윤희 작가 토크쇼] 요즘 작가가 전하는 요즘 시나리오 쓰기 - 2/26(일)]]></title>
