@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 10:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2055,7 +2055,7 @@
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.03.06~2023.03.22</dd>
+												<dd>2023.03.03~2023.03.22</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
