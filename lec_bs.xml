@@ -4,75 +4,9 @@
         <title>상상마당 ─ 아카데미 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 07:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[차진현 작가의 흑백사진 포트폴리오 AtoZ]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1897</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1897</guid>
-            <pubDate>Mon, 06 Mar 2023 02:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>차진현 작가의 흑백사진 포트폴리오 AtoZ</h4>
-										<p class="detail">
-											<span>차진현</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.04.01~2023.04.30</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.05.04~2023.08.24<br>
-													(매주 목, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/19e9d343-ef42-4c0d-b591-4d5952a1ce00" length="0" type="image//feah/temp/2023/202303/19e9d343-ef42-4c0d-b591-4d5952a1ce00"/>
-        </item>
-        <item>
-            <title><![CDATA[이동근 작가의 흑백사진 포트폴리오 만들기]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1896</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1896</guid>
-            <pubDate>Mon, 06 Mar 2023 02:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>이동근 작가의 흑백사진 포트폴리오 만들기</h4>
-										<p class="detail">
-											<span>이동근</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.04.01~2023.04.30</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.05.02~2023.09.05<br>
-													(매주 화, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/315f42c9-e701-40f5-9551-93da73f94da1" length="0" type="image//feah/temp/2023/202303/315f42c9-e701-40f5-9551-93da73f94da1"/>
-        </item>
         <item>
             <title><![CDATA[[아트토이 클래스] 리셀가 추정 불가! 나만의 베어브릭 만들기 - 3/25(토)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1885</link>
@@ -170,7 +104,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/7f0b0f4a-daa6-4228-bea6-619e85562ffe" length="0" type="image//feah/temp/2023/202301/7f0b0f4a-daa6-4228-bea6-619e85562ffe"/>
         </item>
         <item>
             <title><![CDATA[[플라워 클래스] 계절 꽃으로 만들어보는 - 2/11(토)]]></title>
@@ -203,7 +137,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/9eed8a31-f286-4c77-afc9-975436b66c0a" length="0" type="image//feah/temp/2023/202301/9eed8a31-f286-4c77-afc9-975436b66c0a"/>
         </item>
         <item>
             <title><![CDATA[<에그박사팀의 연구실> 전시 연계 프로그램 포토그램 체험]]></title>
@@ -660,6 +594,72 @@
 													( 수, 
 													
 														19:00~20:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[고급] 차진현 작가의 흑백노트]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1772</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1772</guid>
+            <pubDate>Mon, 06 Mar 2023 07:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>[고급] 차진현 작가의 흑백노트</h4>
+										<p class="detail">
+											<span>차진현</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.06.13~2022.07.11</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.07.14~2022.09.15<br>
+													(매주 목, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[고급] 이동근 작가와 함께 하는 흑백사진 만들기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1771</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1771</guid>
+            <pubDate>Mon, 06 Mar 2023 07:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>[고급] 이동근 작가와 함께 하는 흑백사진 만들기</h4>
+										<p class="detail">
+											<span>이동근</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2022.06.13~2022.07.11</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2022.07.12~2022.09.13<br>
+													(매주 화, 
+													
+														19:00~21:00 
 													
 													 )
 												</dd>
