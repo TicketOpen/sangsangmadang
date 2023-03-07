@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,39 @@
 													(매주 토, 
 													
 														14:00~16:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[시나리오 작법 클래스] 퇴근하고 드라마 작가 어때? - 3/26(일)~5/14(일)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1898</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1898</guid>
+            <pubDate>Tue, 07 Mar 2023 08:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>[시나리오 작법 클래스] 퇴근하고 드라마 작가 어때? - 3/26(일)~5/14(일)</h4>
+										<p class="detail">
+											<span>홍윤희</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.03.12~2023.03.25</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.03.26~2023.05.14<br>
+													(매주 일, 
+													
+														11:00~14:00 
 													
 													 )
 												</dd>
@@ -628,39 +661,6 @@
 													( 일, 
 													
 														13:00~17:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[내 생애 가장 아름다운 책, 그리고 디자인]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1876</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1876</guid>
-            <pubDate>Wed, 15 Feb 2023 15:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>내 생애 가장 아름다운 책, 그리고 디자인</h4>
-										<p class="detail">
-											<span>한기현</span>
-											<span>17기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.02.15~2023.02.23</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.02.25~2023.04.15<br>
-													(매주 토, 
-													
-														10:00~12:00 
 													
 													 )
 												</dd>
