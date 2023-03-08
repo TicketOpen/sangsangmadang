@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 10:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -917,6 +917,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/93ec93bc-17c5-4588-b45a-e63a88486b59" length="0" type="image//feah/temp/2023/202302/93ec93bc-17c5-4588-b45a-e63a88486b59"/>
         </item>
         <item>
+            <title><![CDATA[선으로 축적된 시간 (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2314</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2314</guid>
+            <pubDate>Wed, 08 Mar 2023 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2023.03.06~2023.03.31</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/e0c8fc92-9ad8-4a97-bbb1-efef221dbbca" length="0" type="image//feah/temp/2023/202303/e0c8fc92-9ad8-4a97-bbb1-efef221dbbca"/>
+        </item>
+        <item>
             <title><![CDATA[2nd NEW CLASSIC : 시작은 빛 (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2302</link>
             <guid>https://www.sangsangmadang.com/display/detail/2302</guid>
@@ -941,7 +950,7 @@
             <pubDate>Thu, 09 Feb 2023 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
 											<span>2023.02.07~2023.04.30</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/86a4eebc-364f-46f5-9561-6eee70e9604e" length="0" type="image//feah/temp/2023/202302/86a4eebc-364f-46f5-9561-6eee70e9604e"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Will You Be My Valentine? (상상마당 ─ 전시)]]></title>
@@ -1076,15 +1085,6 @@
             <pubDate>Fri, 20 Jan 2023 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 라운지</span> 
 											<span>2022.11.24~2022.12.31</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[김영경 개인전 <사이의 공간> (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2223</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2223</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2022.11.16~2022.11.27</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
