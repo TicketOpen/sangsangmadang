@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1448,6 +1448,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[선으로 축적된 시간 (상상마당 ─ 전시 ─ 대치)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2314</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2314</guid>
+            <pubDate>Wed, 08 Mar 2023 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2023.03.06~2023.03.31</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/e0c8fc92-9ad8-4a97-bbb1-efef221dbbca" length="0" type="image//feah/temp/2023/202303/e0c8fc92-9ad8-4a97-bbb1-efef221dbbca"/>
+        </item>
+        <item>
             <title><![CDATA[Will You Be My Valentine? (상상마당 ─ 전시 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2287</link>
             <guid>https://www.sangsangmadang.com/display/detail/2287</guid>
@@ -1481,7 +1490,7 @@
             <pubDate>Fri, 20 Jan 2023 05:10:30 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.10.31~2022.11.25</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde" length="0" type="image//feah/temp/2023/202301/1eb7a954-5244-4fd1-9599-768a7ed4adde"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[DIVE IN AT HOME (상상마당 ─ 전시 ─ 대치)]]></title>
@@ -1616,15 +1625,6 @@
             <pubDate>Wed, 08 Mar 2023 08:14:36 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.09.13~2021.10.01</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날 구름 (상상마당 ─ 전시 ─ 대치)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1916</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1916</guid>
-            <pubDate>Wed, 08 Mar 2023 08:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.08.16~2021.09.10</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
