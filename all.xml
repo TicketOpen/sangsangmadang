@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[2023 프롬 단독 콘서트 [봄밤에 다시 만나] (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2316</link>
             <guid>https://www.sangsangmadang.com/show/detail/2316</guid>
-            <pubDate>Tue, 14 Mar 2023 06:10:57 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.04.02~2023.04.02</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/2b49ecfa-8bc5-4c03-9c57-3e489fdd6f78" length="0" type="image//feah/temp/2023/202303/2b49ecfa-8bc5-4c03-9c57-3e489fdd6f78"/>
@@ -200,7 +200,7 @@
             <title><![CDATA[먼데이프로젝트 시즌6 [김현창 단독 콘서트] (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2315</link>
             <guid>https://www.sangsangmadang.com/show/detail/2315</guid>
-            <pubDate>Tue, 14 Mar 2023 06:10:57 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.03.29~2023.03.29</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/e7b09060-971c-4476-a495-7aaf6900a03a" length="0" type="image//feah/temp/2023/202303/e7b09060-971c-4476-a495-7aaf6900a03a"/>
