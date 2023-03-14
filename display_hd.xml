@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hug Me : 우리가 사랑할 때]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2317</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2317</guid>
+            <pubDate>Tue, 14 Mar 2023 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라운지</span> 
+											<span>2023.03.09~2023.04.12</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/03e10ac2-f6fe-499e-a7c5-6cb66a4fd18c" length="0" type="image//feah/temp/2023/202303/03e10ac2-f6fe-499e-a7c5-6cb66a4fd18c"/>
+        </item>
         <item>
             <title><![CDATA[2nd NEW CLASSIC : 시작은 빛]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2302</link>
@@ -41,14 +50,14 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.10.21~2022.12.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/6478dcf7-4980-48fc-82a3-7c0d6d7ec899" length="0" type="image//feah/temp/2022/202210/6478dcf7-4980-48fc-82a3-7c0d6d7ec899"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김환 개인전 <Frame>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2178</link>
             <guid>https://www.sangsangmadang.com/display/detail/2178</guid>
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리 5F</span> 
+            <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.09.29~2022.10.12</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -57,7 +66,7 @@
             <link>https://www.sangsangmadang.com/display/detail/2177</link>
             <guid>https://www.sangsangmadang.com/display/detail/2177</guid>
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리 4F</span> 
+            <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.09.27~2022.10.04</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -66,7 +75,7 @@
             <link>https://www.sangsangmadang.com/display/detail/2156</link>
             <guid>https://www.sangsangmadang.com/display/detail/2156</guid>
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 갤러리</span> 
+            <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.09.03~2022.09.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.08.26~2021.09.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[김효연 개인전 <감각이상> Abnormal sense]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1884</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1884</guid>
-            <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.06.10~2021.08.15</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
