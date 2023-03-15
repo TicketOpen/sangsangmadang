@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,7 +218,7 @@
             <title><![CDATA[2023 KT&G 홍대 상상마당 음악지원사업 밴드디스커버리 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2318</link>
             <guid>https://www.sangsangmadang.com/show/detail/2318</guid>
-            <pubDate>Wed, 15 Mar 2023 02:07:31 GMT</pubDate>
+            <pubDate>Wed, 15 Mar 2023 02:07:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.03.15~2023.04.28</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/2067c1a3-f48f-42da-85c3-ae71305e6976" length="0" type="image//feah/temp/2023/202303/2067c1a3-f48f-42da-85c3-ae71305e6976"/>
