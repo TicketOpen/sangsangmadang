@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 07:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,7 +221,7 @@
             <pubDate>Wed, 15 Mar 2023 02:07:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.03.15~2023.04.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/2067c1a3-f48f-42da-85c3-ae71305e6976" length="0" type="image//feah/temp/2023/202303/2067c1a3-f48f-42da-85c3-ae71305e6976"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/b6f97ea3-bc5a-49f8-aaf9-c2765bc32567" length="0" type="image//feah/temp/2023/202303/b6f97ea3-bc5a-49f8-aaf9-c2765bc32567"/>
         </item>
         <item>
             <title><![CDATA[tokyo honey trap (도쿄허니트랩) 내한공연 (상상마당 ─ 공연 ─ 홍대)]]></title>
