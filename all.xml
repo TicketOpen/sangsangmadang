@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,7 +389,7 @@
             <title><![CDATA[Evening Music & Movie (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2323</link>
             <guid>https://www.sangsangmadang.com/show/detail/2323</guid>
-            <pubDate>Wed, 22 Mar 2023 04:08:36 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 04:07:44 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.03.29~2023.03.29</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987" length="0" type="image//feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987"/>
