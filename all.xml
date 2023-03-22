@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,6 +50,15 @@
             <pubDate>Thu, 02 Mar 2023 08:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀 로비</span>
 		                                    <span>2023.04.02~2023.04.02</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[Evening Music & Movie (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2323</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2323</guid>
+            <pubDate>Wed, 22 Mar 2023 04:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.03.29~2023.03.29</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -176,15 +185,6 @@
             <pubDate>Sat, 18 Feb 2023 05:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2023.02.27~2023.04.03</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[에그박사팀 <도전! 퀴즈쇼> (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2297</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2297</guid>
-            <pubDate>Fri, 17 Feb 2023 00:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3F 라이브홀</span>
-		                                    <span>2023.02.26~2023.02.26</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -386,6 +386,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/494cb128-6b39-4066-9d50-e3834c58f98d" length="0" type="image//feah/temp/2023/202303/494cb128-6b39-4066-9d50-e3834c58f98d"/>
         </item>
         <item>
+            <title><![CDATA[Evening Music & Movie (상상마당 ─ 공연 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2323</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2323</guid>
+            <pubDate>Wed, 22 Mar 2023 04:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.03.29~2023.03.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987" length="0" type="image//feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987"/>
+        </item>
+        <item>
             <title><![CDATA[COM-PLAY HOUSE #1 Wooden Language (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2296</link>
             <guid>https://www.sangsangmadang.com/show/detail/2296</guid>
@@ -401,7 +410,7 @@
             <pubDate>Thu, 16 Feb 2023 09:07:03 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.03.04~2023.03.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af" length="0" type="image//feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상마당 춘천 공간 지원사업: 2023 춘천해드립니다 (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -536,15 +545,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2022.09.24~2022.09.24</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!] _올레길 따라가 (상상마당 ─ 공연 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2164</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2164</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>잔디마당</span>
-		                                    <span>2022.09.17~2022.09.17</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -2105,6 +2105,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[재즈는 언제나 필요해 (with. 재즈에비뉴) (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1906</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1906</guid>
+            <pubDate>Wed, 22 Mar 2023 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>재즈는 언제나 필요해 (with. 재즈에비뉴)</h4>
+										<p class="detail">
+											<span>kT&amp;G 상상마당 춘천 </span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.03.24~2023.04.06</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.04.07~2023.04.08<br>
+													( 금,토, 
+													
+														00:00~00:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[시적이지 않은 시 쓰기 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1892</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1892</guid>
@@ -2427,39 +2460,6 @@
 													( 토, 
 													
 														10:30~13:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[1DAY] Spring of Blue (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1888</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1888</guid>
-            <pubDate>Fri, 03 Mar 2023 07:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>[1DAY] Spring of Blue</h4>
-										<p class="detail">
-											<span>김다혜</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.03~2023.03.14</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.03.18~2023.03.18<br>
-													( 토, 
-													
-														11:00~13:00 
 													
 													 )
 												</dd>

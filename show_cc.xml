@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 춘천</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/494cb128-6b39-4066-9d50-e3834c58f98d" length="0" type="image//feah/temp/2023/202303/494cb128-6b39-4066-9d50-e3834c58f98d"/>
         </item>
         <item>
+            <title><![CDATA[Evening Music & Movie]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2323</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2323</guid>
+            <pubDate>Wed, 22 Mar 2023 04:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.03.29~2023.03.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987" length="0" type="image//feah/temp/2023/202303/095d3e8f-067d-4e96-82ed-c0e12318c987"/>
+        </item>
+        <item>
             <title><![CDATA[COM-PLAY HOUSE #1 Wooden Language]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2296</link>
             <guid>https://www.sangsangmadang.com/show/detail/2296</guid>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 16 Feb 2023 09:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.03.04~2023.03.04</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af" length="0" type="image//feah/temp/2023/202302/05422dbc-1068-4d9e-a63e-6c22750d20af"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[KT&G 상상마당 춘천 공간 지원사업: 2023 춘천해드립니다]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2022.09.24~2022.09.24</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상마당 춘천 버스킹 프로그램 [뮤직,큐!] _올레길 따라가]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2164</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2164</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>잔디마당</span>
-		                                    <span>2022.09.17~2022.09.17</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
