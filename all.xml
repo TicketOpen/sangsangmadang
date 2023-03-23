@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[백아 단독공연 '향기 香氣' - 上 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2326</link>
             <guid>https://www.sangsangmadang.com/show/detail/2326</guid>
-            <pubDate>Thu, 23 Mar 2023 05:06:19 GMT</pubDate>
+            <pubDate>Thu, 23 Mar 2023 05:03:24 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.04.22~2023.04.22</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/36a25c73-f2b7-4c62-b3aa-275bc809d838" length="0" type="image//feah/temp/2023/202303/36a25c73-f2b7-4c62-b3aa-275bc809d838"/>
@@ -3138,7 +3138,7 @@
 										
 										<h4>재즈는 언제나 필요해 (with. 재즈에비뉴)</h4>
 										<p class="detail">
-											<span>kT&amp;G 상상마당 춘천 </span>
+											<span>재즈 에비뉴</span>
 											<span>1기</span>
 										</p>
 										<div class="dateinfo">
@@ -3171,7 +3171,7 @@
 										
 										<h4>한낮의 재즈 &amp; 커피 (with. 카페드220볼트)</h4>
 										<p class="detail">
-											<span>kT&amp;G 상상마당 춘천 </span>
+											<span>카페드220볼트</span>
 											<span>1기</span>
 										</p>
 										<div class="dateinfo">
@@ -3238,7 +3238,7 @@
 										
 										<h4>전시관람학교 (with.김은비 도슨트)</h4>
 										<p class="detail">
-											<span>kT&amp;G 상상마당 춘천 </span>
+											<span>김은비 도슨트</span>
 											<span>1기</span>
 										</p>
 										<div class="dateinfo">
