@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -551,7 +551,7 @@
             <title><![CDATA[가족뮤지컬 <드라랄라 치과> (상상마당 ─ 공연 ─ 대치)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2325</link>
             <guid>https://www.sangsangmadang.com/show/detail/2325</guid>
-            <pubDate>Thu, 23 Mar 2023 02:02:42 GMT</pubDate>
+            <pubDate>Thu, 23 Mar 2023 02:00:40 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2023.05.12~2023.06.11</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/af425dd1-962a-4b37-bcc6-268d1a073d47" length="0" type="image//feah/temp/2023/202303/af425dd1-962a-4b37-bcc6-268d1a073d47"/>
