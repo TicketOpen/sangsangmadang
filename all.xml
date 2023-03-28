@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 04:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 05:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[SSHOWBOX 오열 단독공연 (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2328</link>
             <guid>https://www.sangsangmadang.com/show/detail/2328</guid>
-            <pubDate>Tue, 28 Mar 2023 04:09:28 GMT</pubDate>
+            <pubDate>Tue, 28 Mar 2023 04:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.04.29~2023.04.29</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d" length="0" type="image//feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d"/>
