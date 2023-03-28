@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 03:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 04:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2023.05.12~2023.06.11</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/af425dd1-962a-4b37-bcc6-268d1a073d47" length="0" type="image//feah/temp/2023/202303/af425dd1-962a-4b37-bcc6-268d1a073d47"/>
+        </item>
+        <item>
+            <title><![CDATA[SSHOWBOX 오열 단독공연 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2328</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2328</guid>
+            <pubDate>Tue, 28 Mar 2023 04:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.04.29~2023.04.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d" length="0" type="image//feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d"/>
         </item>
         <item>
             <title><![CDATA[백아 단독공연 '향기 香氣' - 下 서울 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 23 Mar 2023 09:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2023.04.15~2023.04.15</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/b65daa99-8a95-4eb7-bd3e-dc649c63a46a" length="0" type="image//feah/temp/2023/202303/b65daa99-8a95-4eb7-bd3e-dc649c63a46a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[COM-PLAY HOUSE #2 재즈는 어디에나 필요해 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 14 Feb 2023 02:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.03.11~2023.03.11</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[tokyo honey trap (도쿄허니트랩) 내한공연 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2305</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2305</guid>
-            <pubDate>Thu, 23 Feb 2023 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.03.05~2023.03.05</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -368,6 +368,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[SSHOWBOX 오열 단독공연 (상상마당 ─ 공연 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2328</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2328</guid>
+            <pubDate>Tue, 28 Mar 2023 04:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.04.29~2023.04.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d" length="0" type="image//feah/temp/2023/202303/3b0d4e82-b18a-48e8-b497-a81eaf22157d"/>
+        </item>
+        <item>
             <title><![CDATA[COM-PLAY HOUSE #2 재즈는 어디에나 필요해 (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2321</link>
             <guid>https://www.sangsangmadang.com/show/detail/2321</guid>
@@ -401,7 +410,7 @@
             <pubDate>Tue, 14 Feb 2023 02:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.03.11~2023.03.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/c07427c9-6a40-40b8-a26f-c5ce838fdb9f" length="0" type="image//feah/temp/2023/202302/c07427c9-6a40-40b8-a26f-c5ce838fdb9f"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Lacuna (라쿠나) 투어 콘서트 '마차' (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -536,15 +545,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2022.10.01~2022.10.02</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 상상유니브 집현전 Festival (상상마당 ─ 공연 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2167</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2167</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트센터</span>
-		                                    <span>2022.09.24~2022.09.24</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
