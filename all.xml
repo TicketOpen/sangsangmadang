@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 10:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1691,6 +1691,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[상상사계 겨울 <몰래 온 손님, 산타클로스> (상상마당 ─ 전시 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2251</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2251</guid>
+            <pubDate>Fri, 31 Mar 2023 10:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1F 라운지</span> 
+											<span>2022.11.24~2022.12.31</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[ZIBEZI in 지비지 부산 개인전 (상상마당 ─ 전시 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2221</link>
             <guid>https://www.sangsangmadang.com/display/detail/2221</guid>
@@ -1796,15 +1805,6 @@
             <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
 											<span>2022.03.25~2022.05.29</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[4th 워너비 컬렉터 <유미의세포들 : 팝업갤러리> (상상마당 ─ 전시 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2019</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2019</guid>
-            <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
-											<span>2022.02.12~2022.03.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
