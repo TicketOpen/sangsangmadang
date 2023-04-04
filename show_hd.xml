@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 03:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.04.29~2023.04.30</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/2bf92e19-fce9-4bc8-871e-1fa3f476636d" length="0" type="image//feah/temp/2023/202303/2bf92e19-fce9-4bc8-871e-1fa3f476636d"/>
+        </item>
+        <item>
+            <title><![CDATA[From the Otherside：JACKINGCONG X OFF THE MENU]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2333</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2333</guid>
+            <pubDate>Tue, 04 Apr 2023 04:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.04.23~2023.04.23</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/50bc3014-0951-43ac-8d97-26946f61bb4b" length="0" type="image//feah/temp/2023/202304/50bc3014-0951-43ac-8d97-26946f61bb4b"/>
         </item>
         <item>
             <title><![CDATA[9001 단독공연 'Spring Break']]></title>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 14 Mar 2023 06:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.04.02~2023.04.02</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/2b49ecfa-8bc5-4c03-9c57-3e489fdd6f78" length="0" type="image//feah/temp/2023/202303/2b49ecfa-8bc5-4c03-9c57-3e489fdd6f78"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 [김현창 단독 콘서트]]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2022.12.31~2022.12.31</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 정우의［Frame］]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2246</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2246</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2022.12.29~2022.12.29</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
