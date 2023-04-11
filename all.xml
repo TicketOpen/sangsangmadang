@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1628,6 +1628,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[상상사계 봄 <Spring Fever : 춘곤증> (상상마당 ─ 전시 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2335</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2335</guid>
+            <pubDate>Tue, 11 Apr 2023 07:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1F 라운지</span> 
+											<span>2023.04.08~2023.06.18</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/c7d8b614-896f-4954-b99a-c9ee5e92fd52" length="0" type="image//feah/temp/2023/202304/c7d8b614-896f-4954-b99a-c9ee5e92fd52"/>
+        </item>
+        <item>
             <title><![CDATA[<NOTICE> (상상마당 ─ 전시 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2329</link>
             <guid>https://www.sangsangmadang.com/display/detail/2329</guid>
@@ -1661,7 +1670,7 @@
             <pubDate>Fri, 20 Jan 2023 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 1F 라운지</span> 
 											<span>2023.01.10~2023.04.02</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/7b127468-2c45-4321-aece-a9c4382b2743" length="0" type="image//feah/temp/2023/202303/7b127468-2c45-4321-aece-a9c4382b2743"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[<에그박사팀의 연구실> (상상마당 ─ 전시 ─ 부산)]]></title>
@@ -1796,15 +1805,6 @@
             <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span>4,5F 갤러리</span> 
 											<span>2022.03.28~2022.04.24</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[5th 워너비 컬렉터 <아뜰리에 가든 : 팝업갤러리> (상상마당 ─ 전시 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2045</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2045</guid>
-            <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 2F 디자인 스퀘어</span> 
-											<span>2022.03.25~2022.05.29</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
