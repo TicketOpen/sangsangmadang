@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 03:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 04:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<요시고 사진전 : 따뜻한 휴일의 기록> 부산]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2336</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2336</guid>
+            <pubDate>Wed, 12 Apr 2023 04:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
+											<span>2023.05.27~2023.09.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/7848cb5f-059d-4534-927d-4f911f43ec31" length="0" type="image//feah/temp/2023/202304/7848cb5f-059d-4534-927d-4f911f43ec31"/>
+        </item>
         <item>
             <title><![CDATA[상상사계 봄 <Spring Fever : 춘곤증>]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2335</link>
@@ -41,7 +50,7 @@
             <pubDate>Fri, 10 Feb 2023 07:15:15 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 춘천 아트센터</span> 
 											<span>2023.03.10~2023.06.11</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/93ec93bc-17c5-4588-b45a-e63a88486b59" length="0" type="image//feah/temp/2023/202302/93ec93bc-17c5-4588-b45a-e63a88486b59"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Hug Me : 우리가 사랑할 때]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 1F 플레잉룸</span> 
 											<span>2022.12.15~2023.02.19</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[박정현 개인전 <커튼콜 : 오늘 하루도 잘 살았습니다.>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2253</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2253</guid>
-            <pubDate>Fri, 20 Jan 2023 06:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2022.12.14~2022.12.18</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
