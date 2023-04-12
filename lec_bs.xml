@@ -4,9 +4,42 @@
         <title>상상마당 ─ 아카데미 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 07:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My own blue (시아노타입 원데이 클래스)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1918</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1918</guid>
+            <pubDate>Wed, 12 Apr 2023 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>My own blue (시아노타입 원데이 클래스)</h4>
+										<p class="detail">
+											<span>이다교 (다정상점)</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.04.17~2023.05.02</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.05.05~2023.05.07<br>
+													( 금,토,일, 
+													
+														11:00~17:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/b681ebd1-b191-4667-a5d0-e7d883164f19" length="0" type="image//feah/temp/2023/202304/b681ebd1-b191-4667-a5d0-e7d883164f19"/>
+        </item>
         <item>
             <title><![CDATA[차진현 작가의 흑백사진 포트폴리오 AtoZ]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1897</link>
@@ -137,7 +170,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/a4de5626-2f58-4e64-84ca-e1f3985eb364" length="0" type="image//feah/temp/2023/202303/a4de5626-2f58-4e64-84ca-e1f3985eb364"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[[시나리오 작법 클래스] 퇴근하고 드라마 작가 어때? - 3/26(일)~5/14(일)]]></title>
@@ -627,39 +660,6 @@
 													( 수, 
 													
 														11:00~19:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[아로마 테라피 클래스] 오롯이 나에게 집중하는 시간 - 9/28(수)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1802</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1802</guid>
-            <pubDate>Fri, 20 Jan 2023 06:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
-			                                
-			                            
-										
-										<h4>[아로마 테라피 클래스] 오롯이 나에게 집중하는 시간 - 9/28(수)</h4>
-										<p class="detail">
-											<span>최보겸</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2022.08.29~2022.09.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2022.09.28~2022.09.28<br>
-													( 수, 
-													
-														11:00~17:00 
 													
 													 )
 												</dd>
