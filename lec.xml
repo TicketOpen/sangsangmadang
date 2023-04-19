@@ -4,9 +4,43 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 기획자 워크숍]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1926</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1926</guid>
+            <pubDate>Wed, 19 Apr 2023 02:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag tag_area">인재육성</span>
+			                                
+			                                
+			                            
+										
+										<h4>콘서트 기획자 워크숍</h4>
+										<p class="detail">
+											<span>박성자외 3명</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.04.14~2023.05.07</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.05.23~2023.11.30<br>
+													(매주 화,수,목, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/4ccf4488-e671-4386-bc29-f8208b490448" length="0" type="image//feah/temp/2023/202304/4ccf4488-e671-4386-bc29-f8208b490448"/>
+        </item>
         <item>
             <title><![CDATA[북디자이너를 위한 내지 디자인]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1894</link>
@@ -137,7 +171,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/a7a1fdfd-f8fb-497c-ac81-e5e9f080ffd0" length="0" type="image//feah/temp/2023/202304/a7a1fdfd-f8fb-497c-ac81-e5e9f080ffd0"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[차진현 작가의 흑백사진 포트폴리오 AtoZ]]></title>
@@ -627,39 +661,6 @@
 													( 일, 
 													
 														15:00~16:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[소장하고 싶은 책표지 디자인]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1893</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1893</guid>
-            <pubDate>Mon, 17 Apr 2023 11:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>소장하고 싶은 책표지 디자인</h4>
-										<p class="detail">
-											<span>진다솜</span>
-											<span>4기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.03~2023.04.06</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.04.08~2023.05.06<br>
-													(매주 토, 
-													
-														14:00~16:00 
 													
 													 )
 												</dd>
