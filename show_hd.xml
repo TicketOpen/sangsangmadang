@@ -4,9 +4,27 @@
         <title>상상마당 ─ 공연 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Poles 단독공연 Morning after．]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2338</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2338</guid>
+            <pubDate>Wed, 19 Apr 2023 10:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.05.06~2023.05.06</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/cc1c3dbe-1be0-4b90-9932-631761311262" length="0" type="image//feah/temp/2023/202304/cc1c3dbe-1be0-4b90-9932-631761311262"/>
+        </item>
+        <item>
+            <title><![CDATA[PAIR PLAY : Vol.4 크리스피x튜즈데이비치클럽]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2339</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2339</guid>
+            <pubDate>Wed, 19 Apr 2023 10:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.05.05~2023.05.05</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/c62d0c95-c5d1-4559-8d72-52b1c120910a" length="0" type="image//feah/temp/2023/202304/c62d0c95-c5d1-4559-8d72-52b1c120910a"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［브로큰 발렌타인 콘서트］]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2337</link>
@@ -32,7 +50,7 @@
             <pubDate>Tue, 04 Apr 2023 04:08:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.04.23~2023.04.23</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/50bc3014-0951-43ac-8d97-26946f61bb4b" length="0" type="image//feah/temp/2023/202304/50bc3014-0951-43ac-8d97-26946f61bb4b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[9001 단독공연 'Spring Break']]></title>
@@ -41,7 +59,7 @@
             <pubDate>Wed, 29 Mar 2023 10:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.04.15~2023.04.16</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/d726a8c3-5e6f-4231-875d-3f2d8d3005d2" length="0" type="image//feah/temp/2023/202303/d726a8c3-5e6f-4231-875d-3f2d8d3005d2"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[피에타 정규 2집 발매 기념 공연 [동정에 대하여]]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.01.08~2023.01.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[［크루셜스타 단독콘서트：별밤4］]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2277</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2277</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.01.07~2023.01.07</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[TANSOME MAKE YOUR COLOR 콘서트]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2252</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2252</guid>
-            <pubDate>Fri, 20 Jan 2023 05:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.01.06~2023.01.06</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
