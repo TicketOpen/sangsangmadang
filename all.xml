@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 05:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 06:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,7 +392,7 @@
             <pubDate>Fri, 21 Apr 2023 02:28:23 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트센터</span>
 		                                    <span>2023.05.05~2023.05.07</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/f52bc88f-7667-4210-8cb1-15cd34ca83a7" length="0" type="image//feah/temp/2023/202304/f52bc88f-7667-4210-8cb1-15cd34ca83a7"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/96e02953-e42f-45f3-a4d5-01db49a2b371" length="0" type="image//feah/temp/2023/202304/96e02953-e42f-45f3-a4d5-01db49a2b371"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX 오열 단독공연 (상상마당 ─ 공연 ─ 춘천)]]></title>
