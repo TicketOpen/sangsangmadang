@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 10:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 11:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -926,6 +926,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/b3a3fb11-4578-488c-a1be-00c21a8df00b" length="0" type="image//feah/temp/2023/202304/b3a3fb11-4578-488c-a1be-00c21a8df00b"/>
         </item>
         <item>
+            <title><![CDATA[볼로냐 그림책 워크숍 12기 원화전 (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2344</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2344</guid>
+            <pubDate>Tue, 25 Apr 2023 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라운지</span> 
+											<span>2023.04.17~2023.05.05</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/b2d7af76-aa1b-4182-bf91-e20b7afe0b68" length="0" type="image//feah/temp/2023/202304/b2d7af76-aa1b-4182-bf91-e20b7afe0b68"/>
+        </item>
+        <item>
             <title><![CDATA[상상사계 봄 <Spring Fever : 춘곤증> (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2335</link>
             <guid>https://www.sangsangmadang.com/display/detail/2335</guid>
@@ -941,7 +950,7 @@
             <pubDate>Wed, 29 Mar 2023 10:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리 4F</span> 
 											<span>2023.04.07~2023.05.07</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/ac7e7430-8087-4ac3-acb0-559231465ab6" length="0" type="image//feah/temp/2023/202303/ac7e7430-8087-4ac3-acb0-559231465ab6"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[THE FREEZING POINT (상상마당 ─ 전시)]]></title>
@@ -1076,15 +1085,6 @@
             <pubDate>Fri, 20 Jan 2023 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3F 라이브홀</span> 
 											<span>2022.12.22~2022.12.22</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[김수영, 전영진 2인전 <빤타지아> (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2267</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2267</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2022.12.21~2023.01.03</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
