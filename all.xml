@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 09:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 10:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1268,6 +1268,24 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[김우진 개인전 <Zootopia> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2346</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2346</guid>
+            <pubDate>Wed, 26 Apr 2023 06:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>잔디마당</span> 
+											<span>2023.05.05~2023.09.30</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/3058ab21-4d49-4a56-91fc-3a5834c76f0e" length="0" type="image//feah/temp/2023/202304/3058ab21-4d49-4a56-91fc-3a5834c76f0e"/>
+        </item>
+        <item>
+            <title><![CDATA[이경희 개인전 <草綠(초록)뒤란> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2345</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2345</guid>
+            <pubDate>Wed, 26 Apr 2023 06:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
+											<span>2023.05.05~2023.08.05</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/4c17c679-28e8-4d6d-9aaa-46473f341c53" length="0" type="image//feah/temp/2023/202304/4c17c679-28e8-4d6d-9aaa-46473f341c53"/>
+        </item>
+        <item>
             <title><![CDATA[<바르르 파르르 (barrr parrr)> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2293</link>
             <guid>https://www.sangsangmadang.com/display/detail/2293</guid>
@@ -1292,7 +1310,7 @@
             <pubDate>Thu, 02 Feb 2023 09:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 2</span> 
 											<span>2023.02.02~2023.02.09</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202302/f9b49e5f-02f0-4342-a9ec-eab27f70a053" length="0" type="image//feah/temp/2023/202302/f9b49e5f-02f0-4342-a9ec-eab27f70a053"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김수영, 전영진 2인전 <빤타지아> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1301,7 +1319,7 @@
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2022.12.21~2023.01.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202212/6ddd37cf-94d8-41aa-b63a-6b8225d1ded9" length="0" type="image//feah/temp/2022/202212/6ddd37cf-94d8-41aa-b63a-6b8225d1ded9"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[박정현 개인전 <커튼콜 : 오늘 하루도 잘 살았습니다.> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1427,24 +1445,6 @@
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
 											<span>2021.12.10~2022.03.31</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[제 4회 <Over the Rainbow> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1973</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1973</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리</span> 
-											<span>2021.11.25~2021.12.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[김수영 개인전 <오늘밤 이곳은 불이 꺼지지 않는다> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1971</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1971</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 2</span> 
-											<span>2021.11.08~2021.11.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
