@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,6 +728,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[임세모 단독공연 : 그래서! 모？ in 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2349</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2349</guid>
+            <pubDate>Tue, 02 May 2023 08:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.06.10~2023.06.10</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/ba5c63a0-0d82-471c-a955-e36e98a2a37f" length="0" type="image//feah/temp/2023/202305/ba5c63a0-0d82-471c-a955-e36e98a2a37f"/>
+        </item>
+        <item>
             <title><![CDATA[BUSAN ROCKING ROOKIE SHOW (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2347</link>
             <guid>https://www.sangsangmadang.com/show/detail/2347</guid>
@@ -737,13 +746,31 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/626c29c4-316e-4a65-8f50-d5ead9506c5f" length="0" type="image//feah/temp/2023/202304/626c29c4-316e-4a65-8f50-d5ead9506c5f"/>
         </item>
         <item>
+            <title><![CDATA[2023 김수영 단독공연 <Round and Round> 앵콜 in Busan (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2351</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2351</guid>
+            <pubDate>Tue, 02 May 2023 08:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.05.14~2023.05.14</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/f2c53a06-71f8-4d5e-8dfd-91c6d514ab8d" length="0" type="image//feah/temp/2023/202305/f2c53a06-71f8-4d5e-8dfd-91c6d514ab8d"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 실리카겔 단독 공연 <Machine Boy> 앵콜 in Busan (상상마당 ─ 공연 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2350</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2350</guid>
+            <pubDate>Tue, 02 May 2023 08:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.05.13~2023.05.13</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/f659750a-37db-4745-b87a-3cf44166d091" length="0" type="image//feah/temp/2023/202305/f659750a-37db-4745-b87a-3cf44166d091"/>
+        </item>
+        <item>
             <title><![CDATA[백아 단독공연 '향기 香氣' - 上 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2326</link>
             <guid>https://www.sangsangmadang.com/show/detail/2326</guid>
             <pubDate>Thu, 23 Mar 2023 05:03:24 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.04.22~2023.04.22</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/36a25c73-f2b7-4c62-b3aa-275bc809d838" length="0" type="image//feah/temp/2023/202303/36a25c73-f2b7-4c62-b3aa-275bc809d838"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[인디 온 스포트라이트 4 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -752,7 +779,7 @@
             <pubDate>Thu, 23 Mar 2023 09:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2023.04.15~2023.04.15</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/b65daa99-8a95-4eb7-bd3e-dc649c63a46a" length="0" type="image//feah/temp/2023/202303/b65daa99-8a95-4eb7-bd3e-dc649c63a46a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2023 프롬 단독 콘서트 ［봄밤에 다시 만나］－부산 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -761,7 +788,7 @@
             <pubDate>Fri, 03 Mar 2023 04:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.04.08~2023.04.08</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/da8591ee-66fd-4f95-84e9-a7a094e192db" length="0" type="image//feah/temp/2023/202303/da8591ee-66fd-4f95-84e9-a7a094e192db"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[냥 딜리버리 : 그＿냥의 전국 음악 배달 서비스 - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
@@ -878,33 +905,6 @@
             <pubDate>Fri, 20 Jan 2023 05:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀 </span>
 		                                    <span>2022.12.16~2022.12.16</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 THE SOLUTIONS CLUB TOUR [NAIVE] ; FINALE - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2235</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2235</guid>
-            <pubDate>Fri, 20 Jan 2023 05:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
-		                                    <span>2022.12.10~2022.12.10</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[Flower Planet] 이그린X우예린 in 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2239</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2239</guid>
-            <pubDate>Fri, 20 Jan 2023 05:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀 </span>
-		                                    <span>2022.12.02~2022.12.02</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈힙합 모먼트 with Namy (상상마당 ─ 공연 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2224</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2224</guid>
-            <pubDate>Fri, 20 Jan 2023 05:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2022.11.26~2022.11.26</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
