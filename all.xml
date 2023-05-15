@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 10:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 11:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2304,39 +2304,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[나의 첫 작곡 트랙 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1901</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1901</guid>
-            <pubDate>Tue, 14 Mar 2023 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>나의 첫 작곡 트랙</h4>
-										<p class="detail">
-											<span>은도희</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.15~2023.04.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.04.26~2023.05.31<br>
-													(매주 수, 
-													
-														19:30~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[잘 만든 굿즈 하나, 열 직업 안 부럽다 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1913</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1913</guid>
@@ -2403,6 +2370,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[와인 테이스팅 노트 _ 품종별 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1895</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1895</guid>
+            <pubDate>Fri, 03 Mar 2023 08:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>와인 테이스팅 노트 _ 품종별</h4>
+										<p class="detail">
+											<span>김상미</span>
+											<span>15기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.03.03~2023.04.18</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.04.21~2023.06.02<br>
+													(매주 금, 
+													
+														19:30~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[[어반스케치 클래스] 발길이 닿는 곳, 눈길이 가는 것 - 4/21(금)~5/19(금) (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1911</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1911</guid>
@@ -2436,31 +2436,31 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[와인 테이스팅 노트 _ 품종별 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1895</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1895</guid>
-            <pubDate>Fri, 03 Mar 2023 08:18:00 GMT</pubDate>
+            <title><![CDATA[바르르 파르르 전시교육 3 : dda-ra, dda-ra (성인반) (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1919</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1919</guid>
+            <pubDate>Thu, 13 Apr 2023 02:03:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
 			                                
 			                            
 										
-										<h4>와인 테이스팅 노트 _ 품종별</h4>
+										<h4>바르르 파르르 전시교육 3 : dda-ra, dda-ra (성인반)</h4>
 										<p class="detail">
-											<span>김상미</span>
-											<span>15기</span>
+											<span>kT&amp;G 상상마당 춘천 </span>
+											<span>1기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.03.03~2023.04.18</dd>
+												<dd>2023.04.06~2023.04.18</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2023.04.21~2023.06.02<br>
-													(매주 금, 
+													2023.04.18~2023.04.28<br>
+													(매주 수, 
 													
-														19:30~21:30 
+														19:00~20:40 
 													
 													 )
 												</dd>
