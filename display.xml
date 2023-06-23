@@ -4,9 +4,27 @@
         <title>상상마당 ─ 전시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 06:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민철 개인전 <GRID>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2386</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2386</guid>
+            <pubDate>Fri, 23 Jun 2023 06:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 2</span> 
+											<span>2023.07.01~2023.07.13</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202306/99473848-3abe-4812-82cd-f163b759c37e" length="0" type="image//feah/temp/2023/202306/99473848-3abe-4812-82cd-f163b759c37e"/>
+        </item>
+        <item>
+            <title><![CDATA[김민 개인전 <감각과 상념 : 共在>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2385</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2385</guid>
+            <pubDate>Fri, 23 Jun 2023 06:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
+											<span>2023.07.01~2023.07.14</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202306/cafe5319-88a8-44a6-b9c7-04ad2e2cdf6b" length="0" type="image//feah/temp/2023/202306/cafe5319-88a8-44a6-b9c7-04ad2e2cdf6b"/>
+        </item>
         <item>
             <title><![CDATA[여기가 우리의 고향입니다]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2375</link>
@@ -32,7 +50,7 @@
             <pubDate>Wed, 12 Apr 2023 04:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5F</span> 
 											<span>2023.05.27~2023.09.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/7848cb5f-059d-4534-927d-4f911f43ec31" length="0" type="image//feah/temp/2023/202304/7848cb5f-059d-4534-927d-4f911f43ec31"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[From Seed 그림책 전시회]]></title>
@@ -41,7 +59,7 @@
             <pubDate>Mon, 15 May 2023 04:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 홍대 라운지</span> 
 											<span>2023.05.08~2023.05.28</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/5592e9b8-158f-4c5a-9212-c1da9d6d0e8a" length="0" type="image//feah/temp/2023/202305/5592e9b8-158f-4c5a-9212-c1da9d6d0e8a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김우진 개인전 <Zootopia>]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Thu, 09 Feb 2023 08:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 3 (스테이 B1)</span> 
 											<span>2023.02.07~2023.04.30</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Will You Be My Valentine?]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2287</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2287</guid>
-            <pubDate>Wed, 01 Feb 2023 03:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2023.02.06~2023.03.03</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<상상나래>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2289</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2289</guid>
-            <pubDate>Thu, 02 Feb 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 2</span> 
-											<span>2023.02.02~2023.02.09</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
