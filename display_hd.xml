@@ -4,9 +4,18 @@
         <title>상상마당 ─ 전시 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 02:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 03:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서동신 개인전 <Equation>]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2390</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2390</guid>
+            <pubDate>Wed, 28 Jun 2023 03:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2023.07.06~2023.08.06</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202306/cf8eabf6-4902-4880-825a-19071b3465ce" length="0" type="image//feah/temp/2023/202306/cf8eabf6-4902-4880-825a-19071b3465ce"/>
+        </item>
         <item>
             <title><![CDATA[상상 아날로그 흑백 사진전]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2370</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 25 Apr 2023 08:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>라운지</span> 
 											<span>2023.04.17~2023.05.05</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202304/b2d7af76-aa1b-4182-bf91-e20b7afe0b68" length="0" type="image//feah/temp/2023/202304/b2d7af76-aa1b-4182-bf91-e20b7afe0b68"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Hug Me : 우리가 사랑할 때]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2021.12.09~2021.12.12</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[하연수 개인전 <기억의 형상 The Form of Memory>]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/1975</link>
-            <guid>https://www.sangsangmadang.com/display/detail/1975</guid>
-            <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2021.11.16~2021.11.30</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
