@@ -4,41 +4,41 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 06:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[아티스트를 위한 포트폴리오 워크숍]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1946</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1946</guid>
-            <pubDate>Mon, 12 Jun 2023 14:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+            <title><![CDATA[[1DAY] Summer of Blue]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1950</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1950</guid>
+            <pubDate>Thu, 06 Jul 2023 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
 			                                
 			                            
 										
-										<h4>아티스트를 위한 포트폴리오 워크숍</h4>
+										<h4>[1DAY] Summer of Blue</h4>
 										<p class="detail">
-											<span>조숙현</span>
-											<span>5기</span>
+											<span>김다혜</span>
+											<span>4기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.06.12~2023.07.20</dd>
+												<dd>2023.06.23~2023.07.26</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2023.07.22~2023.08.19<br>
-													(매주 토, 
+													2023.07.29~2023.07.29<br>
+													( 토, 
 													
-														10:30~12:30 
+														13:00~15:00 
 													
 													 )
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/4a8d45d1-64e4-44cb-8bcd-490a4236af4a" length="0" type="image//feah/temp/2022/202207/4a8d45d1-64e4-44cb-8bcd-490a4236af4a"/>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/c1716050-4022-4322-966a-33380854b4c6" length="0" type="image//feah/temp/2022/202207/c1716050-4022-4322-966a-33380854b4c6"/>
         </item>
         <item>
             <title><![CDATA[북디자이너를 위한 내지 디자인]]></title>
@@ -74,6 +74,105 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202301/23820cb4-a4da-4fd0-bfd1-b57c7d6e4970" length="0" type="image//feah/temp/2023/202301/23820cb4-a4da-4fd0-bfd1-b57c7d6e4970"/>
         </item>
         <item>
+            <title><![CDATA[아티스트를 위한 포트폴리오 워크숍]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1946</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1946</guid>
+            <pubDate>Mon, 12 Jun 2023 14:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>아티스트를 위한 포트폴리오 워크숍</h4>
+										<p class="detail">
+											<span>조숙현</span>
+											<span>5기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.06.12~2023.07.20</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.07.22~2023.08.19<br>
+													(매주 토, 
+													
+														10:30~12:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202207/4a8d45d1-64e4-44cb-8bcd-490a4236af4a" length="0" type="image//feah/temp/2022/202207/4a8d45d1-64e4-44cb-8bcd-490a4236af4a"/>
+        </item>
+        <item>
+            <title><![CDATA[와인 테이스팅 노트 _ 지역별]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1951</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1951</guid>
+            <pubDate>Thu, 06 Jul 2023 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>와인 테이스팅 노트 _ 지역별</h4>
+										<p class="detail">
+											<span>김상미</span>
+											<span>16기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.06.16~2023.07.12</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.07.14~2023.08.11<br>
+													(매주 금, 
+													
+														19:30~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/6c271100-cb54-482a-91ed-1125e1635661" length="0" type="image//feah/temp/2022/202208/6c271100-cb54-482a-91ed-1125e1635661"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 만나는 흑백사진]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1952</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1952</guid>
+            <pubDate>Thu, 06 Jul 2023 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>다시 만나는 흑백사진</h4>
+										<p class="detail">
+											<span>김성수</span>
+											<span>18기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.06.16~2023.07.12</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.07.14~2023.09.01<br>
+													(매주 금, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[[1DAY] 작가 노트 쓰는 법]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1947</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1947</guid>
@@ -104,7 +203,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/63d3a927-caa6-41ec-92de-193bfd0a3c3b" length="0" type="image//feah/temp/2022/202208/63d3a927-caa6-41ec-92de-193bfd0a3c3b"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[차이나는 출판 번역]]></title>
@@ -137,7 +236,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202209/410541e3-178e-4d98-8a84-82392d08ef4d" length="0" type="image//feah/temp/2022/202209/410541e3-178e-4d98-8a84-82392d08ef4d"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[마음대로 읽고 아무렇게나 쓰기]]></title>
@@ -562,105 +661,6 @@
 													(매주 화,수,목, 
 													
 														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[5월 가정의 달 특강] 가족 5락실]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1934</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1934</guid>
-            <pubDate>Fri, 12 May 2023 14:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
-			                                
-			                            
-										
-										<h4>[5월 가정의 달 특강] 가족 5락실</h4>
-										<p class="detail">
-											<span>아카데미 강사</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.05.05~2023.05.17</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.05.20~2023.05.20<br>
-													( 토, 
-													
-														13:30~17:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[북디자이너를 위한 내지 디자인]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1894</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1894</guid>
-            <pubDate>Fri, 03 Mar 2023 08:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>북디자이너를 위한 내지 디자인</h4>
-										<p class="detail">
-											<span>진다솜</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.03~2023.05.10</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.05.13~2023.06.17<br>
-													(매주 토, 
-													
-														14:00~16:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[음악에 대하여 쓴다는 것]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1905</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1905</guid>
-            <pubDate>Tue, 14 Mar 2023 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>음악에 대하여 쓴다는 것</h4>
-										<p class="detail">
-											<span>박준우</span>
-											<span>9기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.03.14~2023.05.12</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.05.12~2023.06.16<br>
-													(매주 금, 
-													
-														19:30~21:30 
 													
 													 )
 												</dd>
