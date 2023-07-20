@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 06:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -731,7 +731,7 @@
             <title><![CDATA[2023 짙은 콘서트 <녹음(綠陰)> - 부산 (상상마당 ─ 공연 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2405</link>
             <guid>https://www.sangsangmadang.com/show/detail/2405</guid>
-            <pubDate>Thu, 20 Jul 2023 05:07:33 GMT</pubDate>
+            <pubDate>Thu, 20 Jul 2023 05:04:28 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.08.19~2023.08.20</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202307/9ff4e9ae-f467-42c9-8a39-881769930404" length="0" type="image//feah/temp/2023/202307/9ff4e9ae-f467-42c9-8a39-881769930404"/>
