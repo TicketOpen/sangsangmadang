@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 09:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,39 +107,6 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/b97ff575-4ad4-438f-846f-e94b65c8e76d" length="0" type="image//feah/temp/2022/202210/b97ff575-4ad4-438f-846f-e94b65c8e76d"/>
         </item>
         <item>
-            <title><![CDATA[그림으로 글쓰기]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1965</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1965</guid>
-            <pubDate>Fri, 14 Jul 2023 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
-			                                
-			                            
-										
-										<h4>그림으로 글쓰기</h4>
-										<p class="detail">
-											<span>김난령</span>
-											<span>11기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.14~2023.08.31</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.09.02~2023.10.28<br>
-													(매주 토, 
-													
-														10:30~12:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202307/37df20ae-ae00-41ae-affb-e0a8b179b522" length="0" type="image//feah/temp/2023/202307/37df20ae-ae00-41ae-affb-e0a8b179b522"/>
-        </item>
-        <item>
             <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1955</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1955</guid>
@@ -165,6 +132,39 @@
 													(매주 토, 
 													
 														10:00~13:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202208/30c2c8a9-05a1-4858-b6ab-12e9cf8e9b41" length="0" type="image//feah/temp/2022/202208/30c2c8a9-05a1-4858-b6ab-12e9cf8e9b41"/>
+        </item>
+        <item>
+            <title><![CDATA[그림으로 글쓰기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1965</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1965</guid>
+            <pubDate>Fri, 14 Jul 2023 07:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
+			                                
+			                            
+										
+										<h4>그림으로 글쓰기</h4>
+										<p class="detail">
+											<span>김난령</span>
+											<span>11기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.07.14~2023.08.31</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.09.02~2023.10.28<br>
+													(매주 토, 
+													
+														10:30~12:30 
 													
 													 )
 												</dd>
