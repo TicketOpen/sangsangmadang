@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 19:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 20:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2765,39 +2765,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[연극하는 마음 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1960</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1960</guid>
-            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>연극하는 마음</h4>
-										<p class="detail">
-											<span>김태형</span>
-											<span>12기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.12~2023.08.09</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.08.09~2023.09.27<br>
-													(매주 수, 
-													
-														19:30~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[아이패드로 시작하는 노마드스컬프 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1971</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1971</guid>
@@ -2831,31 +2798,31 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[[1DAY] 친절한 흑백필름 설명서 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1953</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1953</guid>
-            <pubDate>Thu, 06 Jul 2023 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+            <title><![CDATA[연극하는 마음 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1960</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1960</guid>
+            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
 			                                
 			                            
 										
-										<h4>[1DAY] 친절한 흑백필름 설명서</h4>
+										<h4>연극하는 마음</h4>
 										<p class="detail">
-											<span>김다혜</span>
-											<span>2기</span>
+											<span>김태형</span>
+											<span>12기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.06.17~2023.08.03</dd>
+												<dd>2023.07.12~2023.08.09</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2023.08.05~2023.08.12<br>
-													(매주 토, 
+													2023.08.09~2023.09.27<br>
+													(매주 수, 
 													
-														14:00~16:30 
+														19:30~21:30 
 													
 													 )
 												</dd>
@@ -2889,6 +2856,39 @@
 													(매주 토, 
 													
 														10:00~12:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[[1DAY] 친절한 흑백필름 설명서 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1953</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1953</guid>
+            <pubDate>Thu, 06 Jul 2023 08:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 친절한 흑백필름 설명서</h4>
+										<p class="detail">
+											<span>김다혜</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.06.17~2023.08.03</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.08.05~2023.08.12<br>
+													(매주 토, 
+													
+														14:00~16:30 
 													
 													 )
 												</dd>
@@ -3095,31 +3095,31 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[[1DAY] 작가 노트 쓰는 법 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1947</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1947</guid>
-            <pubDate>Mon, 31 Jul 2023 19:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+            <title><![CDATA[차이나는 출판 번역 (상상마당 ─ 아카데미 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1942</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1942</guid>
+            <pubDate>Mon, 31 Jul 2023 20:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
 			                                
 			                            
 										
-										<h4>[1DAY] 작가 노트 쓰는 법</h4>
+										<h4>차이나는 출판 번역</h4>
 										<p class="detail">
-											<span>조숙현</span>
+											<span>김택규</span>
 											<span>10기</span>
 										</p>
 										<div class="dateinfo">
 											<dl class="lr_list1">
 												<dt>접수</dt>
-												<dd>2023.06.12~2023.07.07</dd>
+												<dd>2023.06.09~2023.07.07</dd>
 											</dl>
 											<dl class="lr_list1">
 												<dt>강의</dt>
 												<dd>
-													2023.07.08~2023.07.08<br>
-													( 토, 
+													2023.07.08~2023.08.12<br>
+													(매주 토, 
 													
-														10:30~12:30 
+														14:30~16:30 
 													
 													 )
 												</dd>
