@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 06:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 07:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,39 +74,6 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202307/1824da23-3dbd-47b7-b35a-8a5676f72f36" length="0" type="image//feah/temp/2023/202307/1824da23-3dbd-47b7-b35a-8a5676f72f36"/>
         </item>
         <item>
-            <title><![CDATA[2023 상상스타터클래스: 버스킹 음향]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1938</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1938</guid>
-            <pubDate>Wed, 31 May 2023 11:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
-			                                
-			                            
-										
-										<h4>2023 상상스타터클래스: 버스킹 음향 </h4>
-										<p class="detail">
-											<span>KT&amp;G 상상마당 부산 음향 감독</span>
-											<span>0기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.05.31~2023.06.18</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.06.27~2023.07.28<br>
-													(매주 화,금, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/7a834632-2cea-4045-a4a5-90499404a000" length="0" type="image//feah/temp/2023/202305/7a834632-2cea-4045-a4a5-90499404a000"/>
-        </item>
-        <item>
             <title><![CDATA[2023 상상스타터클래스: 버스킹 조명]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1936</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1936</guid>
@@ -138,6 +105,39 @@
 											</dl>
 										</div>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/685962b8-d31a-43c5-9196-7f54851f594c" length="0" type="image//feah/temp/2023/202305/685962b8-d31a-43c5-9196-7f54851f594c"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 상상스타터클래스: 버스킹 음향]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1938</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1938</guid>
+            <pubDate>Wed, 31 May 2023 11:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">미디어/사운드</span>
+			                                
+			                            
+										
+										<h4>2023 상상스타터클래스: 버스킹 음향 </h4>
+										<p class="detail">
+											<span>KT&amp;G 상상마당 부산 음향 감독</span>
+											<span>0기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.05.31~2023.06.18</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.06.27~2023.07.28<br>
+													(매주 화,금, 
+													
+														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/7a834632-2cea-4045-a4a5-90499404a000" length="0" type="image//feah/temp/2023/202305/7a834632-2cea-4045-a4a5-90499404a000"/>
         </item>
         <item>
             <title><![CDATA[[코칭 클래스] 번아웃, 아웃! 연습하기 - 5/28(일)~6/11(일)]]></title>
