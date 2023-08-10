@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 03:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 04:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -305,6 +305,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1981</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1981</guid>
+            <pubDate>Thu, 10 Aug 2023 04:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">생활예술</span>
+			                                
+			                            
+										
+										<h4>[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기</h4>
+										<p class="detail">
+											<span>괴물은몬스터</span>
+											<span>18기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.08.10~2023.08.22</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.08.24~2023.08.24<br>
+													( 목, 
+													
+														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[스토리 드로잉]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1961</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1961</guid>
@@ -561,39 +594,6 @@
 													( 목, 
 													
 														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 첫 그림책 드로잉]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1969</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1969</guid>
-            <pubDate>Sat, 22 Jul 2023 03:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
-			                                
-			                            
-										
-										<h4>나의 첫 그림책 드로잉</h4>
-										<p class="detail">
-											<span>김종민</span>
-											<span>8기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.22~2023.08.01</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.08.02~2023.09.20<br>
-													(매주 수, 
-													
-														13:30~16:30 
 													
 													 )
 												</dd>

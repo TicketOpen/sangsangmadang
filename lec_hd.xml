@@ -4,7 +4,7 @@
         <title>상상마당 ─ 아카데미 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 03:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 04:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,39 +239,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[볼로냐 그림책 워크숍]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1964</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1964</guid>
-            <pubDate>Fri, 14 Jul 2023 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인재육성</span>
-			                                
-			                            
-										
-										<h4>볼로냐 그림책 워크숍</h4>
-										<p class="detail">
-											<span>김동성 김상근 김성미 손서란 송미경 오승현 오리 임애리 최현경 홍수영</span>
-											<span>13기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.10~2023.08.06</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.08.24~2024.04.25<br>
-													(매주 목, 
-													
-														14:00~17:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[[1DAY] 뜻밖의 니들펠트 : 괴물 키링 만들기]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1981</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1981</guid>
@@ -297,6 +264,39 @@
 													( 목, 
 													
 														19:00~21:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[볼로냐 그림책 워크숍]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1964</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1964</guid>
+            <pubDate>Fri, 14 Jul 2023 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인재육성</span>
+			                                
+			                            
+										
+										<h4>볼로냐 그림책 워크숍</h4>
+										<p class="detail">
+											<span>김동성 김상근 김성미 손서란 송미경 오승현 오리 임애리 최현경 홍수영</span>
+											<span>13기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.07.10~2023.08.06</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.08.24~2024.04.25<br>
+													(매주 목, 
+													
+														14:00~17:00 
 													
 													 )
 												</dd>
@@ -338,39 +338,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[그림책 창작 기초 워크숍]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1967</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1967</guid>
-            <pubDate>Fri, 14 Jul 2023 09:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
-			                                
-			                            
-										
-										<h4>그림책 창작 기초 워크숍</h4>
-										<p class="detail">
-											<span>최은영</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.14~2023.08.09</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.08.12~2023.11.04<br>
-													(매주 토, 
-													
-														10:00~12:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[아티스트를 위한 포트폴리오 워크숍]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1970</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1970</guid>
@@ -396,6 +363,39 @@
 													(매주 토, 
 													
 														10:30~12:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[그림책 창작 기초 워크숍]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1967</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1967</guid>
+            <pubDate>Fri, 14 Jul 2023 09:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
+			                                
+			                            
+										
+										<h4>그림책 창작 기초 워크숍</h4>
+										<p class="detail">
+											<span>최은영</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.07.14~2023.08.09</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.08.12~2023.11.04<br>
+													(매주 토, 
+													
+														10:00~12:30 
 													
 													 )
 												</dd>
