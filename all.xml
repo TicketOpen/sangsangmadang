@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 11:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1973,39 +1973,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1955</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1955</guid>
-            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
-										<p class="detail">
-											<span>김태원</span>
-											<span>13기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.12~2023.09.02</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.09.02~2023.11.25<br>
-													(매주 토, 
-													
-														10:00~13:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[그림으로 글쓰기 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1965</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1965</guid>
@@ -2031,6 +1998,39 @@
 													(매주 토, 
 													
 														10:30~12:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1955</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1955</guid>
+            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
+										<p class="detail">
+											<span>김태원</span>
+											<span>13기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.07.12~2023.09.02</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.09.02~2023.11.25<br>
+													(매주 토, 
+													
+														10:00~13:00 
 													
 													 )
 												</dd>
