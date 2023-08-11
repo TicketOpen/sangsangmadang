@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 09:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 10:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1874,6 +1874,39 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/8b29a769-a130-4869-be8f-ccd684eb3df6" length="0" type="image//feah/temp/2023/202308/8b29a769-a130-4869-be8f-ccd684eb3df6"/>
         </item>
         <item>
+            <title><![CDATA[SLAP 생활예술사진가 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1984</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1984</guid>
+            <pubDate>Fri, 11 Aug 2023 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>SLAP 생활예술사진가</h4>
+										<p class="detail">
+											<span>아카데미 강사</span>
+											<span>14기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.08.11~2023.08.30</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.09.09~2024.01.27<br>
+													(매주 토, 
+													
+														14:00~18:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/d2dbcb2c-5874-47cb-b375-90e5e64c653d" length="0" type="image//feah/temp/2023/202308/d2dbcb2c-5874-47cb-b375-90e5e64c653d"/>
+        </item>
+        <item>
             <title><![CDATA[스토리텔링 워크숍, 시나리오 입문 과정 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1976</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1976</guid>
@@ -1937,7 +1970,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202303/ff60a0b8-cf81-4208-9d67-c731188a2dad" length="0" type="image//feah/temp/2023/202303/ff60a0b8-cf81-4208-9d67-c731188a2dad"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[시로스카이의 Lo-Fi 작업실 (상상마당 ─ 아카데미)]]></title>
@@ -1973,39 +2006,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1955</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1955</guid>
-            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
-			                                
-			                            
-										
-										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
-										<p class="detail">
-											<span>김태원</span>
-											<span>13기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.12~2023.09.02</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.09.02~2023.11.25<br>
-													(매주 토, 
-													
-														10:00~13:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[그림으로 글쓰기 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/1965</link>
             <guid>https://www.sangsangmadang.com/lec/detail/1965</guid>
@@ -2031,6 +2031,39 @@
 													(매주 토, 
 													
 														10:30~12:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[스토리텔링 절대법칙 : HOOK X PLOT (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1955</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1955</guid>
+            <pubDate>Tue, 11 Jul 2023 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인문/글쓰기</span>
+			                                
+			                            
+										
+										<h4>스토리텔링 절대법칙 : HOOK X PLOT</h4>
+										<p class="detail">
+											<span>김태원</span>
+											<span>13기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.07.12~2023.09.02</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.09.02~2023.11.25<br>
+													(매주 토, 
+													
+														10:00~13:00 
 													
 													 )
 												</dd>
@@ -2163,6 +2196,39 @@
 													(매주 화, 
 													
 														19:00~21:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SLAP 생활예술사진가 과정설명회 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1983</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1983</guid>
+            <pubDate>Fri, 11 Aug 2023 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>2022 SLAP 생활예술사진가 과정설명회</h4>
+										<p class="detail">
+											<span>김성수</span>
+											<span>2기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.08.10~2023.08.18</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.08.19~2023.08.19<br>
+													( 토, 
+													
+														15:00~16:00 
 													
 													 )
 												</dd>
@@ -2394,72 +2460,6 @@
 													(매주 토, 
 													
 														14:00~16:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[1DAY] 내 디자인, 뭐가 잘못됐나요? (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1972</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1972</guid>
-            <pubDate>Sat, 22 Jul 2023 03:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>[1DAY] 내 디자인, 뭐가 잘못됐나요?</h4>
-										<p class="detail">
-											<span>아카데미 강사</span>
-											<span>1기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.07.22~2023.08.02</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.08.03~2023.08.03<br>
-													( 목, 
-													
-														19:00~21:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[1DAY] Summer of Blue (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1950</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1950</guid>
-            <pubDate>Thu, 06 Jul 2023 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>[1DAY] Summer of Blue</h4>
-										<p class="detail">
-											<span>김다혜</span>
-											<span>4기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.06.23~2023.07.26</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.07.29~2023.07.29<br>
-													( 토, 
-													
-														13:00~15:00 
 													
 													 )
 												</dd>
