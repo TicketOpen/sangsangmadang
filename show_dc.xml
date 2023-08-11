@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 대치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 02:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 03:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬<킴즈>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2418</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2418</guid>
+            <pubDate>Fri, 11 Aug 2023 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트홀</span>
+		                                    <span>2023.09.09~2023.10.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/809ca14e-bfd8-4ab1-8527-f91699607b37" length="0" type="image//feah/temp/2023/202308/809ca14e-bfd8-4ab1-8527-f91699607b37"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <매직 판타지아 - 도로시 리턴즈>]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2373</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 24 May 2023 00:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2023.06.23~2023.06.25</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202305/83ab7a8c-bbea-4e6e-a550-62b1ecf78a91" length="0" type="image//feah/temp/2023/202305/83ab7a8c-bbea-4e6e-a550-62b1ecf78a91"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[창작극 <역반>]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Fri, 20 Jan 2023 07:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.01.03~2022.02.07</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <스노우데이>]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1994</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1994</guid>
-            <pubDate>Fri, 20 Jan 2023 07:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2021.12.04~2022.02.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
