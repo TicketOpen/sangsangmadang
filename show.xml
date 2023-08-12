@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 05:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 06:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2023.09.09~2023.10.29</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/809ca14e-bfd8-4ab1-8527-f91699607b37" length="0" type="image//feah/temp/2023/202308/809ca14e-bfd8-4ab1-8527-f91699607b37"/>
+        </item>
+        <item>
+            <title><![CDATA[상상라이브연습실 <부산락킹루키쇼>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2419</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2419</guid>
+            <pubDate>Sat, 12 Aug 2023 06:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.09.01~2023.09.01</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/4e535e07-b848-432d-8349-32155e7f5503" length="0" type="image//feah/temp/2023/202308/4e535e07-b848-432d-8349-32155e7f5503"/>
         </item>
         <item>
             <title><![CDATA[BUSAN ROCKING ROOKIE SHOW]]></title>
@@ -41,7 +50,16 @@
             <pubDate>Thu, 03 Aug 2023 01:54:48 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.08.26~2023.08.26</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/5a225892-d307-4600-ac2a-0841738f35ce" length="0" type="image//feah/temp/2023/202308/5a225892-d307-4600-ac2a-0841738f35ce"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth 단독 공연 "BrokenTeeth의 수상한 치과"]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2420</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2420</guid>
+            <pubDate>Sat, 12 Aug 2023 06:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.08.20~2023.08.20</span>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제10회 한여름 밤의 아리아]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Tue, 27 Jun 2023 09:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.07.16~2023.07.16</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 클럽투어 ‘여름빛 2023’ - 부산]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2384</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2384</guid>
-            <pubDate>Tue, 20 Jun 2023 06:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀</span>
-		                                    <span>2023.07.15~2023.07.15</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <매직 판타지아 - 도로시 리턴즈>]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2373</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2373</guid>
-            <pubDate>Wed, 31 May 2023 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2023.07.15~2023.08.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
