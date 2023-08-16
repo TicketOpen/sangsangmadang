@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 08:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[It's begun EP.4 예빛 - '조금 멀지 않은 그곳에' (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2421</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2421</guid>
+            <pubDate>Wed, 16 Aug 2023 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.09.10~2023.09.10</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/8926db2e-489a-4e15-92a4-80b028e5f95f" length="0" type="image//feah/temp/2023/202308/8926db2e-489a-4e15-92a4-80b028e5f95f"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬<킴즈> (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2418</link>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 03 Aug 2023 08:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.08.27~2023.08.27</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/d95b48f9-84bc-44f0-a2f9-0667f299a054" length="0" type="image//feah/temp/2023/202308/d95b48f9-84bc-44f0-a2f9-0667f299a054"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[전진희 정규 3집 발매 콘서트 ［아무도 모르게］ - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -179,13 +188,13 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[Hon'z(혼즈) 단독 공연  'HELLO, STRANGER?' (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2389</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2389</guid>
-            <pubDate>Tue, 27 Jun 2023 09:07:00 GMT</pubDate>
+            <title><![CDATA[It's begun EP.4 예빛 - '조금 멀지 않은 그곳에' (상상마당 ─ 공연 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2421</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2421</guid>
+            <pubDate>Wed, 16 Aug 2023 09:04:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.07.16~2023.07.16</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+		                                    <span>2023.09.10~2023.09.10</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/8926db2e-489a-4e15-92a4-80b028e5f95f" length="0" type="image//feah/temp/2023/202308/8926db2e-489a-4e15-92a4-80b028e5f95f"/>
         </item>
         <item>
             <title><![CDATA[상상라이브연습실 <부산락킹루키쇼> (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -221,7 +230,7 @@
             <pubDate>Wed, 19 Jul 2023 03:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.08.13~2023.08.13</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202307/cd61bed1-32d7-465e-9e61-253558f45015" length="0" type="image//feah/temp/2023/202307/cd61bed1-32d7-465e-9e61-253558f45015"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[summer chamsom trip - Seoul (상상마당 ─ 공연 ─ 홍대)]]></title>
@@ -356,15 +365,6 @@
             <pubDate>Wed, 19 Apr 2023 03:07:03 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.05.06~2023.05.06</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[PAIR PLAY : Vol.4 크리스피x튜즈데이비치클럽 (상상마당 ─ 공연 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2339</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2339</guid>
-            <pubDate>Wed, 19 Apr 2023 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.05.05~2023.05.05</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
