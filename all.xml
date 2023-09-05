@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 10:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 11:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -917,7 +917,7 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/5b63d544-d310-427c-9370-a7a1eb9258f6" length="0" type="image//feah/temp/2023/202309/5b63d544-d310-427c-9370-a7a1eb9258f6"/>
         </item>
         <item>
-            <title><![CDATA[Colors of Wind (상상마당 ─ 전시)]]></title>
+            <title><![CDATA[Colors of The Wind (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2432</link>
             <guid>https://www.sangsangmadang.com/display/detail/2432</guid>
             <pubDate>Tue, 05 Sep 2023 06:11:27 GMT</pubDate>
