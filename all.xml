@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/a93b6d9d-fd74-4972-a5f1-34daa67d5320" length="0" type="image//feah/temp/2023/202309/a93b6d9d-fd74-4972-a5f1-34daa67d5320"/>
         </item>
         <item>
+            <title><![CDATA[YOLO온나 - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2438</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2438</guid>
+            <pubDate>Thu, 14 Sep 2023 05:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.10.07~2023.10.07</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/19319aa6-590b-4d1f-ad80-fc7f25f5fc9d" length="0" type="image//feah/temp/2023/202309/19319aa6-590b-4d1f-ad80-fc7f25f5fc9d"/>
+        </item>
+        <item>
             <title><![CDATA[최언서 EP 발매 기념 단독 콘서트 - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2431</link>
             <guid>https://www.sangsangmadang.com/show/detail/2431</guid>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 17 Aug 2023 06:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span>야외공연장</span>
 		                                    <span>2023.09.15~2023.09.16</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/5e5186dc-b14a-4c4d-8b79-a946f1fc9621" length="0" type="image//feah/temp/2023/202309/5e5186dc-b14a-4c4d-8b79-a946f1fc9621"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[K樂 : Born To 本 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -175,15 +184,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/2417</guid>
             <pubDate>Thu, 10 Aug 2023 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[<span>야외공연장</span>
-		                                    <span>2023.08.19~2023.08.19</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들X불고기디스코 흥 (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2411</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2411</guid>
-            <pubDate>Thu, 03 Aug 2023 09:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.08.19~2023.08.19</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
