@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 06:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 07:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -908,6 +908,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[상상의 눈으로 세상을 보다 (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2440</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2440</guid>
+            <pubDate>Mon, 18 Sep 2023 07:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>갤러리</span> 
+											<span>2023.09.22~2023.10.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/72e3d84a-5f6d-453f-8c8e-c231db7d0a61" length="0" type="image//feah/temp/2023/202309/72e3d84a-5f6d-453f-8c8e-c231db7d0a61"/>
+        </item>
+        <item>
             <title><![CDATA[KT&G 해양생태계 보호 프로젝트 환경전시회 - 바다의 바람 (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2434</link>
             <guid>https://www.sangsangmadang.com/display/detail/2434</guid>
@@ -941,7 +950,7 @@
             <pubDate>Thu, 10 Aug 2023 04:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 춘천 아트센터</span> 
 											<span>2023.08.26~2023.10.22</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/7b1794c8-19f6-4297-9d4f-17839df4680a" length="0" type="image//feah/temp/2023/202308/7b1794c8-19f6-4297-9d4f-17839df4680a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[PPP : Pearys Do Dream (상상마당 ─ 전시)]]></title>
@@ -1079,13 +1088,13 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[지구에 커튼을 쳐 줄게 (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2356</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2356</guid>
-            <pubDate>Thu, 04 May 2023 09:10:43 GMT</pubDate>
+            <title><![CDATA[상상의 눈으로 세상을 보다 (상상마당 ─ 전시 ─ 홍대)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2440</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2440</guid>
+            <pubDate>Mon, 18 Sep 2023 07:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2023.05.03~2023.06.18</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+											<span>2023.09.22~2023.10.08</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/72e3d84a-5f6d-453f-8c8e-c231db7d0a61" length="0" type="image//feah/temp/2023/202309/72e3d84a-5f6d-453f-8c8e-c231db7d0a61"/>
         </item>
         <item>
             <title><![CDATA[KT&G 한-인니 CSR 아카이브: 구름이 지나온 길을 따라서 (상상마당 ─ 전시 ─ 홍대)]]></title>
@@ -1121,7 +1130,7 @@
             <pubDate>Mon, 21 Aug 2023 03:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>5층 갤러리</span> 
 											<span>2023.08.16~2023.08.31</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/447f77a9-1a2c-4dba-94ec-2e56379e8ae2" length="0" type="image//feah/temp/2023/202308/447f77a9-1a2c-4dba-94ec-2e56379e8ae2"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제23회 서울국제대안영상예술페스티벌 뉴미디어 부문 <골짜기> (상상마당 ─ 전시 ─ 홍대)]]></title>
@@ -1256,15 +1265,6 @@
             <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2022.07.09~2022.08.23</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<2022 플리그라운드 FLEA:GROUND> (상상마당 ─ 전시 ─ 홍대)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2102</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2102</guid>
-            <pubDate>Fri, 20 Jan 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2022.06.11~2022.06.26</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
