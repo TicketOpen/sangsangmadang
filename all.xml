@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 00:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,6 +17,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/acc1824d-c265-42cf-866e-6e92d8ccc17a" length="0" type="image//feah/temp/2023/202309/acc1824d-c265-42cf-866e-6e92d8ccc17a"/>
         </item>
         <item>
+            <title><![CDATA[OFF-Live with 버둥 (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2445</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2445</guid>
+            <pubDate>Wed, 04 Oct 2023 01:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>라이브홀</span>
+		                                    <span>2023.11.03~2023.11.03</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/db2b87fa-d389-4d9a-b275-aadfe4e1d1c2" length="0" type="image//feah/temp/2023/202310/db2b87fa-d389-4d9a-b275-aadfe4e1d1c2"/>
+        </item>
+        <item>
             <title><![CDATA[강수지 90’s Retro Concert (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2439</link>
             <guid>https://www.sangsangmadang.com/show/detail/2439</guid>
@@ -26,13 +35,22 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/e6b590e1-de67-4754-a887-5d01cfb4bd05" length="0" type="image//feah/temp/2023/202309/e6b590e1-de67-4754-a887-5d01cfb4bd05"/>
         </item>
         <item>
+            <title><![CDATA[KT&G 페스티벌 시옷 2023 [동화 : 같이] (상상마당 ─ 공연 ─ 전체)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2444</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2444</guid>
+            <pubDate>Wed, 04 Oct 2023 01:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.10.27~2023.10.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/5da2ef75-9621-414f-b1c8-dbf02f587f75" length="0" type="image//feah/temp/2023/202310/5da2ef75-9621-414f-b1c8-dbf02f587f75"/>
+        </item>
+        <item>
             <title><![CDATA[박소은 2023 전국투어 〈난 말야，이게 좋아〉－춘천 (상상마당 ─ 공연 ─ 전체)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2437</link>
             <guid>https://www.sangsangmadang.com/show/detail/2437</guid>
             <pubDate>Fri, 08 Sep 2023 08:10:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.10.14~2023.10.14</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/11604422-e75e-4794-b224-93408fa5a606" length="0" type="image//feah/temp/2023/202309/11604422-e75e-4794-b224-93408fa5a606"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX 신인류 단독 공연 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -41,7 +59,7 @@
             <pubDate>Fri, 08 Sep 2023 03:04:44 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.10.08~2023.10.08</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/a93b6d9d-fd74-4972-a5f1-34daa67d5320" length="0" type="image//feah/temp/2023/202309/a93b6d9d-fd74-4972-a5f1-34daa67d5320"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[YOLO온나 - 부산 (상상마당 ─ 공연 ─ 전체)]]></title>
@@ -167,24 +185,6 @@
             <pubDate>Wed, 09 Aug 2023 00:36:38 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G상상마당 홍대 라이브홀</span>
 		                                    <span>2023.09.01~2023.09.01</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[summer chamsom trip－Busan (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2410</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2410</guid>
-            <pubDate>Thu, 03 Aug 2023 08:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀</span>
-		                                    <span>2023.08.27~2023.08.27</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAM WALKER #2 : O.O.O (상상마당 ─ 공연 ─ 전체)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2424</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2424</guid>
-            <pubDate>Fri, 18 Aug 2023 06:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span>라이브홀</span>
-		                                    <span>2023.08.26~2023.08.26</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
