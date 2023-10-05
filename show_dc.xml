@@ -4,9 +4,18 @@
         <title>상상마당 ─ 공연 ─ 대치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 07:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 08:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <장화 신은 고양이 비긴즈 - 플레이 버전>]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2446</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2446</guid>
+            <pubDate>Thu, 05 Oct 2023 08:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트홀</span>
+		                                    <span>2023.12.16~2024.02.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/71c1d7aa-0f93-4e6f-85b7-a6a4f87f02fb" length="0" type="image//feah/temp/2023/202310/71c1d7aa-0f93-4e6f-85b7-a6a4f87f02fb"/>
+        </item>
         <item>
             <title><![CDATA[강수지 90’s Retro Concert]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2439</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 13 Sep 2023 11:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2023.07.06~2023.07.09</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202306/c86d1d30-9290-4dfd-ae51-8c30bfd4a199" length="0" type="image//feah/temp/2023/202306/c86d1d30-9290-4dfd-ae51-8c30bfd4a199"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프 아이 월 유(IF I WERE YOU)〉 리딩 쇼케이스]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Wed, 13 Sep 2023 11:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트홀</span>
 		                                    <span>2022.03.25~2022.03.27</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[안단테 팬미팅]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2020</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2020</guid>
-            <pubDate>Wed, 13 Sep 2023 11:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트홀</span>
-		                                    <span>2022.03.13~2022.03.13</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
