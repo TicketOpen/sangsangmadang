@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.11.05~2023.11.05</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/acc1824d-c265-42cf-866e-6e92d8ccc17a" length="0" type="image//feah/temp/2023/202309/acc1824d-c265-42cf-866e-6e92d8ccc17a"/>
+        </item>
+        <item>
+            <title><![CDATA[off the menu 첫 정규앨범 발매 콘서트〈Every Point of View〉i]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2447</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2447</guid>
+            <pubDate>Fri, 06 Oct 2023 09:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.11.04~2023.11.04</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/a61a8fa7-81a0-499b-be79-769ad60b735c" length="0" type="image//feah/temp/2023/202310/a61a8fa7-81a0-499b-be79-769ad60b735c"/>
         </item>
         <item>
             <title><![CDATA[KT&G 페스티벌 시옷 2023 [동화 : 같이]]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Mon, 04 Sep 2023 04:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span>3F 라이브홀</span>
 		                                    <span>2023.09.17~2023.09.17</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202309/7b200e86-9387-4919-b56c-8f26b28e364a" length="0" type="image//feah/temp/2023/202309/7b200e86-9387-4919-b56c-8f26b28e364a"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[스낵타운 전국투어 <1 MIC 2 MEN> - 부산]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Mon, 15 May 2023 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.06.17~2023.06.17</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily 8 (데일리 에이트)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2372</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2372</guid>
-            <pubDate>Wed, 31 May 2023 02:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3층 라이브홀</span>
-		                                    <span>2023.06.12~2023.06.23</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
