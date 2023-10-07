@@ -4,9 +4,42 @@
         <title>상상마당 ─ 아카데미 ─ 홍대</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 06:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 07:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSMD ALBUM PRODUCING PROJECT : 키라라의 일단 앨범내기]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/2015</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/2015</guid>
+            <pubDate>Sat, 07 Oct 2023 07:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">인재육성</span>
+			                                
+			                            
+										
+										<h4>SSMD ALBUM PRODUCING PROJECT : 키라라의 일단 앨범내기 </h4>
+										<p class="detail">
+											<span>키라라</span>
+											<span>1기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.10.06~2023.11.06</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.11.20~2024.04.01<br>
+													(매주 월, 
+													
+														19:00~22:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/bd7b69e3-5942-4b8a-83ac-b03560eec29c" length="0" type="image//feah/temp/2023/202310/bd7b69e3-5942-4b8a-83ac-b03560eec29c"/>
+        </item>
         <item>
             <title><![CDATA[[1DAY] 엔터 홍보 마케터, 무슨 일 해요?]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/2014</link>
@@ -137,7 +170,7 @@
 												</dd>
 											</dl>
 										</div>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2022/202210/58b96662-21bb-4c07-b031-6b5dc11a49e7" length="0" type="image//feah/temp/2022/202210/58b96662-21bb-4c07-b031-6b5dc11a49e7"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[스토리텔링 워크숍, 시나리오 입문 과정]]></title>
@@ -627,39 +660,6 @@
 													( 월, 
 													
 														19:00~21:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[[1DAY] 펼치면 열리는 아트 북의 세계]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1986</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1986</guid>
-            <pubDate>Wed, 16 Aug 2023 03:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
-			                                
-			                            
-										
-										<h4>[1DAY] 펼치면 열리는 아트 북의 세계 </h4>
-										<p class="detail">
-											<span>아카데미 강사</span>
-											<span>3기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.08.16~2023.09.20</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.09.23~2023.09.23<br>
-													( 토, 
-													
-														11:00~13:00 
 													
 													 )
 												</dd>
