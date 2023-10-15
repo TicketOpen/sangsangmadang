@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 07:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 08:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[리스토RE (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2459</link>
             <guid>https://www.sangsangmadang.com/show/detail/2459</guid>
-            <pubDate>Sun, 15 Oct 2023 07:04:38 GMT</pubDate>
+            <pubDate>Sun, 15 Oct 2023 07:03:56 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.10.28~2023.10.28</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/00942aad-206b-4e7f-9443-5b82ebf2b594" length="0" type="image//feah/temp/2023/202310/00942aad-206b-4e7f-9443-5b82ebf2b594"/>
