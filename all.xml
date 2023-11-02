@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[12th VANILASKY BAND CONCERT (상상마당 ─ 공연 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2474</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2474</guid>
+            <pubDate>Thu, 02 Nov 2023 08:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span>사운드홀</span>
+		                                    <span>2023.11.26~2023.11.26</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/954cd564-f35e-4294-a26a-1392ac87a8dd" length="0" type="image//feah/temp/2023/202311/954cd564-f35e-4294-a26a-1392ac87a8dd"/>
+        </item>
+        <item>
             <title><![CDATA[SSHOWBOX 초승 단독 공연 (상상마당 ─ 공연 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2467</link>
             <guid>https://www.sangsangmadang.com/show/detail/2467</guid>
@@ -401,7 +410,7 @@
             <pubDate>Wed, 25 Oct 2023 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.11.02~2023.11.02</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/be6b2cdd-5e07-443c-b72f-b7dd887315de" length="0" type="image//feah/temp/2023/202310/be6b2cdd-5e07-443c-b72f-b7dd887315de"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[리스토RE (상상마당 ─ 공연 ─ 춘천)]]></title>
@@ -536,15 +545,6 @@
             <pubDate>Fri, 19 May 2023 02:00:47 GMT</pubDate>
             <content:encoded><![CDATA[<span>사운드홀</span>
 		                                    <span>2023.07.08~2023.07.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[아이보리코스트 콘서트 “아이보리코스트 in District 46” (상상마당 ─ 공연 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2378</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2378</guid>
-            <pubDate>Wed, 14 Jun 2023 05:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>사운드홀</span>
-		                                    <span>2023.06.17~2023.06.17</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
