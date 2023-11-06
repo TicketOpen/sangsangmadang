@@ -4,7 +4,7 @@
         <title>상상마당 ─ 공연 ─ 부산</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 00:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 01:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,8 +13,17 @@
             <guid>https://www.sangsangmadang.com/show/detail/2473</guid>
             <pubDate>Wed, 01 Nov 2023 02:23:00 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
-		                                    <span>2023.12.02~2024.01.07</span>]]></content:encoded>
+		                                    <span>2023.12.02~2023.12.03</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/9971b202-1b71-4917-ad08-624d9ea122cc" length="0" type="image//feah/temp/2023/202311/9971b202-1b71-4917-ad08-624d9ea122cc"/>
+        </item>
+        <item>
+            <title><![CDATA[석지민트리오 첫 번째 단독 공연 PORTARIT]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2481</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2481</guid>
+            <pubDate>Mon, 06 Nov 2023 01:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3층 라이브홀</span>
+		                                    <span>2023.11.25~2023.11.25</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/4fd05941-02f0-4e1e-89d0-d5f12174354e" length="0" type="image//feah/temp/2023/202311/4fd05941-02f0-4e1e-89d0-d5f12174354e"/>
         </item>
         <item>
             <title><![CDATA[박소은 2023 전국투어 <난 말야,이게 좋아>－부산]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Thu, 26 Oct 2023 08:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 3F 라이브홀</span>
 		                                    <span>2023.11.03~2023.11.03</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/1fe77e63-8637-47bb-8988-d5ccce7469b6" length="0" type="image//feah/temp/2023/202310/1fe77e63-8637-47bb-8988-d5ccce7469b6"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[KT&G 페스티벌 시옷 2023 [동화 : 같이]]]></title>
@@ -176,15 +185,6 @@
             <pubDate>Tue, 20 Jun 2023 06:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span>3층 라이브홀</span>
 		                                    <span>2023.07.15~2023.07.15</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[PEPPERTONES 2023 CLUB TOUR - 부산]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/2377</link>
-            <guid>https://www.sangsangmadang.com/show/detail/2377</guid>
-            <pubDate>Tue, 13 Jun 2023 10:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3F 라이브홀</span>
-		                                    <span>2023.07.08~2023.07.08</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
