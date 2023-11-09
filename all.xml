@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 05:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 06:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,7 +191,7 @@
             <title><![CDATA[OFF-Live with 9(송재경) (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2485</link>
             <guid>https://www.sangsangmadang.com/show/detail/2485</guid>
-            <pubDate>Thu, 09 Nov 2023 05:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Nov 2023 05:04:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.11.26~2023.11.26</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/bdd290af-8877-472f-90ea-a028baadd521" length="0" type="image//feah/temp/2023/202311/bdd290af-8877-472f-90ea-a028baadd521"/>
@@ -200,7 +200,7 @@
             <title><![CDATA[이번 정류장은 - EP.1김준서 (상상마당 ─ 공연 ─ 홍대)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2486</link>
             <guid>https://www.sangsangmadang.com/show/detail/2486</guid>
-            <pubDate>Thu, 09 Nov 2023 05:05:19 GMT</pubDate>
+            <pubDate>Thu, 09 Nov 2023 05:04:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>라이브홀</span>
 		                                    <span>2023.11.19~2023.11.19</span>]]></content:encoded>
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/2e22bc39-f3d2-49c4-b10e-c6ec0d1b8eeb" length="0" type="image//feah/temp/2023/202311/2e22bc39-f3d2-49c4-b10e-c6ec0d1b8eeb"/>
