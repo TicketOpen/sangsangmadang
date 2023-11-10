@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 05:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 06:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -908,6 +908,24 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[김준희 개인전 <빚다, 잇다.> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2488</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2488</guid>
+            <pubDate>Fri, 10 Nov 2023 06:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 2</span> 
+											<span>2023.11.25~2023.12.07</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/ee47a3c1-6738-4f0a-b508-b070429d30b1" length="0" type="image//feah/temp/2023/202311/ee47a3c1-6738-4f0a-b508-b070429d30b1"/>
+        </item>
+        <item>
+            <title><![CDATA[신리라 개인전 <장면들> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2487</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2487</guid>
+            <pubDate>Fri, 10 Nov 2023 06:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
+											<span>2023.11.25~2023.12.07</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672" length="0" type="image//feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672"/>
+        </item>
+        <item>
             <title><![CDATA[현상인화실 포트폴리오반 성과물전시 <Viewfinder> (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2483</link>
             <guid>https://www.sangsangmadang.com/display/detail/2483</guid>
@@ -932,7 +950,7 @@
             <pubDate>Fri, 03 Nov 2023 08:11:50 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1, 2</span> 
 											<span>2023.11.03~2023.11.14</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/21405ba4-9005-499d-ac1c-6c2581aa1c9f" length="0" type="image//feah/temp/2023/202311/21405ba4-9005-499d-ac1c-6c2581aa1c9f"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Nostalgia : city landscape (상상마당 ─ 전시)]]></title>
@@ -941,7 +959,7 @@
             <pubDate>Tue, 24 Oct 2023 09:07:35 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2023.10.30~2023.11.24</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/81bf6b18-cb90-4ac5-9e1b-3400e93301de" length="0" type="image//feah/temp/2023/202310/81bf6b18-cb90-4ac5-9e1b-3400e93301de"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제7회 부산웹툰페스티벌 &lsquo;부탁해, 타임머신&rsquo; (상상마당 ─ 전시)]]></title>
@@ -1067,24 +1085,6 @@
             <pubDate>Wed, 02 Aug 2023 10:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2023.08.07~2023.09.01</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[마혜련 개인전 <거듭, 거듭, 거듭> (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2403</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2403</guid>
-            <pubDate>Thu, 13 Jul 2023 04:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
-											<span>2023.07.19~2023.07.23</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Individuality : 개성 (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2392</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2392</guid>
-            <pubDate>Mon, 03 Jul 2023 10:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2023.07.10~2023.08.04</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -1268,6 +1268,24 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[김준희 개인전 <빚다, 잇다.> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2488</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2488</guid>
+            <pubDate>Fri, 10 Nov 2023 06:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 2</span> 
+											<span>2023.11.25~2023.12.07</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/ee47a3c1-6738-4f0a-b508-b070429d30b1" length="0" type="image//feah/temp/2023/202311/ee47a3c1-6738-4f0a-b508-b070429d30b1"/>
+        </item>
+        <item>
+            <title><![CDATA[신리라 개인전 <장면들> (상상마당 ─ 전시 ─ 춘천)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2487</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2487</guid>
+            <pubDate>Fri, 10 Nov 2023 06:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span>아트갤러리 1</span> 
+											<span>2023.11.25~2023.12.07</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672" length="0" type="image//feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672"/>
+        </item>
+        <item>
             <title><![CDATA[제6회 <Over the Rainbow> (상상마당 ─ 전시 ─ 춘천)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2476</link>
             <guid>https://www.sangsangmadang.com/display/detail/2476</guid>
@@ -1292,7 +1310,7 @@
             <pubDate>Thu, 13 Jul 2023 04:12:44 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 1</span> 
 											<span>2023.07.19~2023.07.23</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202307/418afebd-248d-47b1-9ef1-1d1840a9475c" length="0" type="image//feah/temp/2023/202307/418afebd-248d-47b1-9ef1-1d1840a9475c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김민철 개인전 <GRID> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1301,7 +1319,7 @@
             <pubDate>Fri, 23 Jun 2023 06:13:14 GMT</pubDate>
             <content:encoded><![CDATA[<span>아트갤러리 2</span> 
 											<span>2023.07.01~2023.07.13</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202306/99473848-3abe-4812-82cd-f163b759c37e" length="0" type="image//feah/temp/2023/202306/99473848-3abe-4812-82cd-f163b759c37e"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[김민 개인전 <감각과 상념 : 共在> (상상마당 ─ 전시 ─ 춘천)]]></title>
@@ -1427,24 +1445,6 @@
             <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span>잔디마당</span> 
 											<span>2022.09.20~2022.10.21</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[<ORIGINAL DEMO ver 2.1.1> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2141</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2141</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리</span> 
-											<span>2022.08.13~2022.10.08</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[한선주 개인전 <Dearest Yoricke : 친애하는 요릭에게> (상상마당 ─ 전시 ─ 춘천)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2120</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2120</guid>
-            <pubDate>Fri, 20 Jan 2023 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span>아트갤러리</span> 
-											<span>2022.07.20~2022.07.31</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -2138,72 +2138,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[토이카메라로 찍는 흑백사진 원데이 클래스 - 10/28 (토), 29 (일) (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/2010</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/2010</guid>
-            <pubDate>Mon, 25 Sep 2023 02:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
-			                                
-			                            
-										
-										<h4>토이카메라로 찍는 흑백사진 원데이 클래스 - 10/28 (토), 29 (일)</h4>
-										<p class="detail">
-											<span>현상인화실 PD</span>
-											<span>28기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.10.04~2023.10.25</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.10.28~2023.10.29<br>
-													( 토,일, 
-													
-														14:00~17:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[내 생애 가장 아름다운 책, 그리고 디자인 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/2003</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/2003</guid>
-            <pubDate>Fri, 15 Sep 2023 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
-			                                
-			                            
-										
-										<h4>내 생애 가장 아름다운 책, 그리고 디자인</h4>
-										<p class="detail">
-											<span>한기현</span>
-											<span>19기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.09.15~2023.10.27</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.10.28~2023.12.16<br>
-													(매주 토, 
-													
-														10:00~12:30 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[마음대로 읽고 아무렇게나 쓰기 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/2005</link>
             <guid>https://www.sangsangmadang.com/lec/detail/2005</guid>
@@ -2237,6 +2171,39 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[토이카메라로 찍는 흑백사진 원데이 클래스 - 10/28 (토), 29 (일) (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/2010</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/2010</guid>
+            <pubDate>Mon, 25 Sep 2023 02:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">SAC(사진/미술이론)</span>
+			                                
+			                            
+										
+										<h4>토이카메라로 찍는 흑백사진 원데이 클래스 - 10/28 (토), 29 (일)</h4>
+										<p class="detail">
+											<span>현상인화실 PD</span>
+											<span>28기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.10.04~2023.10.25</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.10.28~2023.10.29<br>
+													( 토,일, 
+													
+														14:00~17:30 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[내 문장은 어디서부터 고쳐야 할까 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/2007</link>
             <guid>https://www.sangsangmadang.com/lec/detail/2007</guid>
@@ -2262,6 +2229,39 @@
 													(매주 토, 
 													
 														14:00~16:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[내 생애 가장 아름다운 책, 그리고 디자인 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/2003</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/2003</guid>
+            <pubDate>Fri, 15 Sep 2023 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">디자인/일러스트</span>
+			                                
+			                            
+										
+										<h4>내 생애 가장 아름다운 책, 그리고 디자인</h4>
+										<p class="detail">
+											<span>한기현</span>
+											<span>19기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.09.15~2023.10.27</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.10.28~2023.12.16<br>
+													(매주 토, 
+													
+														10:00~12:30 
 													
 													 )
 												</dd>
@@ -2402,39 +2402,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[나의 첫 그림책 드로잉 (상상마당 ─ 아카데미)]]></title>
-            <link>https://www.sangsangmadang.com/lec/detail/1992</link>
-            <guid>https://www.sangsangmadang.com/lec/detail/1992</guid>
-            <pubDate>Tue, 29 Aug 2023 08:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
-			                                
-			                            
-										
-										<h4>나의 첫 그림책 드로잉</h4>
-										<p class="detail">
-											<span>김종민</span>
-											<span>8기</span>
-										</p>
-										<div class="dateinfo">
-											<dl class="lr_list1">
-												<dt>접수</dt>
-												<dd>2023.08.29~2023.10.15</dd>
-											</dl>
-											<dl class="lr_list1">
-												<dt>강의</dt>
-												<dd>
-													2023.10.18~2023.12.06<br>
-													(매주 수, 
-													
-														19:00~22:00 
-													
-													 )
-												</dd>
-											</dl>
-										</div>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[[1DAY] 피슈의 프로듀싱 레시피 (상상마당 ─ 아카데미)]]></title>
             <link>https://www.sangsangmadang.com/lec/detail/2017</link>
             <guid>https://www.sangsangmadang.com/lec/detail/2017</guid>
@@ -2458,6 +2425,39 @@
 												<dd>
 													2023.10.18~2023.10.18<br>
 													( 수, 
+													
+														19:00~22:00 
+													
+													 )
+												</dd>
+											</dl>
+										</div>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 첫 그림책 드로잉 (상상마당 ─ 아카데미)]]></title>
+            <link>https://www.sangsangmadang.com/lec/detail/1992</link>
+            <guid>https://www.sangsangmadang.com/lec/detail/1992</guid>
+            <pubDate>Tue, 29 Aug 2023 08:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="icon_tag">창작/기획</span>
+			                                
+			                            
+										
+										<h4>나의 첫 그림책 드로잉</h4>
+										<p class="detail">
+											<span>김종민</span>
+											<span>8기</span>
+										</p>
+										<div class="dateinfo">
+											<dl class="lr_list1">
+												<dt>접수</dt>
+												<dd>2023.08.29~2023.10.15</dd>
+											</dl>
+											<dl class="lr_list1">
+												<dt>강의</dt>
+												<dd>
+													2023.10.18~2023.12.06<br>
+													(매주 수, 
 													
 														19:00~22:00 
 													
