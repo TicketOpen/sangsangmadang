@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 00:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 01:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -926,6 +926,15 @@
             <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672" length="0" type="image//feah/temp/2023/202311/9c67a699-13e3-4d24-8488-406af63f1672"/>
         </item>
         <item>
+            <title><![CDATA[제6회 <오버 더 레인보우> (상상마당 ─ 전시)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2492</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2492</guid>
+            <pubDate>Wed, 15 Nov 2023 01:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5층</span> 
+											<span>2023.11.18~2023.11.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/0ec4a3e0-d6e3-43ef-a962-41c537d96af8" length="0" type="image//feah/temp/2023/202311/0ec4a3e0-d6e3-43ef-a962-41c537d96af8"/>
+        </item>
+        <item>
             <title><![CDATA[현상인화실 포트폴리오반 성과물전시 <Viewfinder> (상상마당 ─ 전시)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2483</link>
             <guid>https://www.sangsangmadang.com/display/detail/2483</guid>
@@ -941,7 +950,7 @@
             <pubDate>Tue, 31 Oct 2023 02:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2023.11.10~2024.01.21</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202310/08ca2a28-15e8-462a-a57d-ef65a47bb3b7" length="0" type="image//feah/temp/2023/202310/08ca2a28-15e8-462a-a57d-ef65a47bb3b7"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[제6회 <Over the Rainbow> (상상마당 ─ 전시)]]></title>
@@ -1076,15 +1085,6 @@
             <pubDate>Thu, 10 Aug 2023 08:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<span>4층 갤러리</span> 
 											<span>2023.08.10~2023.08.22</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[BOOK DIVER (상상마당 ─ 전시)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2408</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2408</guid>
-            <pubDate>Wed, 02 Aug 2023 10:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span>갤러리</span> 
-											<span>2023.08.07~2023.09.01</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -1628,6 +1628,15 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[제6회 <오버 더 레인보우> (상상마당 ─ 전시 ─ 부산)]]></title>
+            <link>https://www.sangsangmadang.com/display/detail/2492</link>
+            <guid>https://www.sangsangmadang.com/display/detail/2492</guid>
+            <pubDate>Wed, 15 Nov 2023 01:52:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span>KT&amp;G 상상마당 부산 갤러리 5층</span> 
+											<span>2023.11.18~2023.11.29</span>]]></content:encoded>
+            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202311/0ec4a3e0-d6e3-43ef-a962-41c537d96af8" length="0" type="image//feah/temp/2023/202311/0ec4a3e0-d6e3-43ef-a962-41c537d96af8"/>
+        </item>
+        <item>
             <title><![CDATA[현상인화실 포트폴리오반 성과물전시 <Viewfinder> (상상마당 ─ 전시 ─ 부산)]]></title>
             <link>https://www.sangsangmadang.com/display/detail/2483</link>
             <guid>https://www.sangsangmadang.com/display/detail/2483</guid>
@@ -1661,7 +1670,7 @@
             <pubDate>Wed, 12 Apr 2023 02:05:27 GMT</pubDate>
             <content:encoded><![CDATA[<span>갤러리</span> 
 											<span>2023.05.27~2023.10.08</span>]]></content:encoded>
-            <enclosure url="https://www.sangsangmadang.com/feah/temp/2023/202308/fc068923-81fe-4906-9374-89f5fadc4d6c" length="0" type="image//feah/temp/2023/202308/fc068923-81fe-4906-9374-89f5fadc4d6c"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[상상사계 봄 <Spring Fever : 춘곤증> (상상마당 ─ 전시 ─ 부산)]]></title>
@@ -1796,15 +1805,6 @@
             <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span>1F 플레잉룸</span> 
 											<span>2022.09.08~2022.11.20</span>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[상상사계 가을 <Love Letter> (상상마당 ─ 전시 ─ 부산)]]></title>
-            <link>https://www.sangsangmadang.com/display/detail/2160</link>
-            <guid>https://www.sangsangmadang.com/display/detail/2160</guid>
-            <pubDate>Fri, 20 Jan 2023 06:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1F 라운지</span> 
-											<span>2022.09.02~2022.11.20</span>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
