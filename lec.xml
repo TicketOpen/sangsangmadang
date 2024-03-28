@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.sangsangmadang.com/lec/ALL</id>
-    <title>상상마당 ─ 아카데미</title>
-    <updated>2024-03-28T12:13:05.901Z</updated>
+    <id>https://www.sangsangmadang.com/lec/ALL?selSpace=HD</id>
+    <title>상상마당 ─ 아카데미 ─ 홍대</title>
+    <updated>2024-03-28T13:08:49.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/lec/favicon.ico</icon>
 </feed>
